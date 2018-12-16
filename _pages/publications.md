@@ -1,7 +1,7 @@
 ---
-layout: archive
+layout:
 title: "Publications"
-permalink: /publications/
+permalink: 
 redirect_from:
   - /publications/
   - /publications.html
