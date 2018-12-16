@@ -16,6 +16,6 @@ author_profile: true
 
 <table>
 {% for post in site.publications reversed %}
-  {% include publication.html %}
+  {% include archive-single.html %}
 {% endfor %}
 <table>
