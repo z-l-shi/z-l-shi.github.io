@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 
-　　谭明奎博士，现担任华南理工大学软件学院教授、博导、计算中心主任，国家中部组青年千人计划获得者，广东省“珠江人才团队”核心成员。谭明奎教授分别于2006年和2009年在湖南大学获得环境工程学士和模式工程与智能系统硕士学位，于2014年在新加坡南洋理工大学获得计算机科学博士学位，并于2016年在澳大利亚阿德莱德大学完成计算机视觉博士后研究。目前主要研究方向为机器学习算法与理论、计算机视觉，已在相关方向上发表近50篇高水平学术论文。 
+　　Mingkui Tan is currently a professor of [South China University of Technology], and is a member of the National Central Group Youth 1000 Program, a core member of the “Pearl River Talent Team” in Guangdong Province. Professor Mingkui Tan received a PhD in Computer Science from Nanyang Technological University in Singapore in 2014 and complete post-doctoral research in computer vision in University of Adelaide in Australia in 2016. At present, the main research interests are machine learning algorithms and theories, computer vision, and He has published nearly 50 high-level academic papers in relevant directions.
