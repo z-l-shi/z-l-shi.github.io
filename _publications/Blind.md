@@ -2,7 +2,7 @@
 title: "Blind image deconvolution by automatic gradient activation"
 collection: publications
 permalink: /publication/masktrack
-date: 2016
+date: 2016-01-01
 venue: "CVPR"
 city: "GuangZhou"
 state: ""
