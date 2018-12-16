@@ -14,6 +14,6 @@ uri:
 arxiv: https://pdfs.semanticscholar.org/9dc7/b21645c43b7c3c0ee06176b5edca74ab8441.pdf
 project: 
 source:
-poster: masktrack-poster.pdf
+poster:
 data:
 ---

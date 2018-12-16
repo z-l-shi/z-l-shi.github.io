@@ -14,6 +14,6 @@ uri:
 arxiv: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.443.2817&rep=rep1&type=pdf
 project: 
 source:
-poster: masktrack-poster.pdf
+poster:
 data:
 ---

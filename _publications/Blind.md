@@ -14,6 +14,6 @@ uri:
 arxiv: https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gong_Blind_Image_Deconvolution_CVPR_2016_paper.pdf
 project: 
 source:
-poster: masktrack-poster.pdf
+poster: 
 data:
 ---

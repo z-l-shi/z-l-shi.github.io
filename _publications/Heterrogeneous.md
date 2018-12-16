@@ -14,6 +14,6 @@ uri:
 arxiv: http://proceedings.mlr.press/v33/zhou14.pdf
 project: 
 source:
-poster: masktrack-poster.pdf
+poster:
 data:
 ---

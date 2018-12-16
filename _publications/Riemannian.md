@@ -14,6 +14,6 @@ uri:
 arxiv: http://proceedings.mlr.press/v32/tan14.pdf
 project: 
 source:
-poster: masktrack-poster.pdf
+poster: 
 data:
 ---

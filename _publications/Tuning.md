@@ -14,6 +14,6 @@ uri:
 arxiv: http://www.nlpr.ia.ac.cn/2010papers/kz/gk4.pdf
 project: 
 source:
-poster: masktrack-poster.pdf
+poster: 
 data:
 ---

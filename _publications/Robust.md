@@ -14,6 +14,6 @@ uri:
 arxiv: https://ieeexplore.ieee.org/abstract/document/7283631
 project: 
 source:
-poster: masktrack-poster.pdf
+poster: 
 data:
 ---

@@ -14,6 +14,6 @@ uri:
 arxiv: https://icml.cc/Conferences/2010/papers/227.pdf
 project: 
 source:
-poster: masktrack-poster.pdf
+poster: 
 data:
 ---
