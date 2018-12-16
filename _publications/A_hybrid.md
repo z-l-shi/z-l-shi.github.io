@@ -1,7 +1,7 @@
 ---
 title: "A hybrid PSO-BFGS strategy for global optimization of multimodal functions"
 collection: publications
-permalink: /publication/masktrack
+permalink: /publication/A_hybrid
 date: 2011-08-01
 venue: "IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics)"
 city: "GuangZhou"

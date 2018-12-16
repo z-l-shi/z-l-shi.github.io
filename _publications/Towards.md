@@ -1,7 +1,7 @@
 ---
 title: "Towards ultrahigh dimensional feature selection for big data"
 collection: publications
-permalink: /publication/masktrack
+permalink: /publication/Towards
 date: 2014-01-01
 venue: "The Journal of Machine Learning Research"
 city: "GuangZhou"

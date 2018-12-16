@@ -1,7 +1,7 @@
 ---
 title: "Robust kernel low-rank representation"
 collection: publications
-permalink: /publication/masktrack
+permalink: /publication/Robust
 date: 2016-11-01
 venue: "IEEE transactions on neural networks and learning systems"
 city: "GuangZhou"

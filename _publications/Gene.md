@@ -1,7 +1,7 @@
 ---
 title: "Gene selection using hybrid particle swarm optimization and genetic algorithm"
 collection: publications
-permalink: /publication/masktrack
+permalink: /publication/Gene
 date: 2008-09-01
 venue: "Soft Computing"
 city: "GuangZhou"

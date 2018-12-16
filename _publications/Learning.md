@@ -1,7 +1,7 @@
 ---
 title: "Learning Sparse SVM for Feature Selection on Very High Dimensional Datasets"
 collection: publications
-permalink: /publication/masktrack
+permalink: /publication/Learning
 date: 2010-01-01
 venue: "ICML"
 city: "GuangZhou"

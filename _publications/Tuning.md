@@ -1,7 +1,7 @@
 ---
-title: "Tuning SVM parameters by using a hybrid CLPSO¨CBFGS algorithm"
+title: "Tuning SVM parameters by using a hybrid CLPSO-BFGS algorithm"
 collection: publications
-permalink: /publication/masktrack
+permalink: /publication/Tuning
 date: 2010-06-01
 venue: "Neurocomputing"
 city: "GuangZhou"

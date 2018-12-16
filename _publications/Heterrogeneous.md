@@ -1,7 +1,7 @@
 ---
 title: "Heterogeneous domain adaptation for multiple classes"
 collection: publications
-permalink: /publication/masktrack
+permalink: /publication/Heterrogeneous
 date: 2014-04-02
 venue: "Artificial Intelligence and Statistics"
 city: "GuangZhou"

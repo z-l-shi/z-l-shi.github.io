@@ -1,7 +1,7 @@
 ---
 title: "Weighted block-sparse low rank representation for face clustering in videos"
 collection: publications
-permalink: /publication/masktrack
+permalink: /publication/Weighted
 date: 2014-09-06
 venue: "ECCV"
 city: "GuangZhou"
