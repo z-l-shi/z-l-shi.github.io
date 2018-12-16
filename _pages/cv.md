@@ -13,9 +13,9 @@ redirect_from:
 
 Personal data    
 ----------
-* Date of Birth         19 May, 1983
-* Gender                  Male
-* Nationality            People's Republic of China
+* Date of Birth　　　　　　19 May, 1983
+* Gender　　　　　　　　　　Male
+* Nationality　　　　　　　People's Republic of China
 
 ******
 
