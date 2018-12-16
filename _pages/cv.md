@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-=
 
 Personal data    
 ----------
@@ -25,14 +24,14 @@ Education
 
 Work experience
 ----------
-* 2013.9 - 2014.5: Research Assistant
+* 2013.09 - 2014.05: Research Assistant
   * Nanyang Technological University
   * Supervisor: Prof. Ivor Tsang
 
-* 2014.6 - 2016.9: Senior Research Assistant
+* 2014.06 - 2016.09: Senior Research Assistant
   * School of Computer Engineering, The University of Adelaide
 
-* 2016.9 - now: Professor / PhD Tutor
+* 2016.09 - now: Professor / PhD Tutor
   * School of Software Engineering, South China University of Technology
   
 Programming Skills
