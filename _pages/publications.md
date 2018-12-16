@@ -11,7 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
+<table>
 {% for post in site.publications reversed %}
   {% include publication.html %}
 {% endfor %}
-
+</table>

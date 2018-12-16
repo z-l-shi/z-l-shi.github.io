@@ -66,11 +66,11 @@ Teaching
 
 Scholarships&Honors
 ----------
-* 2003¡¡¡¡¡¡¡¡¡¡Impoverished outstanding University Student¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡(Awarded to Top 5% students)
-* 2003£¬2005¡¡¡¡First-class Scholarship of Hunan University¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡(Awarded to Top 1% students) 
-* 2004¡¡¡¡¡¡¡¡¡¡The Second Prize of National scholarship¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡(Awarded to Top 1% students)
-* 2004£¬2005¡¡¡¡Outstanding Student in Academy Morality at Hunan Univ.¡¡¡¡¡¡¡¡  (Awarded to Top 1% students) 
-* 2004£¬2005¡¡¡¡Excellent Students Awards of Hunan University¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡(Awarded to Top 5% students)   
-* 2005¡¡¡¡¡¡¡¡¡¡Scholarship for the Most Outstanding Student in Hunan Province¡¡ (Awarded to Top 1% students)       
-* 2007¡¡¡¡¡¡¡¡¡¡The Most Outstanding Postgraduate Student in Academy¡¡¡¡¡¡¡¡¡¡(Awarded to Top 8% students)
+* 2003¡¡¡¡¡¡¡¡¡¡Impoverished outstanding University Student¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡ (Awarded to Top 5% students)
+* 2003, 2005¡¡¡¡First-class Scholarship of Hunan University¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡(Awarded to Top 1% students) 
+* 2004¡¡¡¡¡¡¡¡¡¡The Second Prize of National scholarship¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡ (Awarded to Top 1% students)
+* 2004, 2005¡¡¡¡Outstanding Student in Academy Morality at Hunan Univ.¡¡¡¡¡¡¡¡  (Awarded to Top 1% students) 
+* 2004, 2005¡¡¡¡Excellent Students Awards of Hunan University¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡(Awarded to Top 5% students)   
+* 2005¡¡¡¡¡¡¡¡¡¡Scholarship for the Most Outstanding Student in Hunan Province¡¡(Awarded to Top 1% students)       
+* 2007¡¡¡¡¡¡¡¡¡¡The Most Outstanding Postgraduate Student in Academy¡¡¡¡¡¡¡¡  (Awarded to Top 8% students)
 * 2010¡¡¡¡¡¡¡¡¡¡ICML travel Scholarship.
