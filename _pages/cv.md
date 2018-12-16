@@ -9,50 +9,52 @@ redirect_from:
 
 {% include base_path %}
 
+=
+
 Personal data    
-======
+----------
 * Date of Birth         19 May, 1983
 * Gender                  Male
 * Nationality            People's Republic of China
 
 Education
-======
+----------
 * B.A. in Environmental Engineering , Hunan University, 2002 - 2006
 * M.E. in Control Science and Engineering, Hunan University, 2006 - 2009
 * Ph.D in Computer Science, Nanyang Technological University, 2009 - 2014
 
 Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+----------
+* 2013.9 - 2014.5: Research Assistant
+  * Nanyang Technological University
+  * Supervisor: Prof. Ivor Tsang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2014.6 - 2016.9: Senior Research Assistant
+  * School of Computer Engineering, The University of Adelaide
+
+* 2016.9 - now: Professor / PhD Tutor
+  * School of Software Engineering, South China University of Technology
   
 Programming Skills
-======
+----------
 * Strong programming ability in C/C++.
 * Familiar with Python programming.
 
 
 Publications
-======
+----------
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Teaching
-======
+----------
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Scholarships&Honors
-======
+----------
 * 2003               Impoverished outstanding University Student                                    (Awarded to Top 5% students)
 * 2003; 2005    First-class Scholarship of Hunan University                                       (Awarded to Top 1% students) 
 * 2004               The Second Prize of National scholarship                                           (Awarded to Top 1% students)
