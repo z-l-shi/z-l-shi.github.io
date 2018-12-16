@@ -10,8 +10,8 @@ thumbnail: "masktrack.png"
 teaser : 
 authors: "Mingkui Tan, Ivor W Tsang, Li Wang, Bart Vandereycken, Sinno Jialin Pan"
 bibtex: Riemannian.txt
-uri: 
-arxiv: http://proceedings.mlr.press/v32/tan14.pdf
+uri: http://proceedings.mlr.press/v32/tan14.pdf
+arxiv: 
 project: 
 source:
 poster: 

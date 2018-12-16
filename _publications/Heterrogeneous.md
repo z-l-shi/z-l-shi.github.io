@@ -10,8 +10,8 @@ thumbnail: "masktrack.png"
 teaser : 
 authors: "Joey Tianyi Zhou, Ivor W Tsang, Sinno Jialin Pan, Mingkui Tan"
 bibtex: Heterrogeneous.txt
-uri: 
-arxiv: http://proceedings.mlr.press/v33/zhou14.pdf
+uri:  http://proceedings.mlr.press/v33/zhou14.pdf
+arxiv:
 project: 
 source:
 poster:

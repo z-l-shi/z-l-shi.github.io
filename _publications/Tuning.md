@@ -10,8 +10,8 @@ thumbnail: "masktrack.png"
 teaser : 
 authors: "Shutao Li, Mingkui Tan"
 bibtex: Tuning.txt
-uri: 
-arxiv: http://www.nlpr.ia.ac.cn/2010papers/kz/gk4.pdf
+uri: http://www.nlpr.ia.ac.cn/2010papers/kz/gk4.pdf
+arxiv: 
 project: 
 source:
 poster: 

@@ -10,8 +10,8 @@ thumbnail: "masktrack.png"
 teaser :
 authors: "Dong Gong, Mingkui Tan, Yanning Zhang, Anton Van den Hengel, Qinfeng Shi"
 bibtex: Blind.txt
-uri: 
-arxiv: https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gong_Blind_Image_Deconvolution_CVPR_2016_paper.pdf
+uri: https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gong_Blind_Image_Deconvolution_CVPR_2016_paper.pdf
+arxiv: 
 project: 
 source:
 poster: 

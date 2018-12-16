@@ -10,8 +10,8 @@ thumbnail: "masktrack.png"
 teaser : 
 authors: "Shutao Li, Mingkui Tan, Ivor W Tsang, James Tin-Yau Kwok"
 bibtex: A_hybrid.txt
-uri: 
-arxiv: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.443.2817&rep=rep1&type=pdf
+uri: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.443.2817&rep=rep1&type=pdf
+arxiv: 
 project: 
 source:
 poster:

@@ -10,8 +10,8 @@ thumbnail: "masktrack.png"
 teaser :
 authors: "Shijie Xiao, Mingkui Tan, Dong Xu, Zhao Yang Dong"
 bibtex: Robust.txt
-uri: 
-arxiv: https://ieeexplore.ieee.org/abstract/document/7283631
+uri: https://ieeexplore.ieee.org/abstract/document/7283631
+arxiv: 
 project: 
 source:
 poster: 

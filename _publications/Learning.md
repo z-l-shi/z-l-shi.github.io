@@ -10,8 +10,8 @@ thumbnail: "masktrack.png"
 teaser :
 authors: "Mingkui Tan, Li Wang, Ivor W Tsang"
 bibtex: Learning.txt
-uri: 
-arxiv: https://icml.cc/Conferences/2010/papers/227.pdf
+uri: https://icml.cc/Conferences/2010/papers/227.pdf
+arxiv: 
 project: 
 source:
 poster: 

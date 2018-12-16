@@ -10,8 +10,8 @@ thumbnail: "masktrack.png"
 teaser : 
 authors: "Mingkui Tan, Ivor W Tsang, Li Wang"
 bibtex: Towards.txt
-uri: 
-arxiv: https://pdfs.semanticscholar.org/8fa3/496599e249e63dde07d7fb7daccb7d50a333.pdf
+uri: https://pdfs.semanticscholar.org/8fa3/496599e249e63dde07d7fb7daccb7d50a333.pdf
+arxiv: 
 project: 
 source:
 poster: 
