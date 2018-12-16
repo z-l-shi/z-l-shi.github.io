@@ -1,12 +1,13 @@
 ﻿---
 permalink: /
-# title: "About me"
-# excerpt: "About me"
+title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 
 *******
 　　Mingkui Tan is currently a professor of [South China University of Technology](https://www.scut.edu.cn/new/), and is a member of the _National Central Group Youth 1000 Program_, a core member of the _“Pearl River Talent Team”_ in Guangdong Province. Professor Mingkui Tan received a PhD in Computer Science from [Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx) in Singapore in 2014 and complete post-doctoral research in computer vision in [The University of Adelaide](https://www.adelaide.edu.au/) in Australia in 2016. At present, the main research interests are machine learning algorithms and theories, computer vision, and He has published nearly 50 high-level academic papers in relevant directions.
