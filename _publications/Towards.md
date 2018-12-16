@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/Towards
 date: 2014-01-01
 venue: "The Journal of Machine Learning Research"
-city: "GuangZhou"
+city: 
 state: ""
 thumbnail: "masktrack.png"
-teaser : masktrack.jpg
+teaser : 
 authors: "Mingkui Tan, Ivor W Tsang, Li Wang"
 bibtex: Towards.txt
 uri: 

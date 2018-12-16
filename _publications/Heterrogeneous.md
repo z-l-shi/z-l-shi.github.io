@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/Heterrogeneous
 date: 2014-04-02
 venue: "Artificial Intelligence and Statistics"
-city: "GuangZhou"
+city: 
 state: ""
 thumbnail: "masktrack.png"
-teaser : masktrack.jpg
+teaser : 
 authors: "Joey Tianyi Zhou, Ivor W Tsang, Sinno Jialin Pan, Mingkui Tan"
 bibtex: Heterrogeneous.txt
 uri: 

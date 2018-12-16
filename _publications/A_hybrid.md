@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/A_hybrid
 date: 2011-08-01
 venue: "IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics)"
-city: "GuangZhou"
+city: 
 state: ""
 thumbnail: "masktrack.png"
-teaser : masktrack.jpg
+teaser : 
 authors: "Shutao Li, Mingkui Tan, Ivor W Tsang, James Tin-Yau Kwok"
 bibtex: A_hybrid.txt
 uri: 

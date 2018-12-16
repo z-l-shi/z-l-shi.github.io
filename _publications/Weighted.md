@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/Weighted
 date: 2014-09-06
 venue: "ECCV"
-city: "GuangZhou"
+city: 
 state: ""
 thumbnail: "masktrack.png"
-teaser : masktrack.jpg
+teaser :
 authors: "Shijie Xiao, Mingkui Tan, Dong Xu"
 bibtex: Weighted.txt
 uri: 

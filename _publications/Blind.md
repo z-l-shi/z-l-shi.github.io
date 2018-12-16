@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/Blind
 date: 2016-01-01
 venue: "CVPR"
-city: "GuangZhou"
+city: 
 state: ""
 thumbnail: "masktrack.png"
-teaser : masktrack.jpg
+teaser :
 authors: "Dong Gong, Mingkui Tan, Yanning Zhang, Anton Van den Hengel, Qinfeng Shi"
 bibtex: Blind.txt
 uri: 

@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/Tuning
 date: 2010-06-01
 venue: "Neurocomputing"
-city: "GuangZhou"
+city:
 state: ""
 thumbnail: "masktrack.png"
-teaser : masktrack.jpg
+teaser : 
 authors: "Shutao Li, Mingkui Tan"
 bibtex: Tuning.txt
 uri: 

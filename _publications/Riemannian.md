@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/Riemannian
 date: 2014-01-27
 venue: "ICML"
-city: "GuangZhou"
+city: 
 state: ""
 thumbnail: "masktrack.png"
-teaser : masktrack.jpg
+teaser : 
 authors: "Mingkui Tan, Ivor W Tsang, Li Wang, Bart Vandereycken, Sinno Jialin Pan"
 bibtex: Riemannian.txt
 uri: 

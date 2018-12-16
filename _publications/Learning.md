@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/Learning
 date: 2010-01-01
 venue: "ICML"
-city: "GuangZhou"
+city: 
 state: ""
 thumbnail: "masktrack.png"
-teaser : masktrack.jpg
+teaser :
 authors: "Mingkui Tan, Li Wang, Ivor W Tsang"
 bibtex: Learning.txt
 uri: 

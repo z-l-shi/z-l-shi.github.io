@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/Gene
 date: 2008-09-01
 venue: "Soft Computing"
-city: "GuangZhou"
+city: 
 state: ""
 thumbnail: "masktrack.png"
-teaser : masktrack.jpg
+teaser : 
 authors: "Shutao Li, Xixian Wu, Mingkui Tan"
 bibtex: Gene.txt
 uri: 
