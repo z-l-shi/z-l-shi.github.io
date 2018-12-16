@@ -1,0 +1,10 @@
+@article{tan2014towards,
+  title={Towards ultrahigh dimensional feature selection for big data},
+  author={Tan, Mingkui and Tsang, Ivor W and Wang, Li},
+  journal={The Journal of Machine Learning Research},
+  volume={15},
+  number={1},
+  pages={1371--1429},
+  year={2014},
+  publisher={JMLR. org}
+}
