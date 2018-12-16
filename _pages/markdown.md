@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-<div align="center" margin-bottom:100px%>
+<div align="center" margin-bottom:100px>
   <img src="{{ "lab_logo.png" | prepend: "/images/" | prepend: base_path }}" class="lab_logo" alt="{{ South China University of Technology Machine Intelligence Laboratory(SMIL)}}" width = "20%">
 </div> 
 
