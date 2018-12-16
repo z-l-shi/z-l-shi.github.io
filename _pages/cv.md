@@ -45,6 +45,8 @@ Programming Skills
 Publications
 ----------
 *******
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<table>
+{% for post in site.publications reversed %}
+  <tr>{% include publication.html %}</tr>
+{% endfor %}
+</table>
