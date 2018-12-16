@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Guangzhou, China"
-  employer         :
+  employer         : "SCUT"
   googlescholar    : "https://scholar.google.com.sg/citations?user=EVsoTGkAAAAJ&hl=en"
   email            : "mingkuitan@scut.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "academicpages"
+  github           : "HaoKun-Li"
   google_plus      :
   keybase          :
   instagram        :
