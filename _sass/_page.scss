@@ -11,7 +11,8 @@
   animation: intro 0.3s both;
   animation-delay: 0.35s;
   // max-width: 1280px;
-  max-width: 100%;
+  max-width: 1280px;
+  height: 100%; 
 
 //   @include breakpoint($x-large) {
 //     max-width: 1024px;
