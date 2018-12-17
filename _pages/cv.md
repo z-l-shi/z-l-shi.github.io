@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Personal data    
+Personal Information
 ----------
 *******
 * Date of Birth　　　　　　19 May, 1983
@@ -23,7 +23,7 @@ Education
 * M.E. in Control Science and Engineering, Hunan University, 2006 - 2009
 * Ph.D in Computer Science, Nanyang Technological University, 2009 - 2014
 
-Work experience
+Work Experience
 ----------
 *******
 * 2013.09 - 2014.05: Research Assistant
