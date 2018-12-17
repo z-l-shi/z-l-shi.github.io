@@ -23,7 +23,7 @@
     {% comment %} <button class="btn btn--inverse">Follow</button> {% endcomment %}
     <ul class="author__urls social-icons">
       {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i class="fa fa-fw fa-envelope-o" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
+        <li><a href="mailto:{{ author.email }}"><i class="fa fa-fw fa-envelope-o" aria-hidden="true"></i> {{ author.email }}</a></li>
       {% endif %}
       {% if author.employer %}
         <li><a href="{{ author.employer_link}}"><i class="fa fa-fw fa-building-o" aria-hidden="true"></i> {{ author.employer }}</a></li>
