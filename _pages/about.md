@@ -21,10 +21,6 @@ Publications
 </table>
 
 <div margin-left:100px margin-bottom:100px>
-  <a href="/publications/"><u>Read more >></u></a>
-</div> 
-
-<div margin-left:100px margin-bottom:100px>
   <a href="/publications/">
     <button class="btn btn--inverse">Read more</button>
   </a>
