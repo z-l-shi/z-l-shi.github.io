@@ -59,13 +59,18 @@
   }
 
   &--readmore {
-    color: #fff !important;
+    display: block;
+    color: $gray !important;
     border: 1px solid $gray !important; /* override*/
-    background-color: $gray;
+    background-color: #fff;
+
+    + .btn--block {
+      margin-left: 0.05em;
+    }
 
     &:hover {
-      color: $gray !important;
-      background-color: #fff;
+      color: #fff !important;
+      background-color: $gray;
     }
   }
 
