@@ -1,6 +1,6 @@
 ---
 title: "Robust kernel low-rank representation"
-collection: publications
+collection: aboutme
 permalink: /publication/Robust
 date: 2016-11-01
 venue: "IEEE transactions on neural networks and learning systems"

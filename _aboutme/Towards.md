@@ -1,6 +1,6 @@
 ---
 title: "Towards ultrahigh dimensional feature selection for big data"
-collection: publications
+collection: aboutme
 permalink: /publication/Towards
 date: 2014-01-01
 venue: "The Journal of Machine Learning Research"

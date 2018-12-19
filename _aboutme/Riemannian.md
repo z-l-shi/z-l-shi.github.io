@@ -1,6 +1,6 @@
 ---
 title: "Riemannian pursuit for big matrix recovery"
-collection: publications
+collection: aboutme
 permalink: /publication/Riemannian
 date: 2014-01-27
 venue: "ICML"
