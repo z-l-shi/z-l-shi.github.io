@@ -58,6 +58,17 @@
     }
   }
 
+  &--readmore {
+    color: #fff !important;
+    border: 1px solid $gray !important; /* override*/
+    background-color: $gray;
+
+    &:hover {
+      color: $gray !important;
+      background-color: #fff;
+    }
+  }
+
   /* light outline */
 
   &--light-outline {
