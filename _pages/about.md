@@ -20,6 +20,6 @@ Publications
 {% endfor %}
 </table>
 
-<a href="/publications/" margin-left: 10px>
+<a style="display:block" style="margin-top:5px;" href="/publications/">
     <button>Read more</button>
 </a>
