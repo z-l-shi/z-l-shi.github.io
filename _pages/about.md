@@ -22,6 +22,6 @@ Publications
 
 <div margin-left:100px margin-bottom:100px>
   <a href="/publications/">
-    <button class="btn btn--readmore">Read more >></button>
+    <button class="btn btn--readmore">Read more ...</button>
   </a>
 </div> 
