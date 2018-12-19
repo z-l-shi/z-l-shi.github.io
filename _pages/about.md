@@ -15,12 +15,12 @@ Publications
 ----------
 *******
 <table>
-{% for post in site.publications reversed %}
+{% for post in site.aboutme reversed %}
   <tr>{% include publication.html %}</tr>
 {% endfor %}
 </table>
 
-<div margin-left:10% margin-bottom:100px>
+<div margin-left:10px margin-bottom:100px>
   <a href="/publications/">
     <button>Read more</button>
   </a>

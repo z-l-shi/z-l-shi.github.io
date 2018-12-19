@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 <table>
-{% for post in site.aboutme reversed %}
+{% for post in site.publications reversed %}
   <tr>{% include publication.html %}</tr>
 {% endfor %}
 </table>
