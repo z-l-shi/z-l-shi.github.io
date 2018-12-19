@@ -14,11 +14,13 @@ redirect_from:
 Publications
 ----------
 *******
-<table>
-{% for post in site.aboutme reversed %}
-  <tr>{% include publication.html %}</tr>
-{% endfor %}
-</table>
+<div>
+  <table>
+  {% for post in site.aboutme reversed %}
+    <tr>{% include publication.html %}</tr>
+  {% endfor %}
+  </table>
+</div>
 
 <div margin-bottom:100px>
   <a href="/publications/">
