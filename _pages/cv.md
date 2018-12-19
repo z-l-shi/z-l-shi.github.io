@@ -41,12 +41,3 @@ Programming Skills
 *******
 * Strong programming ability in C/C++.
 * Familiar with Python programming.
-
-Publications
-----------
-*******
-<table>
-{% for post in site.publications reversed %}
-  <tr>{% include publication.html %}</tr>
-{% endfor %}
-</table>
