@@ -21,7 +21,5 @@ Publications
 </table>
 
 <div margin-left:100px margin-bottom:100px>
-  <a href="/publications/">
-    <button>Read more</button>
-  </a>
+  <a href="/publications/">Read more</a>
 </div> 
