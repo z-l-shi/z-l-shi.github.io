@@ -22,11 +22,6 @@ Publications
 
 <div margin-bottom:100px>
   <a href="/publications/">
-    <button class="btn btn--inverse">Read more ...</button>
-  </a>
-</div> 
-<div margin-bottom:100px>
-  <a href="/publications/">
-    <button class="btn btn--readmore">Read more ...</button>
+    <button class="btn btn--readmore">Read more <font size=5>>></font></button>
   </a>
 </div> 
