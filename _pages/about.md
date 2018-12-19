@@ -20,8 +20,28 @@ Publications
 {% endfor %}
 </table>
 
-<div margin-left:100px margin-bottom:100px>
+<div margin-bottom:100px>
   <a href="/publications/">
-    <button class="btn btn--readmore">Read more ...</button>
+    　<button>Read more ...</button>
+  </a>
+</div> 
+<div margin-bottom:100px>
+  <a href="/publications/">
+    　<button class="btn btn--inverse">Read more ...</button>
+  </a>
+</div> 
+<div margin-bottom:100px>
+  <a href="/publications/">
+    　<button class="btn btn--readmore">Read more ...</button>
+  </a>
+</div> 
+<div margin-bottom:100px>
+  <a href="/publications/">
+    　<button class="btn btn--block">Read more ...</button>
+  </a>
+</div> 
+<div margin-bottom:100px>
+  <a href="/publications/">
+    　<button class="btn btn--info">Read more ...</button>
   </a>
 </div> 
