@@ -36,8 +36,31 @@ Work Experience
 * 2016.09 - now: Professor / PhD Tutor
   * School of Software Engineering, South China University of Technology
 
-Programming Skills
+
+Research Interest
+--------
+********
+* Machine learning 
+  * Machine learning theory
+  * Tensor analysis
+  * Large-scale parallel optimization
+  * Intelligent recommendation system
+
+* Computer vision
+  * Deep learning
+  * Image Identification
+  * Video understanding
+  * Transfer learning
+  * Image stabilization
+
+Research funding
+---------
+********
+* A member of the _National Central Group Youth 1000 Program_
+* Hosted or participated in more than 10 national natural science funds, provincial international cooperation projects and enterprise horizontal projects.
+
+<!-- Programming Skills
 ----------
 *******
 * Strong programming ability in C/C++.
-* Familiar with Python programming.
+* Familiar with Python programming. -->
