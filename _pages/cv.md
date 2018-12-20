@@ -56,7 +56,6 @@ Research Interest
 Research funding
 ---------
 ********
-* A member of the _National Central Group Youth 1000 Program_
 * Hosted or participated in more than 10 national natural science funds, provincial international cooperation projects and enterprise horizontal projects.
 
 <!-- Programming Skills
