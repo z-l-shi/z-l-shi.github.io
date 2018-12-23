@@ -175,10 +175,16 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  conferences:
     output: true
     permalink: /:collection/:path/
-  aboutme:
+  journals:
+    output: true
+    permalink: /:collection/:path/
+  conferences_main:
+    output: true
+    permalink: /:collection/:path/
+  journals_main:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -218,19 +224,37 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _aboutme
+  # _conferences
   - scope:
       path: ""
-      type: aboutme
+      type: conferences
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _journals
   - scope:
       path: ""
-      type: publications
+      type: journals
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _conferences_main
+  - scope:
+      path: ""
+      type: conferences_main
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _journals_main
+  - scope:
+      path: ""
+      type: journals_main
     values:
       layout: single
       author_profile: true

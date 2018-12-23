@@ -1,6 +1,6 @@
 ---
 title: "Weighted block-sparse low rank representation for face clustering in videos"
-collection: aboutme
+collection: conferences
 permalink: /publication/Weighted
 date: 2014-09-06
 venue: "ECCV"
