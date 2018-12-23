@@ -15,7 +15,7 @@ Conferences
 ----------
 <div>
   <table>
-  {% for post in site.Conferences_main reversed %}
+  {% for post in site.conferences_main reversed %}
     <tr>{% include publication.html %}</tr>
   {% endfor %}
   </table>
