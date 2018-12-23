@@ -10,7 +10,7 @@ thumbnail: "LateFusion.png"
 teaser : 
 authors: "X. Dong, Y. Yan, M. Tan, Y. Yang, I. W. Tsang"
 bibtex: LateFusion.txt
-uri: LateFusin.pdf
+uri: LateFusion.pdf
 arxiv: 
 project: 
 source: https://github.com/D-X-Y/HCMF
