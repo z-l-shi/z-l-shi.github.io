@@ -1,0 +1,8 @@
+@misc{zhao2018adaptive,
+    title={Adaptive Cost-sensitive Online Classification},
+    author={Peilin Zhao and Yifan Zhang and Min Wu and Steven C. H. Hoi and Mingkui Tan and Junzhou Huang},
+    year={2018},
+    eprint={1804.02246},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG}
+}

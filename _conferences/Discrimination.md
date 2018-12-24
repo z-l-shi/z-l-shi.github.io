@@ -11,7 +11,7 @@ teaser :
 authors: "Zhuang Zhuangwei, Tan Mingkui, Zhuang Bohan, Liu Jing, Guo Yong, Wu Qingyao, Huang Junzhou, Zhu Jinhui"
 bibtex: Discrimination.txt
 uri: Discrimination.pdf
-arxiv: 
+arxiv: https://arxiv.org/abs/1810.11809
 project: 
 source: 
 poster: Discrimination.pdf
