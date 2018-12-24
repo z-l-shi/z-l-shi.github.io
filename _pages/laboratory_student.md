@@ -3,8 +3,8 @@ permalink: /laboratory_student/
 # title: Laboratory
 author_profile: true
 redirect_from: 
-  - /laboratory_student/
-  - /laboratory_student.html
+  - /studentmd/
+  - /laboratory_student
 ---
 
 <div align="center" margin-bottom:100px>
