@@ -1,17 +1,17 @@
 ---
-title: "Towards ultrahigh dimensional feature selection for big data"
+title: "Towards Effective Low-Bitwidth Convolutional Neural Networks"
 collection: conferences
 permalink: /publication/Towards
-date: 2014-01-01
-venue: "The Journal of Machine Learning Research"
+date: 2018-06-01
+venue: "CVPR"
 city: 
 state: ""
-thumbnail: "masktrack.png"
+thumbnail: "Towards.png"
 teaser : 
-authors: "Mingkui Tan, Ivor W Tsang, Li Wang"
+authors: "Bohan Zhuang, Chunhua Shen, Mingkui Tan, Lingqiao Liu, Ian Reid"
 bibtex: Towards.txt
-uri: https://pdfs.semanticscholar.org/8fa3/496599e249e63dde07d7fb7daccb7d50a333.pdf
-arxiv: 
+uri: Towards.pdf
+arxiv: https://arxiv.org/abs/1711.00205
 project: 
 source:
 poster: 
