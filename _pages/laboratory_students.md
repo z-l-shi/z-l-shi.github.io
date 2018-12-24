@@ -1,10 +1,10 @@
 ---
-permalink: /laboratory_student/
+permalink: /laboratory_students/
 # title: Laboratory
 author_profile: true
 redirect_from: 
   - /studentmd/
-  - /laboratory_student
+  - /laboratory_students
 ---
 
 <div align="center" margin-bottom:100px>
