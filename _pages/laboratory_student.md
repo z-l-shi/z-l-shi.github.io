@@ -1,10 +1,10 @@
 ---
-permalink: /markdown/
+permalink: /laboratory_student/
 # title: Laboratory
 author_profile: true
 redirect_from: 
-  - /md/
-  - /markdown.html
+  - /laboratory_student/
+  - /laboratory_student.html
 ---
 
 <div align="center" margin-bottom:100px>
