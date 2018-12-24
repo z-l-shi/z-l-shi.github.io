@@ -4,12 +4,14 @@
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
         {% if post.collection == 'publications' or post.collection == 'workshops' or post.collection == 'conferences' or post.collection == 'journals' or post.collection == 'conferences_main' or post.collection == 'journals_main'%}
             <td>
-              {% if post.uri %}
+              {% if post.uri contains "://" %}
+                <a href="{{post.uri}}"><img class="table_entry" src="{{post.thumbnail | prepend: "/files/thumbnails/" }}"></a>
+              {% else if post.uri %}
                 <a href="{{post.uri | prepend: "/files/publications/" }}"><img class="table_entry" src="{{post.thumbnail | prepend: "/files/thumbnails/" }}"></a>
                 <!-- <a href="{{post.uri}}"><img class="table_entry" src="{{post.thumbnail | prepend: "/files/thumbnails/" }}"></a> -->
               {% else %}
                 <img class="table_entry" src="{{post.thumbnail | prepend: "/files/thumbnails/" }}">
-            {% endif %}
+              {% endif %}
             </td>
             <td>
               <div class='conf_title'>{{post.title}}</div><br>

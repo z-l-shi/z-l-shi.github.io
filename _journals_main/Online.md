@@ -2,7 +2,7 @@
 title: "Online Heterogeneous Transfer by Hedge Ensemble of Offline and Online Decisions"
 collection: journals_main
 permalink: /publication/Online
-date: 2017-10-10
+date: 2018-2-5
 venue: "IEEE"
 city: 
 state: ""
