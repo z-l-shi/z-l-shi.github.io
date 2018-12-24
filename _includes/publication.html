@@ -26,10 +26,10 @@
                 {% if post.state %}, {{post.state}}{% endif %}
 
               </div><br>
-
-              {% if post.uri %}
+              {% if post.uri contains "://" %}
+                <a class="button pdf" href="{{post.uri}}" rel="permalink">Pdf</a>
+              {% else if post.uri %}
                 <a class="button pdf" href="{{post.uri | prepend: "/files/publications/"}}" rel="permalink">Pdf</a>
-                <!-- <a class="button pdf" href="{{post.uri}}" rel="permalink">Pdf</a> -->
               {% endif %}
 
               {% if post.arxiv %}

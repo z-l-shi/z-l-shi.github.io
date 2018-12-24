@@ -10,7 +10,7 @@ thumbnail: "Comprehensive.png"
 teaser : 
 authors: "Yongliang Chen, Jinghui Zhong, Mingkui Tan"
 bibtex: Comprehensive.txt
-uri: https://link.springer.com/chapter/10.1007%2F978-3-319-93698-7_9#enumeration
+uri: https://link.springer.com/chapter/10.1007%2F978-3-319-93698-7_9
 arxiv: 
 project: 
 source: 
