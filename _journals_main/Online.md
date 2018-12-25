@@ -3,7 +3,7 @@ title: "Online Heterogeneous Transfer by Hedge Ensemble of Offline and Online De
 collection: journals_main
 permalink: /publication/Online
 date: 2018-2-5
-venue: "IEEE Trans. Neural Netw. Learning Syst. 29(7): 3252-3263"
+venue: "IEEE Trans. Neural Netw. Learning Syst. 29(7)"
 city: 
 state: ""
 thumbnail: "Online.png"

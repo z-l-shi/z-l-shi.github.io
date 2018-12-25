@@ -3,7 +3,7 @@ title: "Matching Pursuit LASSO Part I: Sparse Recovery Over Big Dictionary"
 collection: journals
 permalink: /publication/Matching
 date: 2014-12-22
-venue: "IEEE Trans. Signal Processing 63(3): 727-741"
+venue: "IEEE Trans. Signal Processing 63(3)"
 city: 
 state: ""
 thumbnail: "Matching.png"

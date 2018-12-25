@@ -3,7 +3,7 @@ title: "Online Transfer Learning with Multiple Homogeneous or Heterogeneous Sour
 collection: journals
 permalink: /publication/Online_Transfer
 date: 2017-07-01
-venue: "IEEE Trans. Knowl. Data Eng. 29(7): 1494-1507"
+venue: "IEEE Trans. Knowl. Data Eng. 29(7)"
 city: 
 state: ""
 thumbnail: "Online_Transfer.png"

@@ -3,7 +3,7 @@ title: "Minimax Sparse Logistic Regression for Very High-Dimensional Feature Sel
 collection: journals
 permalink: /publication/Minimax
 date: 2013-01-18
-venue: "IEEE Trans. Neural Netw. Learning Syst. 24(10): 1609-1622"
+venue: "IEEE Trans. Neural Netw. Learning Syst. 24(10)"
 city: 
 state: ""
 thumbnail: "Minimax.png"

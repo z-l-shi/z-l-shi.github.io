@@ -3,7 +3,7 @@ title: "A Unified Feature Selection Framework for Graph Embedding on High Dimens
 collection: journals
 permalink: /publication/A_Unified
 date: 2014-12-18
-venue: "IEEE Trans. Knowl. Data Eng. 27(6): 1465-1477"
+venue: "IEEE Trans. Knowl. Data Eng. 27(6)"
 city: 
 state: ""
 thumbnail: "A_Unified.png"

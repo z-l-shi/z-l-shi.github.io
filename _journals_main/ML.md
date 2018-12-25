@@ -3,7 +3,7 @@ title: "ML-FOREST: A Multi-Label Tree Ensemble Method for Multi-Label Classifica
 collection: journals_main
 permalink: /publication/ML
 date: 2016-06-15
-venue: "IEEE Trans. Knowl. Data Eng. 28(10): 2665-2680 "
+venue: "IEEE Trans. Knowl. Data Eng. 28(10)"
 city: 
 state: ""
 thumbnail: "ML.png"
