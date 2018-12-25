@@ -1,5 +1,5 @@
 ---
-title: "Learning Sparse SVM for Feature Selection on Very High Dimensional Datasets"
+title: "Learning Sparse Confidence-Weighted Classifier on Very High Dimensional Data"
 collection: conferences
 permalink: /publication/Learning
 date: 2016-03-02

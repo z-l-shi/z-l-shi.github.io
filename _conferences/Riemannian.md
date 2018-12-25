@@ -1,16 +1,16 @@
 ---
-title: "Riemannian pursuit for big matrix recovery"
+title: "Riemannian Pursuit for Big Matrix Recovery"
 collection: conferences
 permalink: /publication/Riemannian
 date: 2014-01-27
 venue: "ICML"
 city: 
 state: ""
-thumbnail: "masktrack.png"
+thumbnail: "Riemannian.png"
 teaser : 
 authors: "Mingkui Tan, Ivor W Tsang, Li Wang, Bart Vandereycken, Sinno Jialin Pan"
 bibtex: Riemannian.txt
-uri: http://proceedings.mlr.press/v32/tan14.pdf
+uri: Riemannian.pdf
 arxiv: 
 project: 
 source:

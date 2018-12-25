@@ -9,7 +9,7 @@ state: ""
 thumbnail: "The.png"
 teaser :
 authors: "Yong Guo, Mingkui Tan, Qingyao Wu, Jian Chen, Anton Van Den Hengel, Qinfeng Shi"
-bibtex:The.txt
+bibtex: The.txt
 uri: The.pdf
 arxiv: https://arxiv.org/abs/1611.01773
 project: 

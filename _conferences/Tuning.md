@@ -6,11 +6,11 @@ date: 2010-06-01
 venue: "Neurocomputing"
 city:
 state: ""
-thumbnail: "masktrack.png"
+thumbnail: "Tuning.png"
 teaser : 
 authors: "Shutao Li, Mingkui Tan"
 bibtex: Tuning.txt
-uri: http://www.nlpr.ia.ac.cn/2010papers/kz/gk4.pdf
+uri: Tuning.pdf
 arxiv: 
 project: 
 source:
