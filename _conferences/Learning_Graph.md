@@ -7,13 +7,13 @@ venue: "CVPR"
 city: 
 state: ""
 thumbnail: "Learning_Graph.png"
-teaser : 
+teaser :
 authors: "M. Tan, Q. Shi, A. van den Hengel, C. Shen, Junbin Gao, Fuyuan Hu, Z. Zhang"
 bibtex: Learning_Graph.txt
 uri: Learning_Graph.pdf
 arxiv: 
 project: 
 source:
-poster: 
+poster:
 data:
 ---
