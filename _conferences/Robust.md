@@ -3,14 +3,14 @@ title: "Robust kernel low-rank representation"
 collection: conferences
 permalink: /publication/Robust
 date: 2016-11-01
-venue: "IEEE transactions on neural networks and learning systems"
+venue: " IEEE Trans. Neural Netw. Learning Syst"
 city: 
 state: ""
-thumbnail: "masktrack.png"
+thumbnail: "Robust.png"
 teaser :
 authors: "Shijie Xiao, Mingkui Tan, Dong Xu, Zhao Yang Dong"
 bibtex: Robust.txt
-uri: https://ieeexplore.ieee.org/abstract/document/7283631
+uri: Robust.pdf
 arxiv: 
 project: 
 source:

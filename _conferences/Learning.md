@@ -2,15 +2,15 @@
 title: "Learning Sparse SVM for Feature Selection on Very High Dimensional Datasets"
 collection: conferences
 permalink: /publication/Learning
-date: 2010-01-01
-venue: "ICML"
+date: 2016-03-02
+venue: "AAAI"
 city: 
 state: ""
-thumbnail: "masktrack.png"
+thumbnail: "Learning.png"
 teaser :
-authors: "Mingkui Tan, Li Wang, Ivor W Tsang"
+authors: "Mingkui Tan, Yan Yan, Li Wang, Anton Van Den Hengel, Ivor W. Tsang, Qinfeng (Javen) Shi"
 bibtex: Learning.txt
-uri: https://icml.cc/Conferences/2010/papers/227.pdf
+uri: Learning.pdf
 arxiv: 
 project: 
 source:

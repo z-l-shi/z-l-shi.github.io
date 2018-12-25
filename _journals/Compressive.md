@@ -1,6 +1,6 @@
 ---
 title: "Compressive Representation for Device-Free Activity Recognition with Passive RFID Signal Strength"
-collection: journals_main
+collection: journals
 permalink: /publication/Compressive
 date: 2018-02-02
 venue: "IEEE Trans. Mob. Comput. 17(2): 293-306"
