@@ -6,7 +6,7 @@ date: 2011-01-28
 venue: "IEEE Trans. Systems, Man, and Cybernetics, Part B 41(4)"
 city: 
 state: ""
-thumbnail: "A_Hybrid.pdf"
+thumbnail: "A_Hybrid.png"
 teaser : 
 authors: "Shutao Li, Mingkui Tan, Ivor W Tsang, James Tin-Yau Kwok"
 bibtex: A_Hybrid.txt
