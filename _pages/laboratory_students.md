@@ -77,6 +77,7 @@ Undergraduates
 * Langyuan Mo
 * Deng Huang
 * Rong Li
+* Haokun Li
 * Zhipeng Li
 * Haoming Xu
 * Jiaqiu Zhou
