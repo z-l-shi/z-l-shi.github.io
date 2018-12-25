@@ -13,7 +13,7 @@ bibtex: Weighted.txt
 uri: Weighted.pdf
 arxiv: 
 project: 
-source: Weighted.rar
+source: Weighted.zip
 poster:
 data:
 ---
