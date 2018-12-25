@@ -1,0 +1,18 @@
+@article{DBLP:journals/corr/abs-1811-10413,
+  author    = {Bohan Zhuang and
+               Chunhua Shen and
+               Mingkui Tan and
+               Lingqiao Liu and
+               Ian D. Reid},
+  title     = {Structured Binary Neural Networks for Accurate Image Classification
+               and Semantic Segmentation},
+  journal   = {CoRR},
+  volume    = {abs/1811.10413},
+  year      = {2018},
+  url       = {http://arxiv.org/abs/1811.10413},
+  archivePrefix = {arXiv},
+  eprint    = {1811.10413},
+  timestamp = {Sun, 02 Dec 2018 11:13:49 +0100},
+  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1811-10413},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

@@ -43,3 +43,15 @@ Journals
     <button class="btn btn--readmore">Read more <font size="1">>></font></button>
   </a>
 </div> 
+
+
+Preprint Paper
+----------
+<div>
+  <table>
+  {% for post in site.preprints reversed %}
+    <tr>{% include publication.html %}</tr>
+  {% endfor %}
+  </table>
+</div>
+

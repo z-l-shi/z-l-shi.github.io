@@ -1,0 +1,18 @@
+@article{DBLP:journals/corr/abs-1810-05438,
+  author    = {Dong Gong and
+               Mingkui Tan and
+               Qinfeng Shi and
+               Anton van den Hengel and
+               Yanning Zhang},
+  title     = {{MPTV:} Matching Pursuit Based Total Variation Minimization for Image
+               Deconvolution},
+  journal   = {CoRR},
+  volume    = {abs/1810.05438},
+  year      = {2018},
+  url       = {http://arxiv.org/abs/1810.05438},
+  archivePrefix = {arXiv},
+  eprint    = {1810.05438},
+  timestamp = {Tue, 30 Oct 2018 20:39:56 +0100},
+  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1810-05438},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
