@@ -11,9 +11,9 @@ title                    : "Mingkui Tan's Site"
 title_separator          : "-"
 name                     : &name "Mingkui Tan"
 description              : &description "personal description"
-url                      : https://HaoKun-Li.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tanmingkui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "HaoKun-Li/HaoKun-Li.github.io"
+repository               : "tanmingkui/tanmingkui.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "HaoKun-Li"
+  github           : "tanmingkui"
   google_plus      :
   keybase          :
   instagram        :
