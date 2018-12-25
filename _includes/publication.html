@@ -45,7 +45,7 @@
               {% endif %}
 
               {% if post.source contains "://" %}
-                <a class="button source" href="{{post.source}}" rel="permalink">Code</a>
+                <a class="button source" href="{{post.source}}" rel="permalink">Code URL</a>
               {% else if post.source %}
                 <a class="button source" href="{{post.source | prepend: "/files/sourcecode/"}}" rel="permalink">Code</a>
               {% endif %}
