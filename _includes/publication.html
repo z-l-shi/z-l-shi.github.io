@@ -22,8 +22,8 @@
                 {% if post.venue%}{{post.venue}}{% endif %}
                 {% if post.date %}{{ post.date | default: "1900-01-01" | date: "%Y" }}{% endif %}
 
-                {% if post.city %}, {{post.city}}{% endif %}
-                {% if post.state %}, {{post.state}}{% endif %}
+                <!-- {% if post.city %}, {{post.city}}{% endif %}
+                {% if post.state %}, {{post.state}}{% endif %} -->
 
               </div><br>
               {% if post.uri contains "://" %}
