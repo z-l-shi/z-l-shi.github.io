@@ -44,10 +44,10 @@
                 <a class="button project" href="{{post.project}}" rel="permalink">Project Page</a>
               {% endif %}
 
-              {% if post.source contains "://" %}
+              {% if post.source and post.source contains "://" %}
                 <a class="button source" href="{{post.source}}" rel="permalink">Code URL</a>
-              {% else if post.source %}
-                <a class="button source" href="{{post.source | prepend: "/files/sourcecode/"}}" rel="permalink">Code Local</a>
+              {% else %}
+                <a class="button source" href="{{post.source | prepend: "/files/sourcecode/"}}" rel="permalink">Code</a>
               {% endif %}
 
               {% if post.data %}
