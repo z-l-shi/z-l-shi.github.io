@@ -16,7 +16,6 @@ redirect_from:
 
 Doctoral Students
 --------
-********
 * Yuguang Yan
 * Pengshuai Yin
 * Chao Han
@@ -27,7 +26,6 @@ Doctoral Students
 
 Graduate Students
 --------
-********
 * Zhaoyang Bi
 * Chaorui Deng
 * Renjie Chen
@@ -72,7 +70,6 @@ Graduate Students
 
 Undergraduates
 --------
-********
 * Peizhuo Xie
 * Zhuoman Liu
 * Zeshuai Deng
