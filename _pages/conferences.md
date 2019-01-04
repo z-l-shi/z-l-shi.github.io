@@ -15,7 +15,8 @@ author_profile: true
 
 <table>
 {% for post in site.conferences reversed %}
-  {{ post.date:"%Y" }}
+  {{ post.date | default: "1900-01-01" | date: "%Y" }}
+  {% post.date.to_s %}
   <tr>{% include publication.html %}</tr>
 {% endfor %}
 </table>
@@ -28,5 +29,5 @@ author_profile: true
 {% endfor %}
 </table>
 
-#### 2016
+## 2016
 #### 2015
