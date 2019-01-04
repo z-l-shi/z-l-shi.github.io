@@ -226,8 +226,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: 
+      comments: 
   # _conferences
   - scope:
       path: ""
