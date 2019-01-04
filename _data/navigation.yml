@@ -18,8 +18,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+#   - title: "CV"
+#     url: /cv/
     
-  - title: "Laboratory Students"
+  - title: "My Students"
     url: /laboratory_students/
