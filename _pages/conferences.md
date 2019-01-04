@@ -23,7 +23,7 @@ author_profile: true
           {% assign year = { post.date | default: "1900-01-01" | date: "%Y" } %}
           {{ post.date | default: "1900-01-01" | date: "%Y" }}
           {year}
-{%else%}
+{% else %}
 {{ post.date | default: "1900-01-01" | date: "%Y" }}
 {year}
 {% endif %}
