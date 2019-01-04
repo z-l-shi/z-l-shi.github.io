@@ -17,15 +17,9 @@ author_profile: true
 {% endfor %}
 </table> -->
 
-{% if post.date and title != post.date%}
-          {% assign title = post.date %}
-          {{ post.date | default: "1900-01-01" | date: "%Y" }}
-{% endif %}
-
-
 {% for post in site.conferences reversed %}
-{% if post.date and title != post.date%}
-          {% assign title = post.date %}
+{% if post.date and date != post.date%}
+          {% assign date = post.date %}
           {{ post.date | default: "1900-01-01" | date: "%Y" }}
 {% endif %}
 <table>
