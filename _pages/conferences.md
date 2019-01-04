@@ -4,8 +4,8 @@ title: "Conferences"
 permalink: /conferences/
 author_profile: true
 ---
-{{site.author.googlescholar}}
-{% if author.googlescholar %}
+
+{% if site.author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
@@ -29,4 +29,4 @@ author_profile: true
 {% endfor %}
 </table>
 
-#### 2016
+## 2016
