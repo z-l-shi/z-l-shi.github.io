@@ -11,12 +11,24 @@ author_profile: true
 
 {% include base_path %}
 
-<table>
+<!-- <table>
 {% for post in site.conferences reversed %}
-  <tr>{% if post.date and title != post.date%}
-          {% assign title = post.date %}
-          {{ post.date | default: "1900-01-01" | date: "%Y" }}
-  {% endif %}</tr>
   <tr>{% include publication.html %}</tr>
 {% endfor %}
+</table> -->
+
+{% if post.date and title != post.date%}
+          {% assign title = post.date %}
+          {{ post.date | default: "1900-01-01" | date: "%Y" }}
+{% endif %}
+
+
+{% for post in site.conferences reversed %}
+{% if post.date and title != post.date%}
+          {% assign title = post.date %}
+          {{ post.date | default: "1900-01-01" | date: "%Y" }}
+{% endif %}
+<table>
+  <tr>{% include publication.html %}</tr>
 </table>
+{% endfor %}
