@@ -113,7 +113,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  laboratory       : "SMIL"
+  laboratory       : # "SMIL"
 
 
 # Reading Files
