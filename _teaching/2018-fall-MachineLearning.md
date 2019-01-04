@@ -8,7 +8,7 @@ date: 2018-09-01
 location: "Guangzhou, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is a description of a teaching experience. You can use markdown like any other post.(待完善)
 
 Heading 1
 ======
