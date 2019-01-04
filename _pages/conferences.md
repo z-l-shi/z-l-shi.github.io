@@ -11,18 +11,16 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- <table>
+<table>
 {% for post in site.conferences reversed %}
   <tr>{% include publication.html %}</tr>
 {% endfor %}
-</table> -->
+</table>
+
 
 {% for post in site.conferences reversed %}
 {% if post.date and date != post.date%}
           {% assign date = post.date %}
           {{ post.date | default: "1900-01-01" | date: "%Y" }}
 {% endif %}
-<table>
-  <tr>{% include publication.html %}</tr>
-</table>
 {% endfor %}
