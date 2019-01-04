@@ -11,6 +11,9 @@ author_profile: true
 
 {% include base_path %}
 
+2018
+==========
+
 <table>
 {% for post in site.conferences reversed %}
   <tr>{{ post.date | default: "1900-01-01" | date: "%Y" }}</tr>
