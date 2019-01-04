@@ -22,10 +22,11 @@ author_profile: true
 {% if post.date %}
   {% if year != post.date | default: "1900-01-01" | date: "%Y"%}
     {% assign year = post.date | default: "1900-01-01" | date: "%Y" %}
+    {if}
     {{ post.date | default: "1900-01-01" | date: "%Y" }}
     {{year}}
   {% else %}
-    else
+    {else}
     {{ post.date | default: "1900-01-01" | date: "%Y" }}
     {{year}}
   {% endif %}
