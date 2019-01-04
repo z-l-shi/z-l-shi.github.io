@@ -15,7 +15,7 @@ author_profile: true
 
 <table>
 {% for post in site.conferences reversed %}
-  {% if "2018" == {{post.date | default: "1900-01-01" | date: "%Y"}} %}
+  {% if "2018-07-01" == {{post.date | default: "1900-01-01" | date: "%Y"}} %}
     <tr>{% include publication.html %}</tr>
   {% endif %}
 {% endfor %}
