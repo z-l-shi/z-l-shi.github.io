@@ -5,9 +5,9 @@ permalink: /conferences/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
+<!-- {% if site.author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+{% endif %} -->
 
 {% include base_path %}
 
@@ -15,7 +15,7 @@ author_profile: true
 
 <table>
 {% for post in site.conferences reversed %}
-  {% if "2018" == post.date | default: "1900-01-01" | date: "%Y" %}
+  {% if "2018" == {{post.date | default: "1900-01-01" | date: "%Y"}} %}
     <tr>{% include publication.html %}</tr>
   {% endif %}
 {% endfor %}
@@ -30,4 +30,4 @@ author_profile: true
 </table>
 
 # 2016
-# 2015
+### 2015
