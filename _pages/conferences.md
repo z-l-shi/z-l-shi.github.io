@@ -11,13 +11,15 @@ author_profile: true
 
 {% include base_path %}
 
-2018
-==========
+## 2018
 
 <table>
 {% for post in site.conferences reversed %}
-  {% if post.data%}
+  {% if post.date | default: "1900-01-01" | date: "%Y" == "2018"%}
     <tr>{% include publication.html %}</tr>
   {% endif %}
 {% endfor %}
 </table>
+
+# 2017
+### 2016
