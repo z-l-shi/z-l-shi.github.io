@@ -20,7 +20,7 @@ author_profile: true
 
 {% for post in site.conferences reversed %}
 {% if post.date %}
-  {% assign year = post.date %}
+  {% assign year = post.date | default: "1900-01-01" | date: "%Y" %}
   {{ post.date | default: "1900-01-01" | date: "%Y" }}
   {{year}}
 {% endif %}
