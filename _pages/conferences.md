@@ -15,9 +15,8 @@ author_profile: true
 
 <table>
 {% for post in site.conferences reversed %}
-  {% if "2018" == post.date:"%Y" %}
-    <tr>{% include publication.html %}</tr>
-  {% endif %}
+  {{ post.date:"%Y" }}
+  <tr>{% include publication.html %}</tr>
 {% endfor %}
 </table>
 
@@ -29,5 +28,5 @@ author_profile: true
 {% endfor %}
 </table>
 
-## 2016
+#### 2016
 #### 2015
