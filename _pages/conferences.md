@@ -16,7 +16,8 @@ author_profile: true
 
 <table>
 {% for post in site.conferences reversed %}
-  <tr>{{ post.date | default: "1900-01-01" | date: "%Y" }}</tr>
-  <tr>{% include publication.html %}</tr>
+  {% if post.data%}
+    <tr>{% include publication.html %}</tr>
+  {% endif %}
 {% endfor %}
 </table>
