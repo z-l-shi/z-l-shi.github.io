@@ -21,14 +21,8 @@ author_profile: true
 {% endfor %}
 </table>
 
-## 2017
-
 <table>
 {% for post in site.conferences reversed %}
   <tr>{% include publication.html %}</tr>
 {% endfor %}
 </table>
-
-#### 2016
-#### 2015
-#### 2014
