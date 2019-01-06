@@ -11,8 +11,15 @@ author_profile: true
 
 {% include base_path %}
 
+{% assign yearArray = "2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2009" | split: ", " %}
+
+{% for i in yearArray %}
+### {{i}}
 <table>
-{% for post in site.journals reversed %}
+{% for post in site.conferences reversed %}
+  {% if post.year == i %}
   <tr>{% include publication.html %}</tr>
+  {% endif %}
 {% endfor %}
 </table>
+{% endfor %}
