@@ -13,7 +13,7 @@ author_profile: true
 
 
 {% for i in (2015..2020) %}
-<h2
+<h2>
 {{i}}
 </h2>
 <table>
@@ -24,11 +24,11 @@ author_profile: true
 {% endfor %}
 </table>
 
-<table>
+<!-- <table>
 {% for post in site.conferences reversed %}
   <tr>{% include publication.html %}</tr>
 {% endfor %}
-</table>
+</table> -->
 
 {% endfor %}
 
