@@ -16,6 +16,10 @@ author_profile: true
 {{i}}
 <table>
 {% for post in site.conferences reversed %}
+  {% assign datelist = post.date | Split: '-' %}
+  {{datelist}}
+  {{datelist[0]}}
+  {{datelist[1]}}
   {% if post.date contains '2018' %}
       <tr>{% include publication.html %}</tr>
   {% endif %}
