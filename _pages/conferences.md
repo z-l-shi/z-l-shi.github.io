@@ -22,11 +22,6 @@ author_profile: true
 {% endfor %}
 </table>
 
-<!-- <table>
-{% for post in site.conferences reversed %}
-  <tr>{% include publication.html %}</tr>
-{% endfor %}
-</table> -->
 
 {% endfor %}
 
