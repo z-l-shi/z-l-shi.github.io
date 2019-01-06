@@ -16,7 +16,7 @@ author_profile: true
 {% for i in yearArray %}
 ### {{i}}
 <table>
-{% for post in site.conferences reversed %}
+{% for post in site.journals reversed %}
   {% if post.year == i %}
   <tr>{% include publication.html %}</tr>
   {% endif %}
