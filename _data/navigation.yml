@@ -9,6 +9,10 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
+  - title: "My Students"
+    url: /laboratory_students/
+
+
   - title: "Teaching"
     url: /teaching/    
     
@@ -21,5 +25,3 @@ main:
 #   - title: "CV"
 #     url: /cv/
     
-  - title: "My Students"
-    url: /laboratory_students/
