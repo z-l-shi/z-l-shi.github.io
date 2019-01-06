@@ -21,8 +21,6 @@ author_profile: true
 {% endif %}
 {% endfor %}
 </table>
-
-
 {% endfor %}
 
 test1
