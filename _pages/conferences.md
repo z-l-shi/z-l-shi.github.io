@@ -14,14 +14,11 @@ author_profile: true
 
 {% for i in (2015..2020) %}
 {{i}}
+=====
 <table>
 {% for post in site.conferences reversed %}
-  {% assign datelist = post.date | Split: '-' %}
-  {{datelist}}
-  {{datelist[0]}}
-  {{datelist[1]}}
   {% if post.date contains '2018' %}
-      <tr>{% include publication.html %}</tr>
+    <tr>{% include publication.html %}</tr>
   {% endif %}
 {% endfor %}
 </table>
@@ -33,4 +30,8 @@ author_profile: true
 </table> -->
 
 {% endfor %}
+
+test1
+=====
+
 
