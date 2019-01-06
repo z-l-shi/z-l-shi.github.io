@@ -3,6 +3,7 @@ title: "T-C3D: Temporal Convolutional 3D Network for Real-Time Action Recognitio
 collection: conferences
 permalink: /publication/T-C3D
 date: 2018-04-27
+year: "2018"
 venue: "AAAI"
 city: 
 state: ""

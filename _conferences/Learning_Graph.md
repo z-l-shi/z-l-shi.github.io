@@ -3,6 +3,7 @@ title: "Learning graph structure for multi-label image classification via clique
 collection: conferences
 permalink: /publication/Learning_Graph
 date: 2015-06-07
+year: "2015"
 venue: "CVPR"
 city: 
 state: ""

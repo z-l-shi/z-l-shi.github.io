@@ -3,6 +3,7 @@ title: "Scalable Maximum Margin Matrix Factorization by Active Riemannian Subspa
 collection: conferences
 permalink: /publication/Scalable
 date: 2015-09-01
+year: "2015"
 venue: "IJCAI"
 city: 
 state: ""

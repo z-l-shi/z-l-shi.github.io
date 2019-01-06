@@ -3,6 +3,7 @@ title: "Multi-modality Sensor Data Classification with Selective Attention"
 collection: conferences
 permalink: /publication/Multi
 date: 2018-07-01
+year: "2018"
 venue: "IJCAI"
 city: 
 state: ""

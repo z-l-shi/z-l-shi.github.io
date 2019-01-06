@@ -3,6 +3,7 @@ title: "MPGL: An Efficient Matching Pursuit Method for Generalized LASSO"
 collection: conferences
 permalink: /publication/MPGL
 date: 2017-02-13
+year: "2017"
 venue: "AAAI"
 city: 
 state: ""

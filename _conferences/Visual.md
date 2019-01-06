@@ -3,6 +3,7 @@ title: "Visual Grounding via Accumulated Attention"
 collection: conferences
 permalink: /publication/Visual
 date: 2018-06-01
+year: "2018"
 venue: "CVPR"
 city: 
 state: ""

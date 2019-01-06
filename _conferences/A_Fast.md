@@ -3,6 +3,7 @@ title: "A Fast Memetic Multi-Objective Differential Evolution for Multi-Tasking 
 collection: conferences
 permalink: /publication/A_Fast
 date: 2018-07-01
+year: "2018"
 venue: "CEC"
 city: 
 state: ""

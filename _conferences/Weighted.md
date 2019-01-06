@@ -3,6 +3,7 @@ title: "Weighted Block-Sparse Low Rank Representation for Face Clustering in Vid
 collection: conferences
 permalink: /publication/Weighted
 date: 2014-09-06
+year: "2014"
 venue: "ECCV"
 city: 
 state: ""

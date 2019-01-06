@@ -3,6 +3,7 @@ title: "Gene selection and parameter determination of support vector machines ba
 collection: journals
 permalink: /publication/Gene_Selection
 date: 2009-12-09
+year: "2009"
 venue: "IJMIC 8(4)"
 city: 
 state: ""

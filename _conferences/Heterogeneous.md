@@ -3,6 +3,7 @@ title: "Heterogeneous Domain Adaptation for Multiple Classes"
 collection: conferences
 permalink: /publication/Heterogeneous
 date: 2014-01-01
+year: "2014"
 venue: " AISTATS"
 city: 
 state: ""

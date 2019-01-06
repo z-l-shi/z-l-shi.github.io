@@ -3,6 +3,7 @@ title: "Adversarial Learning with Local Coordinate Coding"
 collection: conferences
 permalink: /publication/Adversarial
 date: 2018-09-06
+year: "2018"
 venue: "ICML"
 city: 
 state: ""

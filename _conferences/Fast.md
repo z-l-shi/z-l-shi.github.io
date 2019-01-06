@@ -3,6 +3,7 @@ title: "Fast Algorithms for Linear and Kernel SVM+ "
 collection: conferences
 permalink: /publication/Fast
 date: 2016-06-27
+year: "2016"
 venue: "CVPR"
 city: 
 state: ""

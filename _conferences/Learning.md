@@ -3,6 +3,7 @@ title: "Learning Sparse Confidence-Weighted Classifier on Very High Dimensional 
 collection: conferences
 permalink: /publication/Learning
 date: 2016-03-02
+year: "2016"
 venue: "AAAI"
 city: 
 state: ""

@@ -3,6 +3,7 @@ title: "Learning Sparse SVM for Feature Selection on Very High Dimensional Datas
 collection: conferences
 permalink: /publication/Learning_Sparse
 date: 2010-06-21
+year: "2010"
 venue: "ICML"
 city: 
 state: ""

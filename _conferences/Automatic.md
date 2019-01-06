@@ -3,6 +3,7 @@ title: "Automatic Segmentation of Cortex and Nucleus in Anterior Segment OCT Ima
 collection: conferences
 permalink: /publication/Automatic
 date: 2018-09-14
+year: "2018"
 venue: "COMPAY/OMIA@MICCAI"
 city: 
 state: ""

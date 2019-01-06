@@ -3,6 +3,7 @@ title: "Proximal Riemannian Pursuit for Large-Scale Trace-Norm Minimization "
 collection: conferences
 permalink: /publication/Proximal
 date: 2016-06-27
+year: "2016"
 venue: "CVPR"
 city: 
 state: ""

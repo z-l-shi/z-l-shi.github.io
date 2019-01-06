@@ -3,6 +3,7 @@ title: "Online Heterogeneous Transfer Learning by Weighted Offline and Online Cl
 collection: conferences
 permalink: /publication/Online_Heterogeneous
 date: 2016-11-24
+year: "2016"
 venue: "ECCV"
 city: 
 state: ""

@@ -3,6 +3,7 @@ title: "Heterogeneous domain adaptation for multiple classes"
 collection: conferences
 permalink: /publication/Heterrogeneous
 date: 2014-04-02
+year: "2014"
 venue: "Artificial Intelligence and Statistics"
 city: 
 state: ""

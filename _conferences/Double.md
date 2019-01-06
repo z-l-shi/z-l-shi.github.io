@@ -3,6 +3,7 @@ title: "Double Forward Propagation for Memorized Batch Normalization"
 collection: conferences
 permalink: /publication/Double
 date: 2018-04-29
+year: "2018"
 venue: "AAAI"
 city: 
 state: ""

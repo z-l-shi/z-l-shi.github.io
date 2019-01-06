@@ -3,6 +3,7 @@ title: "Riemannian Pursuit for Big Matrix Recovery"
 collection: conferences
 permalink: /publication/Riemannian
 date: 2014-01-27
+year: "2014"
 venue: "ICML"
 city: 
 state: ""

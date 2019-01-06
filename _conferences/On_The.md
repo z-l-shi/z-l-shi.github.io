@@ -3,6 +3,7 @@ title: "On the Flatness of Loss Surface for Two-layered ReLU Networks"
 collection: conferences
 permalink: /publication/On_The
 date: 2017-12-21
+year: "2017"
 venue: "ACML"
 city: 
 state: ""

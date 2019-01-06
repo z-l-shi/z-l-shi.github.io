@@ -3,6 +3,7 @@ title: "Efficient Orthogonal Non-negative Matrix Factorization over Stiefel Mani
 collection: conferences
 permalink: /publication/Efficient
 date: 2016-10-24
+year: "2016"
 venue: "CIKM"
 city: 
 state: ""

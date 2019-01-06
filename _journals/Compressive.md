@@ -3,6 +3,7 @@ title: "Compressive Representation for Device-Free Activity Recognition with Pas
 collection: journals
 permalink: /publication/Compressive
 date: 2018-02-02
+year: "2018"
 venue: "IEEE Trans. Mob. Comput. 17(2)"
 city: 
 state: ""

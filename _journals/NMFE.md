@@ -3,6 +3,7 @@ title: "NMFE-SSCC: Non-negative matrix factorization ensemble for semi-supervise
 collection: journals
 permalink: /publication/NMFE
 date: 2015-11-01
+year: "2015"
 venue: "Knowl.-Based Syst. 89"
 city: 
 state: ""

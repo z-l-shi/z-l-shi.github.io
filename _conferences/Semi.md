@@ -3,6 +3,7 @@ title: "Semi-Supervised Optimal Transport for Heterogeneous Domain Adaptation"
 collection: conferences
 permalink: /publication/Semi
 date: 2018-07-01
+year: "2018"
 venue: "IJCAI"
 city: 
 state: ""

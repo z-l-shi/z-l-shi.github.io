@@ -3,6 +3,7 @@ title: "Towards Effective Low-Bitwidth Convolutional Neural Networks"
 collection: conferences
 permalink: /publication/Towards
 date: 2018-06-01
+year: "2018"
 venue: "CVPR"
 city: 
 state: ""

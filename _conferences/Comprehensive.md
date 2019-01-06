@@ -3,6 +3,7 @@ title: "Comprehensive Learning Gene Expression Programming for Automatic Implici
 collection: conferences
 permalink: /publication/Comprehensive
 date: 2018-06-12
+year: "2018"
 venue: "ICCS"
 city: 
 state: ""

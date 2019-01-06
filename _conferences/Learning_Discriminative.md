@@ -3,6 +3,7 @@ title: "Learning Discriminative Correlation Subspace for Heterogeneous Domain Ad
 collection: conferences
 permalink: /publication/Learning_Discriminative
 date: 2017-08-01
+year: "2017"
 venue: "IJCAI"
 city: 
 state: ""

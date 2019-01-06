@@ -3,6 +3,7 @@ title: "Self-Paced Kernel Estimation for Robust Blind Image Deblurring"
 collection: conferences
 permalink: /publication/Self
 date: 2017-10-22
+year: "2017"
 venue: "ICCV"
 city: 
 state: ""

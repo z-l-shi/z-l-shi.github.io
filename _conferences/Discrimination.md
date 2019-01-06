@@ -3,6 +3,7 @@ title: "Discrimination-aware Channel Pruning for Deep Neural Networks"
 collection: conferences
 permalink: /publication/Discrimination
 date: 2018-09-01
+year: "2018"
 venue: "NeurIPS"
 city: 
 state: ""

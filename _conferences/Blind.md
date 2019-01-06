@@ -3,6 +3,7 @@ title: "Blind image deconvolution by automatic gradient activation"
 collection: conferences
 permalink: /publication/Blind
 date: 2016-02-27
+year: "2016"
 venue: "CVPR"
 city: 
 state: ""

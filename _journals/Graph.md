@@ -3,6 +3,7 @@ title: "Graph embedding based feature selection"
 collection: journals
 permalink: /publication/Graph
 date: 2012-09-15
+year: "2012"
 venue: " Neurocomputing 93"
 city: 
 state: ""

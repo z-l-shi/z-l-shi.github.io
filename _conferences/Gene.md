@@ -3,6 +3,7 @@ title: "Gene selection using hybrid particle swarm optimization and genetic algo
 collection: conferences
 permalink: /publication/Gene
 date: 2008-01-09
+year: "2008"
 venue: "Soft Computing"
 city: 
 state: ""
