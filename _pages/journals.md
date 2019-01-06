@@ -11,8 +11,15 @@ author_profile: true
 
 {% include base_path %}
 
+
+{% for i in (2015..2020) %}
+{{i}}
+=====
 <table>
-{% for post in site.journals reversed %}
+{% for post in site.conferences reversed %}
   <tr>{% include publication.html %}</tr>
+{% endif %}
 {% endfor %}
 </table>
+{% endfor %}
+
