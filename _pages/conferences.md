@@ -16,12 +16,13 @@ author_profile: true
 ### {{i}}
 <table>
 {% for post in site.conferences reversed %}
-  {if post.year == i}
+  {% if post.year == i %}
   <tr>{% include publication.html %}</tr>
   {% endif %}
 {% endfor %}
 </table>
 {% endfor %}
 
+### test
 
 
