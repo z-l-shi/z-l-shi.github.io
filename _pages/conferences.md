@@ -13,9 +13,7 @@ author_profile: true
 
 
 {% for i in (2015..2020) %}
-<h2>
 {{i}}
-</h2>
 <table>
 {% for post in site.conferences reversed %}
   {% if post.date contains '2018' %}
