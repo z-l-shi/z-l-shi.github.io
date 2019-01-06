@@ -17,8 +17,7 @@ author_profile: true
 =====
 <table>
 {% for post in site.conferences reversed %}
-{% if post.date contains '2018' %}
-<tr>{% include publication.html %}</tr>
+  <tr>{% include publication.html %}</tr>
 {% endif %}
 {% endfor %}
 </table>
@@ -34,7 +33,5 @@ author_profile: true
 test1
 =====
 
-test2
-=====
 
 
