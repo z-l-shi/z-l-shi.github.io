@@ -13,15 +13,15 @@ author_profile: true
 
 
 {% for i in (2015..2020) %}
-  {{i}}
-  =====
-  <table>
-  {% for post in site.conferences reversed %}
-    {% if post.date contains '2018' %}
-      <tr>{% include publication.html %}</tr>
-    {% endif %}
-  {% endfor %}
-  </table>
+{{i}}
+=====
+<table>
+{% for post in site.conferences reversed %}
+{% if post.date contains '2018' %}
+<tr>{% include publication.html %}</tr>
+{% endif %}
+{% endfor %}
+</table>
 
 <!-- <table>
 {% for post in site.conferences reversed %}
