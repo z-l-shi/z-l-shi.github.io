@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <br />
-　　I am a professor of the South China University of Technology. In 2014,  I received a PhD in Computer Science from Nanyang Technological University in Singapore, and I complete post-doctoral research in computer vision at the University of Adelaide in Australia in 2016.My research interest focuses on machine learning algorithms and theories, computer vision. Up to now,  I have published nearly 50 high-level academic papers in relevant directions.
+　　Received my Bachelor Degree in Environmental Science and Engineering in 2006 and Master degree in Control Science and Engineering in 2009, both from Hunan University in Changsha, China. I received the PhD degree in Computer Science from Nanyang Technological University, Singapore, in 2014. From 2014-2016, I worked as a Senior Research Associate on computer vision in the School of Computer Science, University of Adelaide, Australia. Since 2016, I have been with the School of Software Engineering, South China University of Technology, China, where I am currently a Professor. My research interests include machine learning, sparse analysis, deep learning and large-scale optimization.
 
 Conferences
 ----------
