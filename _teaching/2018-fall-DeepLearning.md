@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Deep Learning"
 collection: teaching
 type: "Master's degree/ Doctor's degree course"
