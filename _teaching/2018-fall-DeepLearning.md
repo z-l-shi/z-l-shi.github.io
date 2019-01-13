@@ -23,7 +23,9 @@ Semester grades will be based 20% on class attendance and participation, 30% on 
 
 Preliminary knowledge
 ======
-Linear Algebra, Probability Theory, Machine Learning
+* Linear Algebra
+* Probability Theory
+* Machine Learning
 
 Reference materials
 ======
