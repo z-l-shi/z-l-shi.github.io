@@ -10,8 +10,7 @@ location: "Guangzhou, China"
 
 Deep Learning is about learning multiple levels of representation and abstraction that help to make sense of data such as images, sound, and text. Deep Learning is a new area of Machine Learning research, which has been introduced with the objective of moving Machine Learning closer to one of its original goals: Artificial Intelligence. Deep learning architectures such as deep neural networks, deep belief networks and recurrent neural networks have been applied to fields including computer vision, speech recognition, natural language processing, audio recognition, social network filtering, machine translation and bioinformatics where they produced results comparable to and in some cases superior to human experts. Through this course, we will learn deep learning from basic concepts to high-level techniques, and apply deep learning techniques to resolve practical problems. 
 
-Course Goal
-======
+##Course Goal
 Through this course, the student will capture the basic concepts, theory and techniques of deep learning. Moreover, the students will have knowledge of the recent advances of deep learning. Lastly, the students will be required to use deep learning to resolve practical problems in industry. 
 Specific requirements are as follows:
 ### Readings
@@ -21,14 +20,12 @@ We can all delude ourselves into believing we understand some math or algorithm 
 ### Semester Grades
 Semester grades will be based 20% on class attendance and participation, 30% on the homework assignments and 50% of exams.  
 
-Preliminary knowledge
-======
+##Preliminary knowledge
 * Linear Algebra
 * Probability Theory
 * Machine Learning
 
-Reference materials
-======
+##Reference materials
 * Deep Learning Tutorials: [http://deeplearning.net/tutorial/](http://deeplearning.net/tutorial/)
 * PyTorch Tutorials: [http://pytorch.org/tutorials/](http://pytorch.org/tutorials/)
 * Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift: [https://arxiv.org/abs/1502.03167](https://arxiv.org/abs/1502.03167)
