@@ -1,0 +1,19 @@
+@article{DBLP:journals/corr/abs-1909-03252,
+  author    = {Runhao Zeng and
+               Wenbing Huang and
+               Mingkui Tan and
+               Yu Rong and
+               Peilin Zhao and
+               Junzhou Huang and
+               Chuang Gan},
+  title     = {Graph Convolutional Networks for Temporal Action Localization},
+  journal   = {CoRR},
+  volume    = {abs/1909.03252},
+  year      = {2019},
+  url       = {http://arxiv.org/abs/1909.03252},
+  archivePrefix = {arXiv},
+  eprint    = {1909.03252},
+  timestamp = {Tue, 17 Sep 2019 11:23:44 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1909-03252},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

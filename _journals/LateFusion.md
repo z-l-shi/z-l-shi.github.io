@@ -2,8 +2,8 @@
 title: "Late Fusion via Subspace Search With Consistency Preservation"
 collection: journals
 permalink: /publication/LateFusion
-date: 2018-08-30
-year: "2018"
+date: 2019-01-01
+year: "2019"
 venue: "IEEE Trans. Image Processing 28(1)"
 city: 
 state: ""
