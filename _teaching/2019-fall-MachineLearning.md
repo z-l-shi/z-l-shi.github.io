@@ -2,9 +2,9 @@
 title: "Machine Learning"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2018-fall-MachineLearning
+permalink: /teaching/2019-fall-MachineLearning
 venue: "South China University of Technology, Software College"
-date: 2018-09-01
+date: 2019-09-01
 location: "Guangzhou, China"
 ---
 
