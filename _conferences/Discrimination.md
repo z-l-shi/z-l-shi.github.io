@@ -14,7 +14,7 @@ bibtex: Discrimination.txt
 uri: Discrimination.pdf
 arxiv: https://arxiv.org/abs/1810.11809
 project: 
-source: 
+source: https://github.com/SCUT-AILab/DCP
 poster: Discrimination.pdf
 data:
 ---
