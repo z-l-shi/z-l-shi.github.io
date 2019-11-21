@@ -14,7 +14,7 @@ bibtex: Attention.txt
 uri: Attention.pdf
 arxiv: https://arxiv.org/abs/1907.12930
 project: 
-source: 
+source: https://github.com/HzFu/AGNet
 poster: 
 data:
 ---
