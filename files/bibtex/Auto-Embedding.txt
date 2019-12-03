@@ -1,19 +1,8 @@
-@article{DBLP:journals/corr/abs-1903-11250,
-  author    = {Yong Guo and
-               Qi Chen and
-               Jian Chen and
-               Qingyao Wu and
-               Qinfeng Shi and
-               Mingkui Tan},
-  title     = {Auto-Embedding Generative Adversarial Networks for High Resolution
-               Image Synthesis},
-  journal   = {CoRR},
-  volume    = {abs/1903.11250},
-  year      = {2019},
-  url       = {http://arxiv.org/abs/1903.11250},
-  archivePrefix = {arXiv},
-  eprint    = {1903.11250},
-  timestamp = {Tue, 02 Apr 2019 11:16:55 +0200},
-  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1903-11250},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+@misc{zhu2019continual,
+    title={Continual Reinforcement Learning with Diversity Exploration and Adversarial Self-Correction},
+    author={Fengda Zhu and Xiaojun Chang and Runhao Zeng and Mingkui Tan},
+    year={2019},
+    eprint={1906.09205},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG}
 }
