@@ -14,7 +14,7 @@ bibtex: Towards.txt
 uri: Towards.pdf
 arxiv: https://arxiv.org/abs/1711.00205
 project: 
-source:
+source: https://github.com/bohanzhuang/Towards-Effective-Low-bitwidth-Convolutional-Neural-Networks
 poster: 
 data:
 ---

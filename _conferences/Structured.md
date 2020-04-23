@@ -14,7 +14,7 @@ bibtex: Structured.txt
 uri: Structured.pdf
 arxiv:
 project: 
-source: 
+source: https://github.com/bohanzhuang/Group-Net-image-classification
 poster: 
 data:
 ---
