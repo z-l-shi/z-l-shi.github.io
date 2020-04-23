@@ -3,6 +3,7 @@ title: "A Real-time Action Representation with Temporal Encoding and Deep Compre
 collection: journals
 permalink: /publication/A_Real-time
 date: 2020-03-31
+year: "2020"
 venue: "IEEE TCSVT"
 city: 
 state: ""

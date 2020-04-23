@@ -3,6 +3,7 @@ title: "Auto-Embedding Generative Adversarial Networks for High Resolution Image
 collection: journals
 permalink: /publication/Auto-Embedding
 date: 2019-03-27
+year: "2019"
 venue: "IEEE Transactions on Multimedia"
 city: 
 state: ""

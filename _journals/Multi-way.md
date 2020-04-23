@@ -3,6 +3,7 @@ title: "Multi-way backpropagation for training compact deep neural networks"
 collection: journals
 permalink: /publication/Multi-way
 date: 2020-03-26
+year: "2020"
 venue: "Neural Networks"
 city: 
 state: ""
