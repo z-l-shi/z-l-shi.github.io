@@ -14,7 +14,7 @@ bibtex: Auto-Embedding.txt
 uri: Auto-Embedding.pdf
 arxiv: https://arxiv.org/abs/1903.11250
 project: 
-source: 
+source: https://github.com/guoyongcs/AEGAN
 poster: 
 data:
 ---
