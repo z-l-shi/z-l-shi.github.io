@@ -11,7 +11,7 @@ thumbnail: "Fast_And.png"
 teaser : 
 authors: "Yan Yan, Mingkui Tan, Ivor W. Tsang, Yi Yang, Qinfeng Shi, Chengqi Zhang"
 bibtex: Fast_And.txt
-uri: Fast_And.md
+uri: Fast_And.pdf
 arxiv: 
 project: 
 source:
