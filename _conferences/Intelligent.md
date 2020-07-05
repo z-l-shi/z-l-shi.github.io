@@ -15,7 +15,7 @@ uri: Intelligent.pdf
 supp: Intelligent_Supplementary.pdf
 arxiv: 
 project: 
-source:
+source: https://github.com/chenqi008/HPGM
 poster: 
 data:
 ---

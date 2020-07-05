@@ -14,7 +14,7 @@ bibtex: Training_Quantized.txt
 uri: Training_Quantized.pdf
 arxiv: 
 project: 
-source: 
+source: https://github.com/lilujunai/CVPR2020_Auxiliary_Quantization
 poster: 
 data:
 ---

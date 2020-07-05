@@ -15,7 +15,7 @@ uri: Dense.pdf
 supp: Dense_Supplementary.pdf
 arxiv: 
 project: 
-source:
+source: https://github.com/Alvin-Zeng/DRN
 poster: 
 data:
 ---
