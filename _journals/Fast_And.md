@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/Fast_And
 date: 2018-11-19
 year: "2018"
-venue: "IEEE Transactions on Knowledge and Data Engineering"
+venue: "IEEE Trans. Knowl. Data Eng. 32(2)"
 city: 
 state: ""
 thumbnail: "Fast_And.png"
