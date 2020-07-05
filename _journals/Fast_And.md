@@ -10,8 +10,8 @@ state: ""
 thumbnail: "Fast_And.png"
 teaser : 
 authors: "Yan Yan, Mingkui Tan, Ivor W. Tsang, Yi Yang, Qinfeng Shi, Chengqi Zhang"
-bibtex: Fast_and.txt
-uri: Fast_and.md
+bibtex: Fast_And.txt
+uri: Fast_And.md
 arxiv: 
 project: 
 source:
