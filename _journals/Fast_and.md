@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/Fast_And
 date: 2020-02-01
 year: "2020"
-venue: "IEEE"
+venue: "IEEE Trans. Knowl. Data Eng. 32(2)"
 city: 
 state: ""
 thumbnail: "Fast_and.png"
