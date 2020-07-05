@@ -7,7 +7,7 @@ year: "2020"
 venue: "IEEE Trans. Knowl. Data Eng. 32(2)"
 city: 
 state: ""
-thumbnail: "Fast_and.png"
+thumbnail: "Fast_And.png"
 teaser : 
 authors: "Yan Yan, Mingkui Tan, Ivor W. Tsang, Yi Yang, Qinfeng Shi, Chengqi Zhang"
 bibtex: Fast_and.txt
