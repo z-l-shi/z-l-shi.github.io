@@ -2,9 +2,9 @@
 title: "Fast and Low Memory Cost Matrix Factorization: Algorithm, Analysis, and Case Study"
 collection: journals
 permalink: /publication/Fast_And
-date: 2020-02-01
-year: "2020"
-venue: "IEEE Trans. Knowl. Data Eng. 32(2)"
+date: 2018-11-19
+year: "2018"
+venue: "IEEE Transactions on Knowledge and Data Engineering"
 city: 
 state: ""
 thumbnail: "Fast_And.png"

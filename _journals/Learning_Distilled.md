@@ -2,9 +2,9 @@
 title: "Learning Distilled Graph for Large-Scale Social Network Data Clustering"
 collection: journals
 permalink: /publication/Learning_Distilled
-date: 2020-07-01
-year: "2020"
-venue: "IEEE TKDE"
+date: 2019-03-08
+year: "2019"
+venue: "IEEE Transactions on Knowledge and Data Engineering"
 city: 
 state: ""
 thumbnail: "Learning_Distilled.png"
