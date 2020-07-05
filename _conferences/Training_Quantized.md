@@ -2,7 +2,7 @@
 title: "Training Quantized Neural Networks with a Full-precision Auxiliary Module"
 collection: conferences
 permalink: /publication/Training_Quantized
-date: 2020-06
+date: 2020-06-01
 year: "2020"
 venue: "CVPR"
 city: 

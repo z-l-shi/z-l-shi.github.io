@@ -2,7 +2,7 @@
 title: "Dense Regression Network for Video Grounding"
 collection: conferences
 permalink: /publication/Dense
-date: 2020-06
+date: 2020-06-01
 year: "2020"
 venue: "CVPR"
 city: 

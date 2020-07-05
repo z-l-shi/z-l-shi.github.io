@@ -2,7 +2,7 @@
 title: "Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution"
 collection: conferences
 permalink: /publication/Closed-loop
-date: 2020-06
+date: 2020-06-01
 year: "2020"
 venue: "CVPR"
 city: 
