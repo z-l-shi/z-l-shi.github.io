@@ -20,13 +20,16 @@ Conferences
     <tr>{% include publication.html %}</tr>
   {% endfor %}
   </table>
-</div>
-
-<div margin-bottom:100px>
   <a href="/conferences/">
     <button class="btn btn--readmore">Read more <font size="1">>></font></button>
   </a>
-</div> 
+</div>
+
+<!-- <div margin-bottom:100px>
+  <a href="/conferences/">
+    <button class="btn btn--readmore">Read more <font size="1">>></font></button>
+  </a>
+</div>  -->
 
 
 Journals
@@ -37,13 +40,16 @@ Journals
     <tr>{% include publication.html %}</tr>
   {% endfor %}
   </table>
+   <a href="/journals/">
+    <button class="btn btn--readmore">Read more <font size="1">>></font></button>
+  </a>
 </div>
 
-<div margin-bottom:100px>
+<!-- <div margin-bottom:100px>
   <a href="/journals/">
     <button class="btn btn--readmore">Read more <font size="1">>></font></button>
   </a>
-</div> 
+</div>  -->
 
 
 Preprint Paper
