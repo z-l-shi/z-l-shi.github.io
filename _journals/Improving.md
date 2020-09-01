@@ -7,11 +7,11 @@ year: "2020"
 venue: "TPAMI"
 city: 
 state: ""
-thumbnail: 
+thumbnail: "Improving.png"
 teaser : 
-authors: "Jiezhang Cao, Yong Guo, Chunhua Shen, Qingyao Wu, Junzhou Huang, Mingkui Tan"
+authors: "Jiezhang Cao, Yong Guo, Qingyao Wu, Chunhua Shen, Junzhou Huang, Mingkui Tan"
 bibtex: Improving.txt
-uri:
+uri: Improving.pdf
 arxiv: 
 project: 
 source: https://github.com/SCUTjinchengli/LCCGAN-v2
