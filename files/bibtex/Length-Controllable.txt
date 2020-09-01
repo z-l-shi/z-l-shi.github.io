@@ -1,0 +1,6 @@
+@InProceedings{xu2020generative,
+title = {Length-Controllable Image Captioning},
+author = {Deng, Chaorui and Ding, Ning and Tan, Mingkui and Wu, Qi},
+booktitle = {The European Conference on Computer Vision},
+year = {2020}
+}
