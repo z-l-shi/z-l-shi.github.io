@@ -1,6 +1,6 @@
 ---
 title: "Tuning SVM parameters by using a hybrid CLPSO-BFGS algorithm"
-collection: conferences
+collection: journals
 permalink: /publication/Tuning
 date: 2010-06-01
 year: "2010"
