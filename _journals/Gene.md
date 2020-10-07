@@ -1,6 +1,6 @@
 ---
 title: "Gene selection using hybrid particle swarm optimization and genetic algorithm"
-collection: conferences
+collection: journals
 permalink: /publication/Gene
 date: 2008-01-09
 year: "2008"
