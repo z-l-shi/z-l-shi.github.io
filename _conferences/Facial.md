@@ -4,7 +4,7 @@ collection: conferences
 permalink: /publication/Facial
 date: 2019-10-15
 year: "2019"
-venue: "ACM international conference on Multimedia"
+venue: "ACM MM"
 city: 
 state: ""
 thumbnail: "Facial.png"
