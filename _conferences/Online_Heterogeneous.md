@@ -4,7 +4,7 @@ collection: conferences
 permalink: /publication/Online_Heterogeneous
 date: 2016-11-24
 year: "2016"
-venue: "ECCV"
+venue: "ECCV workshops"
 city: 
 state: ""
 thumbnail: "Online_Heterogeneous.png"
