@@ -12,9 +12,9 @@ teaser :
 authors: "Zhaoyi Yan, Yemin Shi, YaoWei Wang, Mingkui Tan, Zheyang Li, Wenming Tan, Yonghong Tian"
 bibtex: Towards_Accurate.txt
 uri: Towards_Accurate.pdf
-arxiv: https://arxiv.org/abs/1711.00205
+arxiv: 
 project: 
-source: https://github.com/bohanzhuang/Towards-Effective-Low-bitwidth-Convolutional-Neural-Networks
+source: 
 poster: 
 data:
 ---
