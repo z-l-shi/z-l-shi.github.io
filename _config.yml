@@ -249,6 +249,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _journals
+  - scope:
+      path: ""
+      type: join_us
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _conferences_main
   - scope:
       path: ""
