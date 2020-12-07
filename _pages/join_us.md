@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "join us"
 permalink: /join_us/
 author_profile: true
 redirect_from:
