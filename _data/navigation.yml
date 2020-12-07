@@ -16,8 +16,8 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Join us"
-      url: /join_us/
+#  - title: "Join us"
+#      url: /join_us/
 
         # - title: "Portfolio"
   #   url: /portfolio/
@@ -25,6 +25,6 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-#   - title: "CV"
-#     url: /cv/
+   - title: "CV"
+     url: /cv/
     
