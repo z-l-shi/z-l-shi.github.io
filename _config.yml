@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mingkui Tan's Site"
+title                    : "Mingkui Tan's homepage"
 title_separator          : "-"
 name                     : &name "Mingkui Tan"
 description              : &description "personal description"
