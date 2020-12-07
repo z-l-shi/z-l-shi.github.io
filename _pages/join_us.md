@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /join_us/
 author_profile: true
 redirect_from:
   - /join_us
