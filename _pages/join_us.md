@@ -1,10 +1,10 @@
 ---
-permalink: /join_us/
+permalink: /laboratory_students/
 # title: Laboratory
 author_profile: true
 redirect_from: 
-  - /joinUsmd/
-  - /join_us
+  - /studentmd/
+  - /laboratory_students
 ---
 
 <img src="{{ "lab_logo.png" | prepend: "/images/" | prepend: base_path }}" class="lab_logo" alt="{{ South China University of Technology Machine Intelligence Laboratory(SMIL)}}" width = "20%">

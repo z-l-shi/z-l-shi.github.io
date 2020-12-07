@@ -12,9 +12,11 @@ main:
   - title: "My Students"
     url: /laboratory_students/
 
-
   - title: "Teaching"
     url: /teaching/
+
+  - title: "Join us"
+    url: /join_us/
 
         # - title: "Portfolio"
   #   url: /portfolio/
