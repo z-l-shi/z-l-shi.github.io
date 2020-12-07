@@ -188,6 +188,9 @@ collections:
   journals_main:
     output: true
     permalink: /:collection/:path/
+  join_us:
+    output: true
+    permalink: /:collection/:path/
   preprints:
     output: true
     permalink: /:collection/:path/
