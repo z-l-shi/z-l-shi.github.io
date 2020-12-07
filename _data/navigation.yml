@@ -14,9 +14,12 @@ main:
 
 
   - title: "Teaching"
-    url: /teaching/    
-    
-  # - title: "Portfolio"
+    url: /teaching/
+
+  - title: "Join us"
+      url: /join_us/
+
+        # - title: "Portfolio"
   #   url: /portfolio/
         
   # - title: "Blog Posts"
