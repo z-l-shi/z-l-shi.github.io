@@ -1,5 +1,5 @@
 ---
-layout: archive
+# layout: archive
 title: "join us"
 permalink: /join_us/
 author_profile: true
