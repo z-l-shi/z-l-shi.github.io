@@ -1,6 +1,6 @@
 ---
 permalink: /join_us/
-# title: join us
+# title: Laboratory
 author_profile: true
 redirect_from: 
   - /joinUsmd/
