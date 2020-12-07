@@ -1,6 +1,6 @@
 ---
 # layout: archive
-title: "join us"
+# title: "join us"
 permalink: /join_us/
 author_profile: true
 redirect_from:
