@@ -1,6 +1,6 @@
 ---
 title: "Multi-marginal Wasserstein Gan"
-collection: conferences
+collection: conferences_main
 permalink: /publication/Multi-marginal
 date: 2019-10-10
 year: "2019"
