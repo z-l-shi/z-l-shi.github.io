@@ -24,6 +24,6 @@ Qualifications
 Application
 ----------
 *******
-* Postdoctoral application form (download from <a href='./download_material/postoctoral_application_form.docx' target="_blank">here</a>).
+* Postdoctoral application form (download from <a href='/download_material/postoctoral_application_form.docx' target="_blank">here</a>).
 * Names and contact information of 2 references.
 Send to your application in one zip file to **mingkuitan@scut.edu.cn**. Use “SMIL prospective Postdoc [Your name]” as your email subject.
