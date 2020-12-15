@@ -1,6 +1,6 @@
 ---
 title: "Visual Grounding via Accumulated Attention"
-collection:  journals
+collection:  journals_main
 permalink: /publication/Visual_Grounding
 date: 2020-01-28
 year: "2020"

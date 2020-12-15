@@ -9,57 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-Personal Information
+Postdocs Opening
 ----------
 *******
-* Date of Birth　　　　　　19 May, 1983
-* Gender　　　　　　　　 &ensp;Male
-* Nationality　　　　　　　People's Republic of China
+Our Lab has sufficient research resources and closely collaborates with academia and industry. We highly value the personal and professional growth of lab members and aim to create the most productive and rewarding working environment possible. Currently, we are recruiting postdoctoral fellows.
 
-Education
+Qualifications
 ----------
 *******
-* B.A. in Environmental Engineering , Hunan University, 2002 - 2006
-* M.E. in Control Science and Engineering, Hunan University, 2006 - 2009
-* Ph.D in Computer Science, Nanyang Technological University, 2009 - 2014
+* Ph.D. in computer science, artificial intelligence, mathematics, engineering or other related fields.
+* Strong interests in both theory and application of machine learning, computer vision, model compression, transfer learning and smart healthcare.
+* Possess scientific research capabilities, can carry out research independently and be able to lead graduate students in scientific research.
 
-Work Experience
+Application
 ----------
 *******
-* 2013.09 - 2014.05: Research Assistant
-  * Nanyang Technological University
-  * Supervisor: Prof. Ivor Tsang
-
-* 2014.06 - 2016.09: Senior Research Assistant
-  * School of Computer Engineering, The University of Adelaide
-
-* 2016.09 - now: Professor / PhD Tutor
-  * School of Software Engineering, South China University of Technology
-
-
-Research Interest
---------
-********
-* Machine learning 
-  * Machine learning theory
-  * Tensor analysis
-  * Large-scale parallel optimization
-  * Intelligent recommendation system
-
-* Computer vision
-  * Deep learning
-  * Image Identification
-  * Video understanding
-  * Transfer learning
-  * Image stabilization
-
-Research funding
----------
-********
-* Hosted or participated in more than 10 national natural science funds, provincial international cooperation projects and enterprise horizontal projects.
-
-<!-- Programming Skills
-----------
-*******
-* Strong programming ability in C/C++.
-* Familiar with Python programming. -->
+* Postdoctoral application form (download from <a href='./download_material/postoctoral_application_form.docx' target="_blank">here</a>).
+* Names and contact information of 2 references.
+Send to your application in one zip file to **mingkuitan@scut.edu.cn**. Use “SMIL prospective Postdoc [Your name]” as your email subject.
