@@ -2,8 +2,8 @@
 title: "RSPNet: Relative Speed Perception for Unsupervised Video Representation Learning "
 collection: conferences
 permalink: /publication/RSPNet
-date: 2020-2-9
-year: "2020"
+date: 2021-2-9
+year: "2021"
 venue: "AAAI"
 city: 
 state: ""
