@@ -14,7 +14,7 @@ bibtex:
 uri: RSPNet.pdf
 arxiv: 
 project: 
-source:https://github.com/PeihaoChen/RSPNet
+source: https://github.com/PeihaoChen/RSPNet
 poster: 
 data:
 ---
