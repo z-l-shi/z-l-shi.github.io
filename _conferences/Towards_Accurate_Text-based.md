@@ -7,7 +7,7 @@ year: "2021"
 venue: "CVPR"
 city: 
 state: ""
-thumbnail: 
+thumbnail:"General_pic.png" 
 teaser :
 authors: "Guanghui Xu, Mingkui Tan, Shuaicheng Niu, Yucheng Luo, Qing Du, Qi Wu"
 bibtex: 
