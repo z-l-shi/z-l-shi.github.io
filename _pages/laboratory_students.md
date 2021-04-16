@@ -21,25 +21,15 @@ Doctoral Students
 * Shuaicheng Niu
 * Zhiquan Wen
 * Daiyuan Li
+* Senmao Ye
+* Xianghui Ruan
+* Yaofo Chen
+* Peihao Chen
+* Shoukai Xu
 
 Graduate Students
 --------
-* Yifan Zhang
-* Jiezhang Cao
-* Ke Xu
-* Yangyang Lu
-* Jing Liu
-* Shuaiwei Cui
-* Yihan Zheng
-* Qi Chen
-* Shihao Zhang
-* Zilong Ye
-* Ran Yang
-* Fen Liu
 * Peiyao Luo
-* Yaofo Chen
-* Shoukai Xu
-* Peihao Chen
 * Guanghui Xu
 * Wenxin Ma
 * Jincheng Li
@@ -49,7 +39,6 @@ Graduate Students
 * Zhenyu Wang
 * Ning Ding
 * Hongdong Xiao
-* Li Liu
 * Chendi Rao
 * Weicheng Chi
 * Deng Huang
@@ -58,26 +47,33 @@ Graduate Students
 * Zhen Qiu
 * Mengge He
 * Yifan Yang
-* Gang Dai
 * Gengqin Ni
 * Jiaqiu Zhou
-* Rui Li
-* Zhiqiang Liu
-* Wenqi Wang
 * Rong Li
 * Haoming Xu
-* langyuan Mo
+* Langyuan Mo
+* Guo Chen
+* Liangwei Chen
+* Wenjing Du
+* Weiwen Hu
+* Dongyu Ji
+* Hongbin Lin
+* Xu Liu
+* Yuchen Luo
+* Zhenliang Li
+* Zeng You
+* Kai Zhou
+* Shuhai Zhang
+* Huangtong Li
 
 Undergraduates
 --------
-* Xu Liu
-* Zeng You
-* Xiaolong Li
-* Zhenliang Li
-* Hongbin Lin
-* Liangwei Chen
-* Weiwen Hu
-* Dongyu Ji
-* Yucheng Luo
-* Kai Zhou
-* Shuhai Zhang
+* Weitao Deng
+* Shangxin Huang
+* Kunyang Lin
+* Lizhao Liu
+* Zihao Lian
+* Yuxin Sun
+* Dikai Xu
+* Botao Zhou
+* Shijian Zheng
