@@ -14,7 +14,7 @@ bibtex: Scalable.txt
 uri: Scalable.pdf
 arxiv: 
 project: 
-source:
+source: https://github.com/iemppu/arss
 poster: 
 data:
 ---
