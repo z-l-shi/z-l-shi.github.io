@@ -13,8 +13,5 @@ authors: "Guanghui Xu, Mingkui Tan, Shuaicheng Niu, Yucheng Luo, Qing Du, Qi Wu"
 bibtex: 
 uri: Towards_Accurate_Text-based.pdf
 arxiv: 
-project: 
+project:
 source:https://github.com/guanghuixu/AnchorCaptioner
-poster: 
-data:
----

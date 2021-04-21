@@ -15,7 +15,7 @@ bibtex: Self-Supervised.txt
 uri: Self-Supervised.pdf
 arxiv: 
 project: 
-source:
+source: https://github.com/Kali-Hac/SGE-LA
 poster: 
 data:
 ---
