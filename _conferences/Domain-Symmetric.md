@@ -14,7 +14,7 @@ bibtex: Domain-Symmetric.txt
 uri: Domain-Symmetric.pdf
 arxiv: https://arxiv.org/abs/1904.04663
 project: 
-source: 
+source: https://github.com/YBZh/SymNets 
 poster: 
 data: http://sites.scut.edu.cn/GPI/main.psp
 ---
