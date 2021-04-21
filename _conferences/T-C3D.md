@@ -14,7 +14,7 @@ bibtex: T-C3D.txt
 uri: T-C3D.pdf
 arxiv: 
 project: 
-source: https://github.com/tc3d
+source: https://github.com/tc3d/tc3d
 poster: 
 data:
 ---
