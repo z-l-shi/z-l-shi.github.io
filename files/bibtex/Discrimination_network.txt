@@ -1,0 +1,20 @@
+@article{DBLP:journals/corr/abs-2001-01050,
+  author    = {Jing Liu and
+               Bohan Zhuang and
+               Zhuangwei Zhuang and
+               Yong Guo and
+               Junzhou Huang and
+               Jin{-}Hui Zhu and
+               Mingkui Tan},
+  title     = {Discrimination-aware Network Pruning for Deep Model Compression},
+  journal   = {CoRR},
+  volume    = {abs/2001.01050},
+  year      = {2020},
+  url       = {http://arxiv.org/abs/2001.01050},
+  archivePrefix = {arXiv},
+  eprint    = {2001.01050},
+  timestamp = {Fri, 10 Jan 2020 13:10:19 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2001-01050.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
