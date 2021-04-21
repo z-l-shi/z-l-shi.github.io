@@ -15,3 +15,6 @@ uri: Towards_Accurate_Text-based.pdf
 arxiv: 
 project:
 source: https://github.com/guanghuixu/AnchorCaptioner
+poster: 
+data:
+---
