@@ -14,7 +14,7 @@ bibtex: Adversarial.txt
 uri: Adversarial.pdf
 arxiv: https://arxiv.org/abs/1806.04895
 project: 
-source:
+source: https://github.com/guoyongcs/LCCGAN
 poster:
 data:
 ---
