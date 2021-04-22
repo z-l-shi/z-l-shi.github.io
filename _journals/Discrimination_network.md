@@ -1,10 +1,10 @@
 ---
 title: "Discrimination-aware Network Pruning for Deep Model Compression"
-collection: conferences
+collection: journals
 permalink: /publication/Discrimination_network
 date: 2020-01-04
 year: "2020"
-venue: "IEEE"
+venue: "CoRR abs/2001.01050"
 city: 
 state: ""
 thumbnail: "Discrimination_network.png"

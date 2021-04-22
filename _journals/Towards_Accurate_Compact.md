@@ -1,6 +1,6 @@
 ---
 title: "Towards Accurate and Compact Architectures via Neural Architecture Transformer"
-collection: conferences
+collection: journals
 permalink: /publication/Towards_Accurate_Compact
 date: 2021-02-20
 year: "2021"
