@@ -1,0 +1,8 @@
+@misc{liu2021lbs,
+      title={LBS: Loss-aware Bit Sharing for Automatic Model Compression}, 
+      author={Jing Liu and Bohan Zhuang and Peng Chen and Yong Guo and Chunhua Shen and Jianfei Cai and Mingkui Tan},
+      year={2021},
+      eprint={2101.04935},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
