@@ -1,5 +1,5 @@
 ---
-title: "Discrimination-aware network pruning for deep model compression"
+title: "Discrimination-aware Network Pruning for Deep Model Compression"
 collection: conferences
 permalink: /publication/Discrimination_network
 date: 2020-01-04
