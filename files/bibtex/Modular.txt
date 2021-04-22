@@ -1,0 +1,22 @@
+@InProceedings{10.1007/978-3-030-69544-6_9,
+author="Zheng, Yihan
+and Wen, Zhiquan
+and Tan, Mingkui
+and Zeng, Runhao
+and Chen, Qi
+and Wang, Yaowei
+and Wu, Qi",
+editor="Ishikawa, Hiroshi
+and Liu, Cheng-Lin
+and Pajdla, Tomas
+and Shi, Jianbo",
+title="Modular Graph Attention Network for Complex Visual Relational Reasoning",
+booktitle="Computer Vision -- ACCV 2020",
+year="2021",
+publisher="Springer International Publishing",
+address="Cham",
+pages="137--153",
+abstract="Visual Relational Reasoning is crucial for many vision-and-language based tasks, such as Visual Question Answering and Vision Language Navigation. In this paper, we consider reasoning on complex referring expression comprehension (c-REF) task that seeks to localise the target objects in an image guided by complex queries. Such queries often contain complex logic and thus impose two key challenges for reasoning: (i) It can be very difficult to comprehend the query since it often refers to multiple objects and describes complex relationships among them. (ii) It is non-trivial to reason among multiple objects guided by the query and localise the target correctly. To address these challenges, we propose a novel Modular Graph Attention Network (MGA-Net). Specifically, to comprehend the long queries, we devise a language attention network to decompose them into four types: basic attributes, absolute location, visual relationship and relative locations, which mimics the human language understanding mechanism. Moreover, to capture the complex logic in a query, we construct a relational graph to represent the visual objects and their relationships, and propose a multi-step reasoning method to progressively understand the complex logic. Extensive experiments on CLEVR-Ref+, GQA and CLEVR-CoGenT datasets demonstrate the superior reasoning performance of our MGA-Net.",
+isbn="978-3-030-69544-6"
+}
+
