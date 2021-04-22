@@ -1,8 +1,0 @@
-@misc{guo2021accurate,
-      title={Towards Accurate and Compact Architectures via Neural Architecture Transformer}, 
-      author={Yong Guo and Yin Zheng and Mingkui Tan and Qi Chen and Zhipeng Li and Jian Chen and Peilin Zhao and Junzhou Huang},
-      year={2021},
-      eprint={2102.10301},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
