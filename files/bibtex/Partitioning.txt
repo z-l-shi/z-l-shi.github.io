@@ -1,0 +1,9 @@
+@ARTICLE{9320527,
+  author={Ding, Shaoshuai and Yang, Lei and Cao, Jiannong and Cai, Wei and Tan, Mingkui and Wang, Zhenyu},
+  journal={IEEE Transactions on Services Computing}, 
+  title={Partitioning Stateful Data Stream Applications in Dynamic Edge Cloud Environments}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TSC.2021.3051046}}
