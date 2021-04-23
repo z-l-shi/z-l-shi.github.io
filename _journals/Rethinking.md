@@ -2,7 +2,7 @@
 title: "Rethinking Binary Neural Network for Accurate Image Classification and Semantic Segmentation"
 collection: journals
 permalink: /publication/Rethinking
-date: 2021-11-22
+date: 2018-11-22
 year: "2018"
 venue: "Evaluation"
 city: 
