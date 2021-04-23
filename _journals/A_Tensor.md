@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/A_Tensor
 date: 2020-11-23
 year: "2020"
-venue: "IEEE"
+venue: "IEEE Transactions on Knowledge and Data Engineering"
 city: 
 state: ""
 thumbnail: 
