@@ -11,7 +11,7 @@ thumbnail: "Partitioning.png"
 teaser :
 authors: "Shaoshuai Ding, Lei Yang, Jiannong Cao, Wei Cai, Mingkui Tan, Zhenyu Wang"
 bibtex: Partitioning.txt
-uri: 
+uri: Partitioning.pdf
 arxiv: 
 project: 
 source: 
