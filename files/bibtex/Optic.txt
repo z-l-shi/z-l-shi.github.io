@@ -1,0 +1,6 @@
+@article{yin2018optic,
+  title={Optic Disc and Cup Segmentation using Ensemble Deep Neural Networks},
+  author={Yin, Pengshuai and Xu, Guanghui and Wang, Jingwen and Yan, Yuguang and Min, Huaqing and Wu, Qingyao and Tan, Mingkui},
+  journal={Refuge reports ()},
+  year={2018}
+}
