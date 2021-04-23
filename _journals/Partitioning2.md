@@ -8,13 +8,13 @@ venue: "IEEE Transactions on Services Computing"
 city: 
 state: ""
 thumbnail: "Partitioning.png"
-teaser : 
+teaser :
 authors: "Shaoshuai Ding, Lei Yang, Jiannong Cao, Wei Cai, Mingkui Tan, Zhenyu Wang"
 bibtex: Partitioning.txt
 uri: Partitioning.pdf
 arxiv: 
 project: 
-source:
+source: 
 poster: 
 data:
 ---
