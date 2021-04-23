@@ -14,7 +14,7 @@ bibtex: Towards_effective.txt
 uri: Towards_effective.pdf
 arxiv: 
 project: 
-source:
+source: https://github.com/SCUT-AILab/AFA
 poster:
 data:
 ---
