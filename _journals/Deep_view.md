@@ -10,7 +10,7 @@ state: ""
 thumbnail: "Deep_View.png"
 teaser : 
 authors: "Zhuoman Liu, Wei Jia, Ming Yang, Peiyao Luo, Yong Guo, Mingkui Tan"
-bibtex: 
+bibtex: Deep_View.txt
 uri: Deep_View.pdf
 arxiv: 
 project: 

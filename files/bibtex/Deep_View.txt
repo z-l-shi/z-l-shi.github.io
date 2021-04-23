@@ -1,0 +1,7 @@
+@article{liu2021deep,
+  title={Deep View Synthesis via Self-Consistent Generative Network},
+  author={Liu, Zhuoman and Jia, Wei and Yang, Ming and Luo, Peiyao and Guo, Yong and Tan, Mingkui},
+  journal={IEEE Transactions on Multimedia},
+  year={2021},
+  publisher={IEEE}
+}
