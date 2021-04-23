@@ -14,7 +14,7 @@ bibtex:
 uri: Deep_View.pdf
 arxiv: 
 project: 
-source:
+source: https://github.com/zhuomanliu/SCGN
 poster:
-data:
+data: https://zhuomanliu.github.io/datasets/download.html
 ---
