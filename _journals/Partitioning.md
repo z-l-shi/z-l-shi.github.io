@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/Partitioning
 date: 2021-01-12
 year: "2021"
-venue: "IEEE"
+venue: "IEEE Transactions on Services Computing"
 city: 
 state: ""
 thumbnail: "Partitioning.png"
