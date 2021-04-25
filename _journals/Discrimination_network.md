@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/Discrimination_network
 date: 2021-03-29
 year: "2021"
-venue: "IEEE"
+venue: "TPAMI"
 city: 
 state: ""
 thumbnail: "Discrimination_network.png"
