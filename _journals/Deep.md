@@ -14,7 +14,7 @@ bibtex: Deep.txt
 uri: Deep.pdf
 arxiv: https://arxiv.org/abs/1904.11151
 project: 
-source: 
+source: https://github.com/JiehongLin/CorrReg
 poster:
 data:
 ---

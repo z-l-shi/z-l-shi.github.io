@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/Multi-class
 date: 2019-04-19
 year: "2019"
-venue: "J. Mach. Learn. Res. 20"
+venue: "JMLR"
 city: 
 state: ""
 thumbnail: "Multi-class.png"
