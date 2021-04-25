@@ -14,7 +14,7 @@ bibtex: A_Real-time.txt
 uri: A_Real-time.pdf
 arxiv: 
 project: 
-source: https://github.com/tc3d
+source: https://github.com/tc3d/tc3d
 poster: 
 data:
 ---
