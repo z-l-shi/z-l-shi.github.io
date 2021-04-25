@@ -14,7 +14,7 @@ bibtex: LateFusion.txt
 uri: LateFusion.pdf
 arxiv: 
 project: 
-source: https://github.com/D-X-Y/HCMF
+source: https://github.com/xiangfasong/HCMF
 poster: 
 data:
 ---
