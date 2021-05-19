@@ -1,6 +1,6 @@
 ---
 title: "Towards Accurate Text-based Image Captioning with Content Diversity Exploration "
-collection: conferences
+collection: conferences_main
 permalink: /publication/Towards_Accurate_Text-based
 date: 2021-04-26
 year: "2021"

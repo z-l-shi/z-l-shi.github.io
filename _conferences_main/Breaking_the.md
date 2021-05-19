@@ -1,6 +1,6 @@
 ---
 title: "Breaking the Curse of Space Explosion: Towards Effcient NAS with Curriculum Search"
-collection: conferences
+collection: conferences_main
 permalink: /publication/Breaking_the
 date: 2020-07-07
 year: "2020"
