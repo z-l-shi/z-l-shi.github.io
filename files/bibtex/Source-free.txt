@@ -1,0 +1,8 @@
+@misc{qiu2021sourcefree,
+      title={Source-free Domain Adaptation via Avatar Prototype Generation and Adaptation}, 
+      author={Zhen Qiu and Yifan Zhang and Hongbin Lin and Shuaicheng Niu and Yanxia Liu and Qing Du and Mingkui Tan},
+      year={2021},
+      eprint={2106.15326},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

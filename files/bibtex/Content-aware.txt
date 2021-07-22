@@ -1,0 +1,11 @@
+@article{GUO2021,
+title = {Content-aware convolutional neural networks},
+journal = {Neural Networks},
+year = {2021},
+issn = {0893-6080},
+doi = {https://doi.org/10.1016/j.neunet.2021.06.030},
+url = {https://www.sciencedirect.com/science/article/pii/S0893608021002628},
+author = {Yong Guo and Yaofo Chen and Mingkui Tan and Kui Jia and Jian Chen and Jingdong Wang},
+keywords = {Convolution, Neural networks, Redundancy reduction},
+abstract = {Convolutional Neural Networks (CNNs) have achieved great success due to the powerful feature learning ability of convolution layers. Specifically, the standard convolution traverses the input images/features using a sliding window scheme to extract features. However, not all the windows contribute equally to the prediction results of CNNs. In practice, the convolutional operation on some of the windows (e.g., smooth windows that contain very similar pixels) can be very redundant and may introduce noises into the computation. Such redundancy may not only deteriorate the performance but also incur the unnecessary computational cost. Thus, it is important to reduce the computational redundancy of convolution to improve the performance. To this end, we propose a Content-aware Convolution (CAC) that automatically detects the smooth windows and applies a 1 ×1 convolutional kernel to replace the original large kernel. In this sense, we are able to effectively avoid the redundant computation on similar pixels. By replacing the standard convolution in CNNs with our CAC, the resultant models yield significantly better performance and lower computational cost than the baseline models with the standard convolution. More critically, we are able to dynamically allocate suitable computation resources according to the data smoothness of different images, making it possible for content-aware computation. Extensive experiments on various computer vision tasks demonstrate the superiority of our method over existing methods.}
+}

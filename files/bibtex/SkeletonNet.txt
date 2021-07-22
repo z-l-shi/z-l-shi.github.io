@@ -1,0 +1,8 @@
+@misc{tang2021skeletonnet,
+      title={SkeletonNet: A Topology-Preserving Solution for Learning Mesh Reconstruction of Object Surfaces from RGB Images}, 
+      author={Jiapeng Tang and Xiaoguang Han and Mingkui Tan and Xin Tong and Kui Jia},
+      year={2021},
+      eprint={2008.05742},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
