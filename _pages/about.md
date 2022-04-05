@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <br />
-　　I am currently a professor with the School of Software Engineering at South China University of Technology. I received my Bachelor Degree in Environmental Science and Engineering in 2006 and Master degree in Control Science and Engineering in 2009, both from Hunan University in Changsha, China. I received the Ph.D. degree in Computer Science from Nanyang Technological University, Singapore, in 2014. From 2014-2016, I worked as a Senior Research Associate on computer vision in the School of Computer Science, University of Adelaide, Australia. My research interests include machine learning, sparse analysis, deep learning and large-scale optimization.
+　　I am currently a professor with the School of Future Technology at South China University of Technology. I received my Bachelor and Master degrees from Harbin Engineering University, Harbin, China, in 2013 and 2016, respectively, and the Ph.D degree in Electrical Engineering from City University of Hong Kong, Hong Kong, China, in 2019. From 2019 to 2022, I worked as a Research Fellow in the Department of Electrical and Computer Engineering, National University of Singapore, Singapore. My research interests include machine learning, optimization methods, and neuromorphic computing with applications to image/video/speech signal processing.
 
 
 Conferences
