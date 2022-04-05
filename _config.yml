@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Qi Liu"
   avatar           : "profile.png"
-  bio              : Research Scientist
+  bio              : Professor
   location         : "Guangzhou, China"
   employer         : "SCUT"
-  googlescholar    : "https://scholar.google.com.sg/citations?user=EVsoTGkAAAAJ&hl=en"
-  email            : "mingkuitan@scut.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=ekQx0bIAAAAJ&hl=zh-TW"
+  email            : "drliuqi@scut.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
