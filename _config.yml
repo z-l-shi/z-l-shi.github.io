@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Qi Liu's Homepage"
 title_separator          : "-"
-name                     : &name "Mingkui Tan"
+name                     : &name "Qi Liu"
 description              : &description "personal description"
 url                      : https://drliuqi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -87,7 +87,7 @@ author:
   employer         : "SCUT"
   googlescholar    : "https://scholar.google.com/citations?user=ekQx0bIAAAAJ&hl=zh-TW"
   email            : "drliuqi@scut.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Qi-Liu-24"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tanmingkui"
+  github           : "drliuqi"
   google_plus      :
   keybase          :
   instagram        :
