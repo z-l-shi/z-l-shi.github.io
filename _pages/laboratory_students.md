@@ -7,9 +7,6 @@ redirect_from:
   - /laboratory_students
 ---
 
-My Students
---------
-
 Doctoral Students
 --------
 * 
