@@ -4,10 +4,10 @@ collection:  journals
 permalink: /publication/Offgrid
 date: 2017-05-25
 year: "2017"
-venue: "Signal Processing, 140, p.171-176, 2017"
+venue: "Signal Processing, 140,"
 city: 
 state: ""
-thumbnail: "Offgird.png"
+thumbnail: "Offgrid.png"
 teaser : 
 authors: " Qi Liu, Hing Cheung So, Yuantao Gu "
 bibtex: Offgrid.txt
