@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 <br />
-　　Students in our group majors in Machine Learning, Computer vision, NLP and so on, and has made many achievements in these fields, such as NeurIPS, CVPR, ICML and so on.
+　　Students in our group majors in Machine Learning, Computer vision, NLP and so on, and has made many achievements in these fields.
 
 Doctoral Students
 --------
-*
+* 
 
 Graduate Students
 --------
