@@ -7,7 +7,8 @@ redirect_from:
   - /laboratory_students
 ---
 
-
+Doctoral Students
+--------
 Graduate Students
 --------
 * Jinhao Lin (2022-)
