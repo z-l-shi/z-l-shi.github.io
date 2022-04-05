@@ -11,6 +11,7 @@ redirect_from:
 
 Openings
 ----------
-I am looking for Ph.D students, Master students, and Visiting students in Artificial Intelligence, Machine Learning, Deep Learning and their applications. If you are interested in these positions, please drop me an email as well as your CV.
+<br />
+　　I am looking for Ph.D students, Master students, and Visiting students in Artificial Intelligence, Machine Learning, Deep Learning and their applications. If you are interested in these positions, please drop me an email as well as your CV.
 
 
