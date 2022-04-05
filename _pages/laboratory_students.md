@@ -16,7 +16,7 @@ Doctoral Students
 
 Graduate Students
 --------
-* Jinhao Lin
+* Jinhao Lin (2022-)
 
 Undergraduates
 --------
