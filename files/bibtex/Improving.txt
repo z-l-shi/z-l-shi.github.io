@@ -1,8 +1,0 @@
-@ARTICLE{9149832,  
-author={J. {Cao} and Y. {Guo} and Q. {Wu} and C. {Shen} and J. {Huang} and M. {Tan}},  
-journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},   
-title={Improving Generative Adversarial Networks with Local Coordinate Coding},   
-year={2020},  
-volume={},  
-number={},  
-pages={1-1},}
