@@ -1,0 +1,9 @@
+@ARTICLE{8684295,
+  author={Liu, Qi and Gu, Yuantao and So, Hing Cheung},
+  journal={IEEE Transactions on Aerospace and Electronic Systems}, 
+  title={DOA Estimation in Impulsive Noise via Low-Rank Matrix Approximation and Weakly Convex Optimization}, 
+  year={2019},
+  volume={55},
+  number={6},
+  pages={3603-3616},
+  doi={10.1109/TAES.2019.2909728}}
