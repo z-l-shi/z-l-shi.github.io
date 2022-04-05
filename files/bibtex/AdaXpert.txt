@@ -1,8 +1,0 @@
-@misc{niu2021adaxpert,
-      title={AdaXpert: Adapting Neural Architecture for Growing Data}, 
-      author={Shuaicheng Niu and Jiaxiang Wu and Guanghui Xu and Yifan Zhang and Yong Guo and Peilin Zhao and Peng Wang and Mingkui Tan},
-      year={2021},
-      eprint={2107.00254},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
