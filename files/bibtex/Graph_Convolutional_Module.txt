@@ -1,9 +1,0 @@
-@ARTICLE{9459486,
-  author={Zeng, Runhao and Huang, Wenbing and Tan, Mingkui and Rong, Yu and Zhao, Peilin and Huang, Junzhou and Gan, Chuang},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
-  title={Graph Convolutional Module for Temporal Action Localization in Videos}, 
-  year={2021},
-  volume={},
-  number={},
-  pages={1-1},
-  doi={10.1109/TPAMI.2021.3090167}}
