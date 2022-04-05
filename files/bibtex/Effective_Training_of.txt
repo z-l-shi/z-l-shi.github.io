@@ -1,8 +1,0 @@
-@misc{zhuang2021effective,
-      title={Effective Training of Convolutional Neural Networks with Low-bitwidth Weights and Activations}, 
-      author={Bohan Zhuang and Jing Liu and Mingkui Tan and Lingqiao Liu and Ian Reid and Chunhua Shen},
-      year={2021},
-      eprint={1908.04680},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
