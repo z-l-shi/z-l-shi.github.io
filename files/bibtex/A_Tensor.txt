@@ -1,9 +1,0 @@
-@ARTICLE{9266052,
-  author={Han, Chao and Chen, Jian and Tan, Mingkui and Ng, Michael K. and Wu, Qingyao},
-  journal={IEEE Transactions on Knowledge and Data Engineering}, 
-  title={A Tensor-based Markov Chain Model for Heterogeneous Information Network Collective Classification}, 
-  year={2020},
-  volume={},
-  number={},
-  pages={1-1},
-  doi={10.1109/TKDE.2020.3039533}}
