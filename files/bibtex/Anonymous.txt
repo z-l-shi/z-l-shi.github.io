@@ -1,8 +1,0 @@
-@INPROCEEDINGS{9175537,  
-author={L. {Zhang} and G. {Chen} and Y. {Shi} and Q. {Zhang} and M. {Tan} and Y. {Wang} and Y. {Tian} and T. {Huang}},  
-booktitle={2020 IEEE Conference on Multimedia Information Processing and Retrieval (MIPR)},   
-title={Anonymous Model Pruning for Compressing Deep Neural Networks},   
-year={2020},  
-volume={},  
-number={},  
-pages={157-160},}
