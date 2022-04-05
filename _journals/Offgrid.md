@@ -4,7 +4,7 @@ collection:  journals
 permalink: /publication/Offgrid
 date: 2017-05-25
 year: "2017"
-venue: "Signal Processing"
+venue: "Signal Processing, 140, p.171-176, 2017"
 city: 
 state: ""
 thumbnail: "Offgird.png"
