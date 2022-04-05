@@ -7,7 +7,7 @@ redirect_from:
   - /laboratory_students
 ---
 
-# Doctoral Students
+Doctoral Students
 --------
 * 
 
