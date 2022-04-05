@@ -1,5 +1,0 @@
-@inproceedings{Zhuang2018RethinkingBN,
-  title={Rethinking Binary Neural Network for Accurate Image Classification and Semantic Segmentation},
-  author={Bohan Zhuang and Chunhua Shen and Mingkui Tan and L. Liu and I. Reid},
-  year={2018}
-}
