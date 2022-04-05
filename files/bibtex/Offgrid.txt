@@ -1,0 +1,13 @@
+@article{LIU2017171,
+title = {Off-grid DOA estimation with nonconvex regularization via joint sparse representation},
+journal = {Signal Processing},
+volume = {140},
+pages = {171-176},
+year = {2017},
+issn = {0165-1684},
+doi = {https://doi.org/10.1016/j.sigpro.2017.05.020},
+url = {https://www.sciencedirect.com/science/article/pii/S0165168417301913},
+author = {Qi Liu and Hing Cheung So and Yuantao Gu},
+keywords = {DOA estimation, Off-grid model, Sparse representation, Nonconvex regularization},
+abstract = {In this paper, we address the problem of direction-of-arrival (DOA) estimation using sparse representation. As the performance of on-grid DOA estimation methods will degrade when the unknown DOAs are not on the angular grids, we consider the off-grid model via Taylor series expansion, but dictionary mismatch is introduced. The resulting problem is nonconvex with respect to the sparse signal and perturbation matrix. We develop a novel objective function regularized by the nonconvex sparsity-inducing penalty for off-grid DOA estimation, which is jointly convex with respect to the sparse signal and perturbation matrix. Then alternating minimization is applied to tackle this joint sparse representation of the signal recovery and perturbation matrix. Numerical examples are conducted to verify the effectiveness of the proposed method, which achieves more accurate DOA estimation performance and faster implementation than the conventional sparsity-aware and state-of-the-art off-grid schemes.}
+}
