@@ -1,4 +1,6 @@
 ---
+# layout: archive
+# title: "My Students"
 permalink: /laboratory_students/
 # title: Laboratory
 author_profile: true
