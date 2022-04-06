@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "DOAgrid.png"
 teaser : 
-authors: "Zhenyu Wei; Xin Li; Ben Wang; Wei Wang; Qi Liu"
+authors: "Zhenyu Wei, Xin Li, Ben Wang, Wei Wang, Qi Liu"
 bibtex: DOAgrid.txt
 uri: DOAgrid.pdf
 arxiv: 
