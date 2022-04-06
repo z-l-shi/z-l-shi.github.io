@@ -44,17 +44,36 @@ Academia Services
 ----------
 * Associate Editor: Digital Signal Processing, 2022-
 * Guest Editor:  
-X. Wang, Q. Liu, and B. Zhang, "Special Issue on Efficient Processing and Learning with DNNs for Multidimensional Signal Processing", International Journal of Antennas and Propagation, 2022. https://www.hindawi.com/journals/ijap/si/837632/
+X. Wang, Q. Liu, and B. Zhang, Special Issue on "Efficient Processing and Learning with DNNs for Multidimensional Signal Processing", International Journal of Antennas and Propagation, 2022. https://www.hindawi.com/journals/ijap/si/837632/
   
-  X. Wang, Q. Liu, B. Zhang and W. Liu, "Special Issue on Scalable and Robust Optimization Techniques for Multidimensional Signal Processing", Wireless Communications and Mobile Computing, 2022. https://www.hindawi.com/journals/wcmc/si/395818/
+  X. Wang, Q. Liu, B. Zhang and W. Liu, Special Issue on "Scalable and Robust Optimization Techniques for Multidimensional Signal Processing", Wireless Communications and Mobile Computing, 2022. https://www.hindawi.com/journals/wcmc/si/395818/
 
 * Conference Chair:  
 Q. Liu and H. Cao, Special Session Chair of "Artificial Intelligence based Array Signal Processing and Its Applications" in the 2nd International Conference on Frontiers of Electronics, Information and Computation Technologies (ICFEICT), Wuhan, China, 2022. http://www.feict.net/workshop/
 
 
 * Journal Reviewer:  
-IEEE Internet of Things Journal 
-IEEE Transactions on Signal Processing
+IEEE Internet of Things Journal    
+IEEE Transactions on Cybernetics   
+IEEE Transactions on Evolutionary Computations   
+IEEE Transactions on Signal Processing   
+IEEE Transactions on Communications   
+IEEE Transactions on Audio, Speech and Language Processing    
+IEEE Journal of Selected Topics in Signal Processing    
+IEEE Transactions on Aerospace and Electronic Systems    
+IEEE Transactions on Vehicular Technology     
+IEEE Transactions on Systems, Man and Cybernetics: Systems 
+IEEE Sensors Journal 
+IEEE Systems Journal    
+IEEE Signal Processing Letters     
+IEEE Wireless Communications Letters     
+IEEE Communications Letters     
+Signal Processing     
+Digital Signal Processing
+Journal of Machine Learning Research 
+IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2022   
+IEEE International Joint Conference on Neural Networks (IJCNN) 2021  
+IEEE Sensor Array and Multichannel Signal Processing Workshop (SAM) 2018    
 
 
 
