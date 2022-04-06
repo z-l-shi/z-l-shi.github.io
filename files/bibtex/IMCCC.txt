@@ -1,0 +1,9 @@
+@INPROCEEDINGS{6994987,
+  author={Guang, Chen and Qi, Liu},
+  booktitle={2014 Fourth International Conference on Instrumentation and Measurement, Computer, Communication and Control}, 
+  title={Compressed Sensing-Based Angle Estimation for Noncircular Sources in MIMO Radar}, 
+  year={2014},
+  volume={},
+  number={},
+  pages={40-44},
+  doi={10.1109/IMCCC.2014.17}}
