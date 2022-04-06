@@ -62,8 +62,8 @@ IEEE Transactions on Audio, Speech and Language Processing
 IEEE Journal of Selected Topics in Signal Processing    
 IEEE Transactions on Aerospace and Electronic Systems    
 IEEE Transactions on Vehicular Technology     
-IEEE Transactions on Systems, Man and Cybernetics: Systems 
-IEEE Sensors Journal 
+IEEE Transactions on Systems, Man and Cybernetics: Systems      
+IEEE Sensors Journal       
 IEEE Systems Journal    
 IEEE Signal Processing Letters     
 IEEE Wireless Communications Letters     
