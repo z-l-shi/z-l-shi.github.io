@@ -1,0 +1,13 @@
+@article{LIU201997,
+title = {Smoothed sparse recovery via locally competitive algorithm and forward Euler discretization method},
+journal = {Signal Processing},
+volume = {157},
+pages = {97-102},
+year = {2019},
+issn = {0165-1684},
+doi = {https://doi.org/10.1016/j.sigpro.2018.11.017},
+url = {https://www.sciencedirect.com/science/article/pii/S0165168418303876},
+author = {Qi Liu and Yuantao Gu and Hing Cheung So},
+keywords = {Locally competitive algorithm (LCA), Alternating direction method of multipliers (ADMM), Smoothed sparse recovery},
+abstract = {This paper considers the problem of sparse recovery whose optimization cost function is a linear combination of a nonsmooth sparsity-inducing term and an ℓ2-norm as the metric for the residual error. Since the resultant sparse approximation involves nondifferentiable functions, locally competitive algorithm and forward Euler discretization method are exploited to approximate the nonsmooth objective function, yielding a smooth optimization problem. Alternating direction method of multipliers is then applied as the solver, and Nesterov acceleration trick is integrated for speeding up the computation process. Numerical simulations demonstrate the superiority of the proposed method over several popular sparse recovery schemes in terms of computational complexity and support recovery.}
+}
