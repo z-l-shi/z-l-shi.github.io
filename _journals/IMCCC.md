@@ -1,5 +1,5 @@
 ---
-title: "DOA Estimation in Impulsive Noise via Low-Rank Matrix Approximation and Weakly Convex Optimization"
+title: "Compressed Sensing-Based Angle Estimation for Noncircular Sources in MIMO Radar"
 collection: journals
 permalink: /publication/IMCCC
 date: 2014-12-29
