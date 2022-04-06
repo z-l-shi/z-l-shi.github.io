@@ -1,0 +1,9 @@
+@ARTICLE{9072537,
+  author={Li, Xiao Peng and Liu, Qi and So, Hing Cheung},
+  journal={IEEE Signal Processing Letters}, 
+  title={Rank-One Matrix Approximation With ℓ<sub><italic>p</italic></sub>-Norm for Image Inpainting}, 
+  year={2020},
+  volume={27},
+  number={},
+  pages={680-684},
+  doi={10.1109/LSP.2020.2988596}}
