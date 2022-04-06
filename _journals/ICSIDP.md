@@ -14,7 +14,7 @@ bibtex: ICSIDP.txt
 uri: ICSIDP.pdf
 arxiv: 
 project: 
-source: 
+source: ICSIDP.zip
 poster: 
 data:
 ---
