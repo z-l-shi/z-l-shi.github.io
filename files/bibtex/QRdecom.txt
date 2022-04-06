@@ -1,0 +1,9 @@
+@ARTICLE{8719905,
+  author={Cao, Hui and Huang, Long-Ting and Wu, Yuntao and Liu, Qi},
+  journal={IEEE Access}, 
+  title={Multidimensional Single-Tone Frequency Estimation Based on QR Decomposition}, 
+  year={2019},
+  volume={7},
+  number={},
+  pages={68153-68159},
+  doi={10.1109/ACCESS.2019.2918152}}
