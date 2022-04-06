@@ -1,0 +1,13 @@
+@article{14525668020201001,
+Abstract = {As an alternative to existing methods, we design a transform-domain algorithm to avoid the computational cost of a two-dimensional (2-D) spectral peak search when addressing the problem of joint azimuth and elevation directions-of-arrival (DOAs) estimation via an L-shaped array. Motivated by the linear prediction property of the signal cross-covariance matrix, the 2-D DOA estimation problem is equivalently converted into a 2-D frequency estimation problem. With the QR decomposition technique, the closed-form solutions in the transform domain with respect to the azimuth and elevation angles are successively estimated using the weighted least squared method as the solver, and it is shown that the proposed scheme achieves automatically pairing while permitting fast implementation. Simulations are presented to verify the effectiveness of the proposed method by comparison with several 2-D DOA estimators as well as the Cramér–Rao lower bound. [ABSTRACT FROM AUTHOR]},
+Author = {Cao, Hui and Liu, Qi and Wu, Yuntao},
+ISSN = {0278081X},
+Journal = {Circuits, Systems & Signal Processing},
+Keywords = {AZIMUTH, ALGORITHMS, FORECASTING, TWO-dimensional bar codes, ALTITUDES, ARRAY processing, ANGLES, Array signal processing, Closed-form solution, Direction-of-arrival estimation, QR decomposition},
+Number = {10},
+Pages = {5318 - 5329},
+Title = {Transform Domain: Design of Closed-Form Joint 2-D DOA Estimation Based on QR Decomposition.},
+Volume = {39},
+URL = {http://libproxy1.nus.edu.sg/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=a9h&AN=145256680&site=ehost-live},
+Year = {2020},
+}
