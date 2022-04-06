@@ -69,8 +69,8 @@ IEEE Signal Processing Letters
 IEEE Wireless Communications Letters     
 IEEE Communications Letters     
 Signal Processing     
-Digital Signal Processing
-Journal of Machine Learning Research 
+Digital Signal Processing    
+Journal of Machine Learning Research       
 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2022   
 IEEE International Joint Conference on Neural Networks (IJCNN) 2021  
 IEEE Sensor Array and Multichannel Signal Processing Workshop (SAM) 2018    
