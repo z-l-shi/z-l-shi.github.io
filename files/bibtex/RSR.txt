@@ -1,0 +1,13 @@
+@article{LIU201884,
+title = {Robust sparse recovery via weakly convex optimization in impulsive noise},
+journal = {Signal Processing},
+volume = {152},
+pages = {84-89},
+year = {2018},
+issn = {0165-1684},
+doi = {https://doi.org/10.1016/j.sigpro.2018.05.020},
+url = {https://www.sciencedirect.com/science/article/pii/S0165168418301890},
+author = {Qi Liu and Chengzhu Yang and Yuantao Gu and Hing Cheung So},
+keywords = {Weakly convex optimization, Robust sparse recovery, ADMM, Global optimum},
+abstract = {We propose a robust sparse recovery formulation in impulsive noise, where ℓ1 norm as the metric for the residual error and a class of weakly convex functions for inducing sparsity are employed. To solve the corresponding nonconvex and nonsmooth minimization, a slack variable is introduced to guarantee the convexity of the equivalent optimization problem in each block of variables. An efficient algorithm is developed for minimizing the surrogate Lagrangian based on the alternating direction method of multipliers. Model analysis guarantees that this novel robust sparse recovery formulation guarantees to attain the global optimum. Compared with several state-of-the-art algorithms, our method attains better recovery performance in the presence of outliers.}
+}
