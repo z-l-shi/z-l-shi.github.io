@@ -1,0 +1,9 @@
+@ARTICLE{8684295,
+  author={Liu, Qi and Wang, Wei and Liang, Dong and Wang Xianpeng},
+  journal={IEICE Transactions on Communications}, 
+  title={Real-Valued Reweighted l1 Norm Minimization Method Based on Data Reconstruction in MIMO Radar}, 
+  year={2015},
+  volume={E98-B},
+  number={11},
+  pages={2307-2313},
+  doi={10.1587/transcom.E98.B.2307}}
