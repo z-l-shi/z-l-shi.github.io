@@ -12,7 +12,7 @@ teaser :
 authors: "Hui Cao, Qi Liu"
 bibtex: ICSIDP.txt
 uri: ICSIDP.pdf
-arxiv: 
+arxiv: https://arxiv.org/abs/2004.04901
 project: 
 source: ICSIDP.zip
 poster: 
