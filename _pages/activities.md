@@ -53,8 +53,8 @@ Q. Liu and H. Cao, Special Session Chair of "Artificial Intelligence based Array
 
 
 * Journal Reviewer:
-
-
+IEEE Internet of Things Journal
+IEEE Transactions on Signal Processing
 
 
 
