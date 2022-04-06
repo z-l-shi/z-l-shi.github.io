@@ -11,12 +11,18 @@ redirect_from:
 
 Experiences
 ----------
-* Professor: Mar. 2022 - now, South China University of Technology (SCUT), Guangzhou, China
-* Research Fellow: Oct. 2019 - Mar. 2022, National University of Singapore (NUS), Singapore (Supervisor: Prof. Haizhou Li, IEEE Fellow)
-* Visiting Scholar: Oct. 2018 - Apr. 2019, University of California Davis (UCD), CA, USA (Supervisor: Prof. Zhi Ding, IEEE Fellow)
-* Ph.D degree: Aug. 2016 - Aug. 2019, City University of Hong Kong (CityU), Hong Kong, China (Supervisor: Prof. Hing Cheung So, IEEE Fellow)
-* M.S degree: Sept. 2013 - Mar. 2016, Harbin Engineering University (HEU), Harbin, China (Supervisor: Prof. Wei Wang)
-* B.E degree: Sept. 2009 - Jul. 2013, Harbin Engineering University (HEU), Harbin, China
+* Professor: Mar. 2022 - now
+  South China University of Technology (SCUT), Guangzhou, China
+* Research Fellow: Oct. 2019 - Mar. 2022
+  National University of Singapore (NUS), Singapore (Supervisor: Prof. Haizhou Li, IEEE Fellow)
+* Visiting Scholar: Oct. 2018 - Apr. 2019
+  University of California Davis (UCD), CA, USA (Supervisor: Prof. Zhi Ding, IEEE Fellow)
+* Ph.D degree: Aug. 2016 - Aug. 2019
+  City University of Hong Kong (CityU), Hong Kong, China (Supervisor: Prof. Hing Cheung So, IEEE Fellow)
+* M.S degree: Sept. 2013 - Mar. 2016
+  Harbin Engineering University (HEU), Harbin, China (Supervisor: Prof. Wei Wang)
+* B.E degree: Sept. 2009 - Jul. 2013
+  Harbin Engineering University (HEU), Harbin, China
 
 
 Awards and Honors
@@ -40,7 +46,5 @@ Academia Services
 
 
 
-<br />
-　　I am looking for Ph.D students, Master students, and Visiting students in Artificial Intelligence, Machine Learning, Deep Learning and their applications. If you are interested in these positions, please drop me an email as well as your CV.
 
 
