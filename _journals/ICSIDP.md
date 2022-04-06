@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/ICSIDP
 date: 2019-12-09
 year: "2019"
-venue: "ICSIDP,"
+venue: "IEEE ICSIDP,"
 city: 
 state: ""
 thumbnail: "ICSIDP.png"
