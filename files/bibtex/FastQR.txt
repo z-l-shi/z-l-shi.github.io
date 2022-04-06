@@ -1,0 +1,9 @@
+@ARTICLE{9037331,
+  author={Cao, Hui and Liu, Qi},
+  journal={IEEE Communications Letters}, 
+  title={Fast Rank-Revealing QR Factorization for Two-Dimensional Frequency Estimation}, 
+  year={2020},
+  volume={24},
+  number={6},
+  pages={1240-1243},
+  doi={10.1109/LCOMM.2020.2981027}}
