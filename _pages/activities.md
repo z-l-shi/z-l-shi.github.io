@@ -40,6 +40,13 @@ Awards and Honors
 * National Scholarship, HEU, 2015
 
 
+Invited Talks
+----------
+* "Image denoising via 2D random interpolation average scheme", hosted by Prof. Truong Nguyen (IEEE Fellow), Department of Electrical and Computer Engineering, University of California, San Diego (UCSD), 03 Dec. 2018. 
+
+* "Weakly convex optimization for signal processing problems", hosted by Prof. P.P. Vaidyanathan (IEEE Fellow), Department of Electrical Engineering, California Institute of Technology (Caltech), 30 Nov. 2018. 
+
+
 Academia Services
 ----------
 * Associate Editor: Digital Signal Processing, 2022-
