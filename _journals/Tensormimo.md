@@ -1,5 +1,5 @@
 ---
-title: "Tensor-based real-valued subspace approach for angle estimation in bistatic MIMO radar with unknown mutual coupling"
+title: "Tensor-based Real-valued Subspace Approach for Angle Estimation in Bistatic MIMO Radar with Unknown Mutual Coupling"
 collection: journals
 permalink: /publication/Tensormimo
 date: 2015-05-23
