@@ -1,5 +1,5 @@
 ---
-title: "DOA Estimation in Impulsive Noise via Low-Rank Matrix Approximation and Weakly Convex Optimization"
+title: "Accurate DOA Estimation Based on Real-Valued Singular Value Decomposition"
 collection: journals
 permalink: /publication/ICSIDP
 date: 2019-12-09
