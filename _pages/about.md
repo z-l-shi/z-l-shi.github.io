@@ -11,8 +11,8 @@ redirect_from:
 <br />
 　　I am currently a professor with the School of Future Technology at South China University of Technology. I received my Bachelor and Master degrees from Harbin Engineering University, Harbin, China, in 2013 and 2016, respectively, and the Ph.D degree in Electrical Engineering from City University of Hong Kong, Hong Kong, China, in 2019. From 2019 to 2022, I worked as a Research Fellow in the Department of Electrical and Computer Engineering, National University of Singapore, Singapore. My research interests include machine learning, optimization methods, and neuromorphic computing with applications to image/video/speech signal processing. Specifically,    
 * Matrix/Tensor decomposition, factorization, recovery, completion     
-* Direction-of-arrival estimation    
-* Image denoising, inpainting,restoration     
+* Image denoising, inpainting, restoration   
+* Direction-of-arrival estimation      
 * Sparse recovery   
 * Keyword spotting    
 * Network compression     
