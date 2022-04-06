@@ -1,0 +1,17 @@
+
+@Article{s16040539,
+AUTHOR = {Wang, Xianpeng and Wang, Wei and Li, Xin and Liu, Qi and Liu, Jing},
+TITLE = {Sparsity-Aware DOA Estimation Scheme for Noncircular Source in MIMO Radar},
+JOURNAL = {Sensors},
+VOLUME = {16},
+YEAR = {2016},
+NUMBER = {4},
+ARTICLE-NUMBER = {539},
+URL = {https://www.mdpi.com/1424-8220/16/4/539},
+ISSN = {1424-8220},
+ABSTRACT = {In this paper, a novel sparsity-aware direction of arrival (DOA) estimation scheme for a noncircular source is proposed in multiple-input multiple-output (MIMO) radar. In the proposed method, the reduced-dimensional transformation technique is adopted to eliminate the redundant elements. Then, exploiting the noncircularity of signals, a joint sparsity-aware scheme based on the reweighted     l 1     norm penalty is formulated for DOA estimation, in which the diagonal elements of the weight matrix are the coefficients of the noncircular MUSIC-like (NC MUSIC-like) spectrum. Compared to the existing     l 1     norm penalty-based methods, the proposed scheme provides higher angular resolution and better DOA estimation performance. Results from numerical experiments are used to show the effectiveness of our proposed method.},
+DOI = {10.3390/s16040539}
+}
+
+
+
