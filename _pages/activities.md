@@ -52,7 +52,7 @@ X. Wang, Q. Liu, and B. Zhang, Special Issue on "Efficient Processing and Learni
 Q. Liu and H. Cao, Special Session Chair of "Artificial Intelligence based Array Signal Processing and Its Applications" in the 2nd International Conference on Frontiers of Electronics, Information and Computation Technologies (ICFEICT), Wuhan, China, 2022. http://www.feict.net/workshop/
 
 
-* Journal Reviewer:  
+* Journal/Conference Reviewer:  
 IEEE Internet of Things Journal    
 IEEE Transactions on Cybernetics   
 IEEE Transactions on Evolutionary Computations   
