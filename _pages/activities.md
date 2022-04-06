@@ -19,6 +19,10 @@ Experiences
 * B.E degree: Sept. 2009 - Jul. 2013, Harbin Engineering University, Harbin, China
 
 
+Awards and Honors
+----------
+* IEEE
+
 
 Academia Services
 ----------
