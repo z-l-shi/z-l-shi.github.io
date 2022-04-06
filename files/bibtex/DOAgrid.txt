@@ -1,0 +1,12 @@
+@ARTICLE{3278,
+author={Z. Wei, X. Li, B. Wang, W. Wang, Q. Liu},
+journal={Radioengineering},
+title={An Efficient Super-Resolution DOA Estimator Based on Grid Learning},
+year={2019},
+month={Dec.},
+volume={28},
+number={4},
+pages={785-792},
+keywords={Direction of arrival (DOA) estimation;grid learning;sparse signal reconstruction (SSR);off-grid model},
+doi={10.13164/re.2019.0785},
+ISSN={1805-9600},}
