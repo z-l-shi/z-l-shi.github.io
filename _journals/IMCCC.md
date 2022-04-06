@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/IMCCC
 date: 2014-12-29
 year: "2014"
-venue: "IMCCC,"
+venue: "IEEE IMCCC,"
 city: 
 state: ""
 thumbnail: "IMCCC.png"
