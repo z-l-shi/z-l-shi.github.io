@@ -1,0 +1,12 @@
+@ARTICLE{2701,
+author={Wei Wang, Dong Liang, Zhihua Wang, Haiyang Yu, Qi Liu},
+journal={Radioengineering},
+title={Design and Implementation of a FPGA and DSP Based MIMO Radar Imaging System},
+year={2015},
+month={June},
+volume={24},
+number={2},
+pages={518-526},
+keywords={Radar imaging;MIMO radar;real-time system;FPGA;DSP},
+doi={10.13164/re.2015.0518},
+ISSN={1805-9600},}
