@@ -11,7 +11,7 @@ redirect_from:
 
 Experiences
 ----------
-* Professor: Mar. 2022 - now 
+* Professor: Mar. 2022 - now   
   South China University of Technology (SCUT), Guangzhou, China
 * Research Fellow: Oct. 2019 - Mar. 2022  
   National University of Singapore (NUS), Singapore (Supervisor: Prof. Haizhou Li, IEEE Fellow)
