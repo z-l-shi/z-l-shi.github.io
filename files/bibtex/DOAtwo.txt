@@ -1,0 +1,9 @@
+@INPROCEEDINGS{9104385,
+  author={Liu, Qi and Cao, Hui and Wu, Yuntao and Huang, Changhai},
+  booktitle={2020 IEEE 11th Sensor Array and Multichannel Signal Processing Workshop (SAM)}, 
+  title={DOA Estimation by Two-Dimensional Interpolation in the Presence of Mutual Coupling}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1-5},
+  doi={10.1109/SAM48682.2020.9104385}}
