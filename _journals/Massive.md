@@ -1,5 +1,5 @@
 ---
-title: "Parameter Tuning-Free Missing-Feature Reconstruction for Robust Sound Recognition"
+title: "Two-Dimensional Localization: Low-Rank Matrix Completion With Random Sampling in Massive MIMO System"
 collection: journals
 permalink: /publication/Massive
 date: 2021-9-01
