@@ -1,0 +1,13 @@
+@article{WU2021103,
+title = {HuRAI: A brain-inspired computational model for human-robot auditory interface},
+journal = {Neurocomputing},
+volume = {465},
+pages = {103-113},
+year = {2021},
+issn = {0925-2312},
+doi = {https://doi.org/10.1016/j.neucom.2021.08.115},
+url = {https://www.sciencedirect.com/science/article/pii/S0925231221013266},
+author = {Jibin Wu and Qi Liu and Malu Zhang and Zihan Pan and Haizhou Li and Kay Chen Tan},
+keywords = {Human-computer interface, Deep spiking neural networks, Neuromorphic computing, Voice activity detection, Speaker localization, Voice command recognition},
+abstract = {The deep learning era endows immense opportunities for ubiquitous robotic applications by leveraging big data generated from widespread sensors and ever-growing computing capability. While the growing demands for natural human-robot interaction (HRI) as well as concerns for energy efficiency, real-time performance, and data security motive novel solutions. In this paper, we present a brain-inspired spiking neural network (SNN) based Human-Robot Auditory Interface, namely HuRAI. The HuRAI integrates the voice activity detection, speaker localization and voice command recognition systems into a unified framework that can be implemented on the emerging low-power neuromorphic computing (NC) devices. Our experimental results demonstrate superior modeling capabilities of SNNs, achieving accurate and rapid prediction for each task. Moreover, the energy efficiency analysis reveals a compelling prospect, with up to three orders of magnitude energy savings, over the equivalent artificial neural networks that running on the state-of-the-art Nvidia graphics processing unit (GPU). Therefore, integrating the algorithmic power of large-scale SNN models and the energy efficiency of NC devices offers an attractive solution for real-time, low-power robotic applications.}
+}
