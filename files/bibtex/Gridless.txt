@@ -1,0 +1,9 @@
+@ARTICLE{9110826,
+  author={Wei, Zhenyu and Wang, Wei and Dong, Fuwang and Liu, Qi},
+  journal={IEEE Communications Letters}, 
+  title={Gridless One-Bit Direction-of-Arrival Estimation Via Atomic Norm Denoising}, 
+  year={2020},
+  volume={24},
+  number={10},
+  pages={2177-2181},
+  doi={10.1109/LCOMM.2020.3000755}}
