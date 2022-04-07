@@ -1,0 +1,9 @@
+@ARTICLE{9259032,
+  author={Liu, Qi and Wu, Jibin},
+  journal={IEEE Journal of Selected Topics in Signal Processing}, 
+  title={Parameter Tuning-Free Missing-Feature Reconstruction for Robust Sound Recognition}, 
+  year={2021},
+  volume={15},
+  number={1},
+  pages={78-89},
+  doi={10.1109/JSTSP.2020.3038054}}
