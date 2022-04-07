@@ -1,0 +1,9 @@
+@ARTICLE{9165770,
+  author={Liu, Qi and Li, Xiaopeng and Cao, Hui},
+  journal={IEEE Systems Journal}, 
+  title={Two-Dimensional Localization: Low-Rank Matrix Completion With Random Sampling in Massive MIMO System}, 
+  year={2021},
+  volume={15},
+  number={3},
+  pages={3628-3631},
+  doi={10.1109/JSYST.2020.3012775}}
