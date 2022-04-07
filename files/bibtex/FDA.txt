@@ -1,0 +1,9 @@
+@ARTICLE{9169831,
+  author={Liu, Qi and Xu, Jingwei and Ding, Zhi and So, Hing Cheung},
+  journal={IEEE Transactions on Vehicular Technology}, 
+  title={Target Localization With Jammer Removal Using Frequency Diverse Array}, 
+  year={2020},
+  volume={69},
+  number={10},
+  pages={11685-11696},
+  doi={10.1109/TVT.2020.3016948}}
