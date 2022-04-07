@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Noncircular.png"
 teaser : 
-authors: "Xianpeng Wang, Wei Wang, Xin Li, Qi Liu， Jing Liu"
+authors: "Xianpeng Wang, Wei Wang, Xin Li, Qi Liu, Jing Liu"
 bibtex: Noncircular.txt
 uri: Noncircular.pdf
 arxiv: 
