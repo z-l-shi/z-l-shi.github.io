@@ -1,5 +1,5 @@
 ---
-title: "Off-grid DOA estimation with nonconvex regularization via joint sparse representation"
+title: "Off-grid DOA Estimation with Nonconvex Regularization via Joint Sparse Representation"
 collection:  journals
 permalink: /publication/Offgrid
 date: 2017-05-25
