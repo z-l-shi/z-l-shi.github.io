@@ -9,12 +9,12 @@ city:
 state: ""
 thumbnail: "AV.png"
 teaser : 
-authors: "Qi Liu, Jibin Wu"
+authors: "Xinyuan Qian, Qi Li, Jiadong Wang, Haizhou Li"
 bibtex: AV.txt
 uri: AV.pdf
 arxiv: 
 project: 
 source: 
 poster: 
-data:
+data: https://drive.google.com/drive/folders/1tHcEYvRhSQx2h0rcQzvKqULVrGLE21LW
 ---
