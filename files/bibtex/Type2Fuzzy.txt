@@ -1,0 +1,9 @@
+@ARTICLE{9222365,
+  author={Liu, Qi and Li, Xiaopeng and Yang, Jicheng},
+  journal={IEEE Transactions on Fuzzy Systems}, 
+  title={Optimum Codesign for Image Denoising Between Type-2 Fuzzy Identifier and Matrix Completion Denoiser}, 
+  year={2022},
+  volume={30},
+  number={1},
+  pages={287-292},
+  doi={10.1109/TFUZZ.2020.3030498}}
