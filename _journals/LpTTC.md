@@ -12,7 +12,7 @@ teaser :
 authors: "Qi Liu, Xiaopeng Li, Hui Cao, Yuntao Wu"
 bibtex: LpTTC.txt
 uri: LpTTC.pdf
-arxiv: LpTTC-arxiv.pdf
+arxiv: LpTTCarxiv.pdf
 project: 
 source: https://www.researchgate.net/publication/354687086_From_Simulated_to_Visual_Data_A_Robust_Low-Rank_Tensor_Completion_Approach_using_lp-Regression_for_Outlier_Resistance
 poster: 
