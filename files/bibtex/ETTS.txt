@@ -1,0 +1,9 @@
+@ARTICLE{9702532,
+  author={Liu, Rui and Liu, Qi and Zhu, Hongxu and Cao, Hui},
+  journal={IEEE Internet of Things Journal}, 
+  title={Multi-Stage Deep Transfer Learning for EmIoT-enabled Human-Computer Interaction}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/JIOT.2022.3148766}}
