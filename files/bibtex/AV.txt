@@ -1,0 +1,9 @@
+@ARTICLE{9466446,
+  author={Qian, Xinyuan and Liu, Qi and Wang, Jiadong and Li, Haizhou},
+  journal={IEEE Signal Processing Letters}, 
+  title={Three-Dimensional Speaker Localization: Audio-Refined Visual Scaling Factor Estimation}, 
+  year={2021},
+  volume={28},
+  number={},
+  pages={1405-1409},
+  doi={10.1109/LSP.2021.3092959}}
