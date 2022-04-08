@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <br />
-　　Students in our group majors in Machine Learning, Computer vision, NLP and so on, and has made many achievements in these fields.
+　　Students in our group majors in Machine Learning, Deep Learning, Computer Vision, NLP and so on, and has made many achievements in these fields.
 
 Doctoral Students
 --------
