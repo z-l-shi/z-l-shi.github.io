@@ -56,9 +56,8 @@ X. Wang, Q. Liu, and B. Zhang, Special Issue on "Efficient Processing and Learni
   X. Wang, Q. Liu, B. Zhang and W. Liu, Special Issue on "Scalable and Robust Optimization Techniques for Multidimensional Signal Processing", Wireless Communications and Mobile Computing, 2022. https://www.hindawi.com/journals/wcmc/si/395818/
 
 * Conference Chair:  
-Q. Liu and H. Cao, Special Session Chair of "Artificial Intelligence based Array Signal Processing and Its Applications" in the 2nd International Conference on Frontiers of Electronics, Information and Computation Technologies (ICFEICT), Wuhan, China, 2022. http://www.feict.net/workshop/     
-
-
+Q. Liu and H. Cao, Special Session Chair of "Artificial Intelligence based Array Signal Processing and Its Applications" in the 2nd International Conference on Frontiers of Electronics, Information and Computation Technologies (ICFEICT), Wuhan, China, 2022. http://www.feict.net/workshop/         
+      
 J. Xu, Q. Liu, P. Xiao, Session Chair of "Array Signal Processing", in the 14th International Conference on Signal Processing Systems (ICSPS), Zhenjiang, China, 2022. http://www.icsps.org/s6.html
 
 
