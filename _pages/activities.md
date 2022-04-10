@@ -49,7 +49,7 @@ Invited Talks
 
 Academia Services
 ----------
-* Associate Editor: Digital Signal Processing, 2022-
+* Associate Editor: Digital Signal Processing, 2022- . https://www.journals.elsevier.com/digital-signal-processing/editorial-board/qi-liu
 * Guest Editor:  
 X. Wang, Q. Liu, and B. Zhang, Special Issue on "Efficient Processing and Learning with DNNs for Multidimensional Signal Processing", International Journal of Antennas and Propagation, 2022. https://www.hindawi.com/journals/ijap/si/837632/
   
