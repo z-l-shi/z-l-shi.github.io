@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Onespike.png"
 teaser : 
-authors: "Qi Liu, Jibin Wu"
+authors: "Jiadong Wang, Jibin Wu, Malu Zhang, Qi Liu, Haizhou Li"
 bibtex: Onespike.txt
 uri: Onespike.pdf
 arxiv: 
