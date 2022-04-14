@@ -8,7 +8,7 @@ city:
 state: ""
 thumbnail: "EEG.png"
 teaser :
-authors: "Peiwen Li, Siqi Cai, Enze Su, Qi Liu, Lihua Xie"
+authors: "Peiwen Li, Siqi Cai, Enze Su, Qi Liu, Longhan Xie"
 bibtex: EEG.txt
 uri: EEG.pdf
 arxiv: 
