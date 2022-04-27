@@ -16,8 +16,8 @@ Doctoral Students
 
 Graduate Students
 --------
-* 林锦濠 (2022-)
+* 林锦濠 (2022.9-)
 
-Undergraduates
+Former Students
 --------
 * 
