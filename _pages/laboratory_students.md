@@ -12,7 +12,7 @@ redirect_from:
 
 Doctoral Students
 --------
-* 
+* 王煜骁 (2022.9-)
 
 Graduate Students
 --------
