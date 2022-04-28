@@ -50,7 +50,7 @@ Invited Talks
 Academia Services
 ----------
 * Associate Editor:         
- IEEE Systems Journal, 2022- .
+ IEEE Systems Journal, 2022- . https://ieeesystemsjournal.org/journal-of-boards/
  
   Digital Signal Processing, 2022- . https://www.journals.elsevier.com/digital-signal-processing/editorial-board/qi-liu        
 
