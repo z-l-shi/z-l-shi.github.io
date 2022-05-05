@@ -12,11 +12,11 @@ redirect_from:
 
 Doctoral Students
 --------
-* 王煜骁 (2022.9-)
+* Wang Yuxiao王煜骁 (2022.9-)
 
 Graduate Students
 --------
-* 林锦濠 (2022.9-)
+* Lin Jinhao林锦濠 (2022.9-)
 
 Former Students
 --------
