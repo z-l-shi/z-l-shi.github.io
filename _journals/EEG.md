@@ -2,7 +2,7 @@
 title: "A Neural-Inspired Architecture for EEG-Based Auditory Attention Detection"
 collection: journals
 permalink: /publication/EEG
-date: 2022-5-15
+date: 2022-6-15
 year: "2022"
 venue: "IEEE Transactions on Human-Machine Systems,"
 city: 
