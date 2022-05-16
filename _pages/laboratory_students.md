@@ -18,6 +18,6 @@ Graduate Students
 --------
 * Lin Jinhao 林锦濠 (2022.9-)
 
-Former Students
+Former Students (whereabout)
 --------
 * 
