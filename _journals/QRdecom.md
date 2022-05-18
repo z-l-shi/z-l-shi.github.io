@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "QRdecom.png"
 teaser : 
-authors: "Qi Liu, Yuantao Gu, Hing Cheung So"
+authors: "Hui Cao, Longting Huang, Yuntao Wu, Qi Liu"
 bibtex: QRdecom.txt
 uri: QRdecom.pdf
 arxiv: 
