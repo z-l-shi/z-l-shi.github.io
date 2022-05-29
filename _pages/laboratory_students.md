@@ -13,7 +13,6 @@ redirect_from:
 Doctoral Students
 --------
 * Wang Yuxiao 王煜骁 (2022.9-)
-* Li Pengfei 李鹏飞 (2022.9-)
 
 Graduate Students
 --------
