@@ -1,5 +1,5 @@
 ---
-title: "Knowledge distillation for In-memory keyword spotting model"
+title: "Knowledge Distillation for In-Memory Keyword Spotting Model"
 collection: journals
 permalink: /publication/IMC
 date: 2022-6-15
