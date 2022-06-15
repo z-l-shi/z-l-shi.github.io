@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "IMC.png"
 teaser : 
-authors: "Qi Liu, Jibin Wu"
+authors: "Zeyang Song, Qi Liu, Qu Yang, Haizhou Li"
 bibtex: IMC.txt
 uri: IMC.pdf
 arxiv: 
