@@ -1,0 +1,9 @@
+@ARTICLE{9785988,
+  author={Cai, Siqi and Li, Peiwen and Su, Enze and Liu, Qi and Xie, Longhan},
+  journal={IEEE Transactions on Human-Machine Systems}, 
+  title={A Neural-Inspired Architecture for EEG-Based Auditory Attention Detection}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-9},
+  doi={10.1109/THMS.2022.3176212}}
