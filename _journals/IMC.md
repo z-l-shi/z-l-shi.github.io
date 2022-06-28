@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/IMC
 date: 2022-6-15
 year: "2022"
-venue: "Interspeech,"
+venue: "INTERSPEECH,"
 city: 
 state: ""
 thumbnail: "IMC.png"
