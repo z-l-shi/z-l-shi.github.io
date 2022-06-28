@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/DRSNN
 date: 2022-6-16
 year: "2022"
-venue: "Interspeech,"
+venue: "INTERSPEECH,"
 city: 
 state: ""
 thumbnail: "DRSNN.png"
