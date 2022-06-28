@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "SAR.png"
 teaser : 
-authors: "Mengdi Zhang, Guisheng Liao, Jingwei Xu, Xiongpeng He, Qi Liu, Lan Lan"
+authors: "Mengdi Zhang, Guisheng Liao, Jingwei Xu, Xiongpeng He, Qi Liu, Lan Lan, Shiyin Li"
 bibtex: SAR.txt
 uri: SAR.pdf
 arxiv: 
