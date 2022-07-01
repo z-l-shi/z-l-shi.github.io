@@ -1,0 +1,9 @@
+@ARTICLE{9811414,
+  author={Zhang, Mengdi and Liao, Guisheng and Xu, Jingwei and He, Xiongpeng and Liu, Qi and Lan, Lan and Li, Shiyin},
+  journal={IEEE Transactions on Aerospace and Electronic Systems}, 
+  title={High-Resolution and Wide-Swath SAR Imaging with Sub-Band Frequency Diverse Array}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-14},
+  doi={10.1109/TAES.2022.3187386}}
