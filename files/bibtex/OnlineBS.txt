@@ -1,7 +1,7 @@
 @ARTICLE{9622266,
   author={Liu, Qi and Li, Xiaopeng},
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
-  title={Efficient Low-Rank Matrix Factorization Based on l1,ε-Norm for Online Background Subtraction}, 
+  title={Efficient Low-Rank Matrix Factorization Based on l1-Norm for Online Background Subtraction}, 
   year={2022},
   volume={32},
   number={7},
