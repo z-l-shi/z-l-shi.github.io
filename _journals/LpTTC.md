@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/LpTTC
 date: 2022-4-01
 year: "2022"
-venue: "IEEE Transactions on Circuits and Systems for Video Technology,"
+venue: "IEEE Transactions on Circuits and Systems for Video Technology, 32(6),"
 city: 
 state: ""
 thumbnail: "LpTTC.png"
