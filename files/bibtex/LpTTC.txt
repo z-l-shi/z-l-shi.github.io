@@ -1,7 +1,7 @@
 @ARTICLE{9541391,
   author={Liu, Qi and Li, Xiaopeng and Cao, Hui and Wu, Yuntao},
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
-  title={From Simulated to Visual Data: A Robust Low-Rank Tensor Completion Approach Using <italic>&#x2113;</italic><sub><italic>p</italic></sub>-Regression for Outlier Resistance}, 
+  title={From Simulated to Visual Data: A Robust Low-Rank Tensor Completion Approach Using lp-Regression for Outlier Resistance}, 
   year={2022},
   volume={32},
   number={6},
