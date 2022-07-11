@@ -18,4 +18,6 @@ Requirements:
 * Postdocs: Ph.D degree in EE or CS; will perform research on NLP, Dialogue generation, Human-Machine interaction, 3D vision, or related video/image/speech signal processing.
 * Research Assistant: should possess at least Bachelor degree (no requirement in discipline). Programming experience is preferred.
 
-Potential candidates are welcome to submit your CV to Prof. Qi Liu (drliuqi@scut.edu.cn).
+Potential candidates are welcome to submit your CV to:
+Prof. Qi Liu (drliuqi@scut.edu.cn)
+School of Future Technology, South China University of Technology.
