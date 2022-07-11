@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Openings
+Perennial Openings
 ----------
 <br />
-　　I am looking for Postdocs (300~500K per year), Research Assistant (6K~8K per month), Ph.D students, Master students, and Visiting students in Artificial Intelligence, Machine Learning, Deep Learning and their applications. If you are interested in these positions, please drop me an email as well as your CV.
+　　I am looking for Postdocs (300~500K annual saraly), Research Assistant (6K~8K per month), Ph.D students, Master students, and Visiting students in Artificial Intelligence, Machine Learning, Deep Learning and their applications. If you are interested in these positions, please drop me an email as well as your CV.
 
-* Postdocs: 
+Requirements:
+* Postdocs: Ph.D degree in EE or CS; will perform research on NLP, Dialogue generation, Human-Machine interaction, 3D vision, as well as video/image/speech signal processing.
+* Research Assistant: should possess at least Bachelor degree (no requirement in discipline). Programming experience is preferred.
