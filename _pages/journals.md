@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Journals"
+title: "Papers"
 permalink: /journals/
 author_profile: true
 ---
