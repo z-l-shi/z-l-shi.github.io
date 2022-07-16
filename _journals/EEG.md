@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/EEG
 date: 2022-6-15
 year: "2022"
-venue: "IEEE Transactions on Human-Machine Systems,"
+venue: "IEEE Transactions on Human-Machine Systems, 52(4),"
 city: 
 state: ""
 thumbnail: "EEG.png"
