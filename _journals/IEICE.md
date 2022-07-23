@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "IEICE.png"
 teaser : 
-authors: "Qi LIU, Wei WANG, Dong LIANG, Xianpeng WANG  "
+authors: "Qi Liu, Wei Wang, Dong Liang, Xianpeng Wang"
 bibtex: IEICE.txt
 uri: IEICE.pdf
 arxiv: 
