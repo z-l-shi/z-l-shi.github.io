@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "LpTTC.png"
 teaser : 
-authors: "Qi Liu, Jibin Wu"
+authors: "Qi Liu, Xiaopeng Li, Hui Cao, Yuntao Wu"
 bibtex: LpTTC.txt
 uri: LpTTC.pdf
 arxiv: 
