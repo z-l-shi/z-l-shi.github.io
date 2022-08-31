@@ -57,9 +57,9 @@ Academia Services
   Electronics and Signal Processing, 2022- . https://www.elspub.com/journals/electronics-and-signal-processing
 
 * Guest Editor:  
-Qi Liu, Junli Liang, Hing Cheung So, and Yimin Daniel Zhang, Special Issue on "Neural Networks and Machine Learning for Multidimensional Signal Processing", IET Signal Processing, 2022. https://digital-library.theiet.org/content/journals/iet-spr
+  Qi Liu, Junli Liang, Hing Cheung So, and Yimin Daniel Zhang, Special Issue on "Neural Networks and Machine Learning for Multidimensional Signal Processing", IET Signal Processing, 2022. https://digital-library.theiet.org/content/journals/iet-spr
 
-Xianpeng Wang, Qi Liu, and Bin Zhang, Special Issue on "Efficient Processing and Learning with DNNs for Multidimensional Signal Processing", International Journal of Antennas and Propagation, 2022. https://www.hindawi.com/journals/ijap/si/837632/
+  Xianpeng Wang, Qi Liu, and Bin Zhang, Special Issue on "Efficient Processing and Learning with DNNs for Multidimensional Signal Processing", International Journal of Antennas and Propagation, 2022. https://www.hindawi.com/journals/ijap/si/837632/
   
   Xianpeng Wang, Qi Liu, Bin Zhang and Wei Liu, Special Issue on "Scalable and Robust Optimization Techniques for Multidimensional Signal Processing", Wireless Communications and Mobile Computing, 2022. https://www.hindawi.com/journals/wcmc/si/395818/
 
