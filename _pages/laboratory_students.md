@@ -18,6 +18,7 @@ Doctoral Students
 --------
 * WANG Yuxiao 王煜骁 (2022.9-)
 * CHEN Bin 陈彬 (2022.9-)
+* WANG Fei 王飞 (2022.9-)
 
 Graduate Students
 --------
