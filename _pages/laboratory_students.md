@@ -12,7 +12,7 @@ redirect_from:
 
 Postdocs & RAs
 --------
-* 
+* WANG Yifei 王毅飞
 
 Doctoral Students
 --------
