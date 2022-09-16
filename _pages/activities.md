@@ -15,7 +15,7 @@ Experiences
   School of Future Technology, South China University of Technology (SCUT), Guangzhou, China
 * Research Fellow: Oct. 2019 - Mar. 2022  
   Department of Electrical and Computer Engineering, National University of Singapore (NUS), Singapore   
-  Supervisor: Prof. Haizhou Li (IEEE Fellow)
+  Supervisor: Prof. Haizhou Li (IEEE Fellow，新加坡工程院院士)
 * Visiting Scholar: Oct. 2018 - Apr. 2019  
   Department of Electrical and Computer Engineering, University of California Davis (UCD), CA, USA   
   Supervisor: Prof. Zhi Ding (IEEE Fellow)
@@ -44,7 +44,7 @@ Invited Talks
 ----------
 * "Image denoising via 2D random interpolation average scheme", hosted by Prof. Truong Nguyen (IEEE Fellow), Department of Electrical and Computer Engineering, University of California, San Diego (UCSD), 03 Dec. 2018. 
 
-* "Weakly convex optimization for signal processing problems", hosted by Prof. P.P. Vaidyanathan (IEEE Fellow), Department of Electrical Engineering, California Institute of Technology (Caltech), 30 Nov. 2018. 
+* "Weakly convex optimization for signal processing problems", hosted by Prof. P.P. Vaidyanathan (IEEE Fellow，美国工程院院士), Department of Electrical Engineering, California Institute of Technology (Caltech), 30 Nov. 2018. 
 
 
 Academia Services
