@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/Aloha
 date: 2022-9-01
 year: "2022"
-venue: "IEEE Open Journal of the Communications Society,"
+venue: "IEEE Open Journal of the Communications Society, 3,"
 city: 
 state: ""
 thumbnail: "Aloha.png"
