@@ -2,7 +2,7 @@
 title: "Sum Rate and Access Delay Optimization of Short-Packet Aloha"
 collection: journals
 permalink: /publication/Aloha
-date: 2022-8-03
+date: 2022-9-01
 year: "2022"
 venue: "IEEE Open Journal of the Communications Society,"
 city: 
