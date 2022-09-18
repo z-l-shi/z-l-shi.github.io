@@ -1,0 +1,9 @@
+@ARTICLE{9874859,
+  author={Sun, Xinghua and Zhan, Wen and Liu, Weihua and Li, Yitong and Liu, Qi},
+  journal={IEEE Open Journal of the Communications Society}, 
+  title={Sum Rate and Access Delay Optimization of Short-Packet Aloha}, 
+  year={2022},
+  volume={3},
+  number={},
+  pages={1501-1514},
+  doi={10.1109/OJCOMS.2022.3203803}}
