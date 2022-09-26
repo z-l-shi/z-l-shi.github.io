@@ -18,10 +18,13 @@ Doctoral Students
 --------
 * WANG Yuxiao 王煜骁 (2022.9-)
 * CHEN Bin 陈彬 (2022.9-)
+* CHEN Huajun 陈铧浚 (2023.9-)
 
 Graduate Students
 --------
 * LIN Jinhao 林锦濠 (2022.9-)
+* ZHAO Baozhu 赵宝柱 (2023.9-)
+* SU Junyan 苏俊彦 (2023.9-)
 
 Former Students (whereabout)
 --------
