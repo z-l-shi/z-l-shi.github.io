@@ -25,6 +25,8 @@ Graduate Students
 * LIN Jinhao 林锦濠 (2022.9-)
 * ZHAO Baozhu 赵宝柱 (2023.9-)
 * SU Junyan 苏俊彦 (2023.9-)
+* XUE Weiying 薛炜樱 (2023.9-)
+* GUO Jingfeng 郭靖丰 (2023.9-)
 
 Former Students (whereabout)
 --------
