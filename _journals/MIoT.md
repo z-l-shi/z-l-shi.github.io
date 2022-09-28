@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/MIoT
 date: 2022-6-01
 year: "2022"
-venue: "IEEE Internet of Things Journal,"
+venue: "IEEE Internet of Things Journal, 9(17),"
 city: 
 state: ""
 thumbnail: "MIoT.png"
