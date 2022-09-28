@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/ETTS
 date: 2022-5-01
 year: "2022"
-venue: "IEEE Internet of Things Journal,"
+venue: "IEEE Internet of Things Journal, 9(16),"
 city: 
 state: ""
 thumbnail: "ETTS.png"
