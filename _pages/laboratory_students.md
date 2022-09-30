@@ -16,7 +16,7 @@ Postdocs & RAs
 
 Doctoral Students
 --------
-* WANG Yuxiao 王煜骁 (2022.9-): 校长奖学金/3万元
+* WANG Yuxiao 王煜骁 (2022.9-): 校长奖学金￥3万元
 * CHEN Bin 陈彬 (2022.9-)
 * CHEN Huajun 陈铧浚 (2023.9-)
 
