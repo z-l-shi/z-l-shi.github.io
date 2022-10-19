@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <br />
-　　Students in our group majors in Machine Learning, Deep Learning, Human-Computer/Robot Interaction, Computer Vision, Speech Recognition, NLP and so on, and have made many achievements in these fields.
+　　Students in our group major in Machine Learning, Deep Learning, Optimization Methods, Neuromorphic Computing, Human-Computer/Robot Interaction, Computer Vision, Speech Recognition, NLP and so on, and have made many achievements in these fields.
 
 Postdocs & RAs
 --------
