@@ -13,6 +13,7 @@ redirect_from:
 Postdocs & RAs
 --------
 * WANG Yifei 王毅飞
+* WEI Zhenao 魏振傲
 
 Doctoral Students
 --------
