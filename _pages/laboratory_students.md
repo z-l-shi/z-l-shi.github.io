@@ -14,6 +14,7 @@ Postdocs & RAs
 --------
 * WANG Yifei 王毅飞
 * WEI Zhenao 魏振傲
+* LI Shikun 李仕坤
 
 Doctoral Students
 --------
