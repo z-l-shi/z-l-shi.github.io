@@ -13,7 +13,7 @@ redirect_from:
 Postdocs & RAs
 --------
 * WANG Yifei 王毅飞: Speech Recognition with Applications to Cognitive Impairment Detection
-* WEI Zhenao 魏振傲：
+* WEI Zhenao 魏振傲：Attributable Visual Similarity Learning
 * LI Shikun 李仕坤：
 
 Doctoral Students
