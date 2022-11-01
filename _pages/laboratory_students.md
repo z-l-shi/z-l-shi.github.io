@@ -12,23 +12,23 @@ redirect_from:
 
 Postdocs & RAs
 --------
-* WANG Yifei 王毅飞
-* WEI Zhenao 魏振傲
-* LI Shikun 李仕坤
+* WANG Yifei 王毅飞: Speech Recognition with Applications to Cognitive Impairment Detection
+* WEI Zhenao 魏振傲：
+* LI Shikun 李仕坤：
 
 Doctoral Students
 --------
-* WANG Yuxiao 王煜骁 (2022.9-): 校长奖学金￥3万元
-* CHEN Bin 陈彬 (2022.9-)
-* CHEN Huajun 陈铧浚 (2023.9-)
+* WANG Yuxiao 王煜骁 (2022.9-):  Human-Object Interaction Detection
+* CHEN Huajun 陈铧浚 (2023.9-): Text-to-Image Generation, NLP
+* CHEN Bin 陈彬 (2022.9-):
 
 Graduate Students
 --------
-* LIN Jinhao 林锦濠 (2022.9-)
-* ZHAO Baozhu 赵宝柱 (2023.9-)
-* SU Junyan 苏俊彦 (2023.9-)
-* XUE Weiying 薛炜樱 (2023.9-)
-* GUO Jingfeng 郭靖丰 (2023.9-)
+* LIN Jinhao 林锦濠 (2022.9-): Sentiment Analysis
+* ZHAO Baozhu 赵宝柱 (2023.9-)：Dynamic 3D Human Modeling
+* SU Junyan 苏俊彦 (2023.9-): Heterogeneous Multimodal Information Fusion
+* XUE Weiying 薛炜樱 (2023.9-)：Anomaly Detection， Small Target Detection
+* GUO Jingfeng 郭靖丰 (2023.9-): 3D Human Pose Estimation
 
 Undergraduate Students
 --------
