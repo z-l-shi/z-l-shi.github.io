@@ -30,6 +30,20 @@ Graduate Students
 * XUE Weiying 薛炜樱 (2023.9-)
 * GUO Jingfeng 郭靖丰 (2023.9-)
 
+Undergraduate Students
+--------
+* PAN Yufei 潘雨菲 (2022.9-)
+* ZHENG Xiang 郑想 (2022.9-)
+* ZHANG Bowen 张博文 (2022.9-)
+* CAI Zihao 蔡子皓 (2022.9-)
+* YIN Bo 尹博 (2022.9-)
+* JIANG Xinyu 蒋新宇 (2022.9-)
+* WANG Zihan 王子寒 (2022.9-)
+* CHEN Zixuan 陈子轩 (2022.9-)
+* HU Tianyi 胡天屹 (2022.9-)
+* LIU Xingyan 刘兴琰 (2022.9-)
+* HAN Lele 韩乐乐 (2022.9-)
+
 Former Students (whereabout)
 --------
 * 
