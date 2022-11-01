@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-* 2022.09.29, 恭喜王煜骁博士研究生获得校长奖学金（3万元）.
+* 2022.09.29, 恭喜博士研究生王煜骁同学获得校长奖学金（3万元）.
 * 2022.09.28, Mr. Wang Yifei joins us as a Research Assistant.        
 * 2022.05, I serve as the Associate Editor of IEEE Systems Journal.         
 * 2022.04, I serve as the Associate Editor of Digital Signal Processing.     
