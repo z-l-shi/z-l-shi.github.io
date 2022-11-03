@@ -96,5 +96,5 @@ IEEE Sensor Array and Multichannel Signal Processing Workshop (SAM) 2018
 
 Teaching
 ----------
-* Machine Learning
+* Machine Learning, 2022 Fall
 
