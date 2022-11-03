@@ -94,5 +94,7 @@ IEEE International Joint Conference on Neural Networks (IJCNN) 2021
 IEEE Sensor Array and Multichannel Signal Processing Workshop (SAM) 2018    
 
 
-
+Teaching
+----------
+* Machine Learning
 
