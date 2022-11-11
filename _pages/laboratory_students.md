@@ -13,7 +13,7 @@ redirect_from:
 Postdocs & RAs
 --------
 * WANG Yifei 王毅飞: Speech Recognition with Applications to Cognitive Impairment Detection
-* WEI Zhenao 魏振傲：Attributable Visual Similarity Learning
+* WEI Zhenao 魏振傲：Model Compression
 * LI Shikun 李仕坤：3D Vision, Point Cloud Registration
 
 Doctoral Students
