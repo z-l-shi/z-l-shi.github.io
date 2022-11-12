@@ -26,7 +26,7 @@ Graduate Students
 --------
 * LIN Jinhao 林锦濠 (2022.9-): Sentiment Analysis
 * ZHAO Baozhu 赵宝柱 (2023.9-)：Dynamic 3D Human Modeling
-* SU Junyan 苏俊彦 (2023.9-): Multimodal Deepfake
+* SU Junyan 苏俊彦 (2023.9-): Multimodal Deepfakes Detection
 * XUE Weiying 薛炜樱 (2023.9-)：Anomaly Detection, Small Target Detection
 * GUO Jingfeng 郭靖丰 (2023.9-): 3D Human Pose Estimation
 
