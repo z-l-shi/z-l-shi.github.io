@@ -19,7 +19,7 @@ Postdocs & RAs
 Doctoral Students
 --------
 * WANG Yuxiao 王煜骁 (2022.9-):  Human-Object Interaction Detection
-* CHEN Huajun 陈铧浚 (2023.9-): Text-to-Image Generation, NLP
+* CHEN Huajun 陈铧浚 (2023.9-): NLP, Text-to-Image Generation
 * CHEN Bin 陈彬 (2022.9-):
 
 Graduate Students
