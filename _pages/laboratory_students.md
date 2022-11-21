@@ -12,7 +12,7 @@ redirect_from:
 
 Postdocs & RAs
 --------
-* WANG Yifei 王毅飞: Speech Recognition with Applications to Cognitive Impairment Detection
+* WANG Yifei 王毅飞: Affective Computing, Micro Expression Recognition
 * WEI Zhenao 魏振傲：Model Compression
 * LI Shikun 李仕坤：3D Vision, Point Cloud Registration
 
