@@ -15,7 +15,7 @@ Perennial Openings
 　　I am looking for Postdocs (300~600K annual salaries, or more), Research Assistants (6K~8K per month), Ph.D students, Master students, and Visiting students in Artificial Intelligence, Machine Learning, Deep Learning, and their applications. If you are interested in these positions, please drop me an email as well as your CV.
 
 Requirements:
-* Postdoc: Ph.D degree in EE or CS; will perform research on NLP, Dialogue generation, Human-Machine interaction, Affective computing, 3D vision, or related video/image/speech/radar signal processing.
+* Postdoc: Ph.D degree in EE or CS; will perform research on NLP, Dialogue generation, Human-computer interaction, Affective computing, 3D vision, or related video/image/speech/radar signal processing.
 * Research Assistant: should possess at least Bachelor's degree (no requirement in discipline). Programming experience is preferred.
 
 Potential candidates are welcome to submit their CVs to:  
