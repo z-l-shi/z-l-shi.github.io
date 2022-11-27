@@ -28,9 +28,9 @@ Graduate Students
 * SU Junyan 苏俊彦 (2023.9-): Multimodal Deepfakes Detection
 * XUE Weiying 薛炜樱 (2023.9-)：Anomaly Detection, Small Target Detection
 * GUO Jingfeng 郭靖丰 (2023.9-): 3D Human Pose Estimation
-* LAN Yilin 蓝屹林 (2022.9-): 
-* LI Lemin 李乐民 (2022.9-): 
-* CHEN Han 陈涵 (2022.9-): 
+* LAN Yilin 蓝屹林 (2022.9-): Voice-driven Digital Human
+* LI Lemin 李乐民 (2022.9-): Digital Human Modeling
+* CHEN Han 陈涵 (2022.9-): Digital Twin Modeling of Human Health
 
 Undergraduate Students
 --------
