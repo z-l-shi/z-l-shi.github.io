@@ -46,6 +46,6 @@ Undergraduate Students
 * LIU Xingyan 刘兴琰 (2022.9-)
 * HAN Lele 韩乐乐 (2022.9-)
 
-Former Students (whereabout)
+Alumni (whereabout)
 --------
 * 
