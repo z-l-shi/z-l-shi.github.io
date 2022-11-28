@@ -12,11 +12,11 @@ redirect_from:
 Perennial Openings
 ----------
 <br />
-　　I am looking for Postdocs (300~600K annual salaries, or more), Research Assistants (6K~8K per month), Ph.D students, Master students, and Visiting students in Artificial Intelligence, Machine Learning, Deep Learning, and their applications. If you are interested in these positions, please drop me an email as well as your CV.
+　　I am looking for postdocs (300~600K annual salaries, or more), research assistants (6K~8K per month), Ph.D students, master students, and visiting students in multimodal computing and interaction (MCI), as well as their applications. If you are interested in these positions, please drop me an email.
 
 Requirements:
-* Postdoc: Ph.D degree in EE or CS; will perform research on NLP, Dialogue generation, Human-computer interaction, Affective computing, 3D vision, or related video/image/speech/radar signal processing.
-* Research Assistant: should possess at least Bachelor's degree (no requirement in discipline). Programming experience is preferred.
+* Postdoc: Ph.D degree in EE or CS; will perform research on natural language processing, dialogue generation, human-computer interaction, affective computing, 3D vision, or related video/image/speech/radar signal processing.
+* Research assistant: should possess at least bachelor's degree (no requirement in discipline). Programming experience is preferred.
 
 Potential candidates are welcome to submit their CVs to:  
 Prof. Qi Liu (drliuqi@scut.edu.cn)   
