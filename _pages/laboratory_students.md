@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <br />
-　　Students in our Multimodal Computing and Interaction (MCI) lab major in Machine Learning, Deep Learning, Optimization Methods, Neuromorphic Computing, Human-Computer/Robot Interaction, Computer Vision, Speech Recognition, NLP and so on, and have made many achievements in these fields.
+　　Students in our Multimodal Computing and Interaction (MCI) lab major in machine learning, neuromorphic computing, human-computer interaction, affective computing, 3D vision, speech recognition, natural language processing, and so on, and have made many achievements in these fields.
 
 Postdocs & RAs
 --------
