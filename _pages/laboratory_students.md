@@ -13,7 +13,7 @@ redirect_from:
 Postdocs & RAs
 --------
 * WANG Yifei 王毅飞: Affective Computing, Micro Expression Recognition
-* WEI Zhenao 魏振傲：Collaborative Filtering in Recommender Systems
+* WEI Zhenao 魏振傲：Recommender Systems and Applications
 
 Doctoral Students
 --------
