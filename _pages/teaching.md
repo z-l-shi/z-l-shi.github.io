@@ -5,8 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-* 2022.09.29: Congratulations! 恭喜博士研究生-王煜骁同学获得校长奖学金（3万元）.
-* 2022.09.28: Welcome Mr. Wang Yifei! Yifei joins us as a Research Assistant.        
+* 2022.09.29: Congratulations! 恭喜我的博士生-王煜骁同学获得校长奖学金.
+* 2022.09.28: Welcome Mr. Wang Yifei! Yifei joins us as a Research Assistant.
+* 2022.08.21：Congratulations! 恭喜我的博士生-王煜骁同学组队参加2022 CSIG图像图形技术挑战赛，在行为识别大赛中获得第五名（华为优胜奖）.       
 * 2022.04.27: I serve as the Associate Editor of IEEE Systems Journal.         
 * 2022.03.30: I join the SCUT as a Professor.                                  
 * 2022.02.12: I serve as the Associate Editor of Digital Signal Processing.    
