@@ -2,8 +2,8 @@
 title: "High-Resolution and Wide-Swath SAR Imaging with Sub-Band Frequency Diverse Array"
 collection: journals
 permalink: /publication/SAR
-date: 2022-6-21
-year: "2022"
+date: 2023-1-1
+year: "2023"
 venue: "IEEE Transactions on Aerospace and Electronic Systems,"
 city: 
 state: ""
