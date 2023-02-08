@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Gridless.png"
 teaser : 
-authors: "Zhenyu Wei, Wei Wang, Fuwang Dong, Qi Liu"
+authors: "Zhenyu Wei, Wei Wang*, Fuwang Dong, Qi Liu*"
 bibtex: Gridless.txt
 uri: Gridless.pdf
 arxiv: 
