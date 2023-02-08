@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "AV.png"
 teaser : 
-authors: "Xinyuan Qian, Qi Liu, Jiadong Wang, Haizhou Li"
+authors: "Xinyuan Qian, Qi Liu*, Jiadong Wang, Haizhou Li"
 bibtex: AV.txt
 uri: AV.pdf
 arxiv: 
