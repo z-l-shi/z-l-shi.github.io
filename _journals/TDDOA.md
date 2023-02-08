@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "TDDOA.png"
 teaser : 
-authors: "Hui Cao, Qi Liu, Yuntao Wu "
+authors: "Hui Cao, Qi Liu*, Yuntao Wu "
 bibtex: TDDOA.txt
 uri: TDDOA.pdf
 arxiv: 
