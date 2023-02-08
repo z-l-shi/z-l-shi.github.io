@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "FastQR.png"
 teaser : 
-authors: "Hui Cao, Qi Liu"
+authors: "Hui Cao, Qi Liu*"
 bibtex: FastQR.txt
 uri: FastQR.pdf
 arxiv: 
