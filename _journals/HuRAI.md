@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "HuRAI.png"
 teaser : 
-authors: "Jibin Wu, Qi Liu, Malu Zhang, Zihan Pan, Haizhou Li, Kay Chen Tan"
+authors: "Jibin Wu*, Qi Liu*, Malu Zhang, Zihan Pan, Haizhou Li, Kay Chen Tan"
 bibtex: HuRAI.txt
 uri: HuRAI.pdf
 arxiv: 
