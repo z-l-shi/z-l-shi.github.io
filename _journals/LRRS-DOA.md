@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "LRRS-DOA.png"
 teaser : 
-authors: "Huiping Huang, Qi Liu, Hing Cheung So, Abdelhak Zoubir"
+authors: "Huiping Huang, Qi Liu*, Hing Cheung So, Abdelhak Zoubir"
 bibtex: LRRS-DOA.txt
 uri: LRRS-DOA.pdf
 arxiv: 
