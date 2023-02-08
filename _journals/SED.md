@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "SED.png"
 teaser : 
-authors: "Zhixuan Zhang, Qi Liu"
+authors: "Zhixuan Zhang, Qi Liu*"
 bibtex: SED.txt
 uri: SED.pdf
 arxiv: 
