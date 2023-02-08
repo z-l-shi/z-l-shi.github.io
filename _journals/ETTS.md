@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "ETTS.png"
 teaser : 
-authors: "Rui Liu, Qi Liu, Hongxu Zhu, Hui Cao"
+authors: "Rui Liu, Qi Liu*, Hongxu Zhu, Hui Cao"
 bibtex: ETTS.txt
 uri: ETTS.pdf
 arxiv: 
