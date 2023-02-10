@@ -1,0 +1,13 @@
+@article{LIU2023103942,
+title = {Moving target detection in range-ambiguous clutter scenario with PA-FDA dual-mode radar},
+journal = {Digital Signal Processing},
+volume = {135},
+pages = {103942},
+year = {2023},
+issn = {1051-2004},
+doi = {https://doi.org/10.1016/j.dsp.2023.103942},
+url = {https://www.sciencedirect.com/science/article/pii/S1051200423000374},
+author = {Zhixin Liu and Shengqi Zhu and Jingwei Xu and Xiongpeng He and Qi Liu},
+keywords = {Frequency diverse array, Phased array, Airborne forward-looking array, Range-ambiguous clutter, Space-time adaptive processing},
+abstract = {Range-ambiguous clutter suppression is challenging for airborne radar in non-sidelooking geometry. The target detection performance might degrade severely due to range ambiguity and range dependence problems. It is proved that the frequency diverse array (FDA) is capable of resolving the range ambiguity and is beneficial for range ambiguous clutter suppression. However, FDA uses wide coverage transmit beampattern, which causes somewhat gain loss compared to the phased array (PA). In this paper, we establish a PA-FDA dual-mode radar to maximize the advantages of PA and FDA radars to improve target detection performance in range-ambiguous clutter scenario. Firstly, the range ambiguous resolvability of FDA is utilized, where range ambiguous clutters are separated by using pre-filtering before space-time adaptive processing. Therefore, the range dependence compensation algorithms can be performed independently to further address the range dependence problem of non-sidelooking array radar. In this case, the clutter covariance matrix (CCM) is reconstructed by using linear combination of distinguishable CCMs corresponding to different range regions, resulting in improved accuracy of CCM estimation. Secondly, the enhanced CCM is applied in PA counterpart, which maximizes the high beampattern gain of PA and range ambiguity resolvability of FDA. It is verified that the PA-FDA dual-mode radar outperforms the PA or FDA single-mode in simultaneously narrow-beam detection and wide-angle coverage. Thus, the proposed PA-FDA dual-mode radar can greatly contribute to searching and tracking tasks. Simulation examples demonstrate the effectiveness of the proposed method.}
+}
