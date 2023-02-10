@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/PA-FDA
 date: 2023-1-2
 year: "2023"
-venue: "Digital Signal Processing,"
+venue: "Digital Signal Processing, 135,"
 city: 
 state: ""
 thumbnail: "PA-FDA.png"
