@@ -97,5 +97,7 @@ IEEE Sensor Array and Multichannel Signal Processing Workshop (SAM) 2018
 
 Teaching
 ----------
+* Engineering Applications in Artificial Intelligence, 2023 Spring
 * Machine Learning, 2022 Fall
+
 
