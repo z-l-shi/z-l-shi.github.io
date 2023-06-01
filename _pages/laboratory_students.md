@@ -12,13 +12,14 @@ redirect_from:
 
 Postdocs & RAs
 --------
-* WANG Yifei 王毅飞: Affective Computing, Micro Expression Recognition
+* WANG Yifei 王毅飞: Micro Expression Recognition
 * WEI Zhenao 魏振傲：Recommender Systems and Applications
 
 Doctoral Students
 --------
 * WANG Yuxiao 王煜骁 (2022.9-):  Human-Object Interaction Detection
 * CHEN Huajun 陈铧浚 (2023.9-): Text-to-Image Generation
+* ZHANG Xiaohan 张笑晗 (2023.9-): 3D Scene Reconstruction
 * DENG Yu 邓宇 (2023.9-):
 * CHEN Bin 陈彬 (2022.9-):
 
