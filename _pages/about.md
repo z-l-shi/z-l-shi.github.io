@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <br />
-　　I am currently a Professor with the School of Future Technology at South China University of Technology. I received my Bachelor and Master degrees from Harbin Engineering University, Harbin, China, in 2013 and 2016, respectively, and the Ph.D degree in Electrical Engineering from City University of Hong Kong, Hong Kong, China, in 2019. During 2018 - 2019, I was a Visiting Scholar at University of California Davis, CA, USA. From 2019 to 2022, I worked as a Research Fellow in the Department of Electrical and Computer Engineering, National University of Singapore, Singapore. My research interests include machine learning, optimization methods, and neuromorphic computing with applications to image/video/speech/radar signal processing. 
+　　Qi Liu is currently a Professor with the School of Future Technology at South China University of Technology. Dr. Liu received the Ph.D degree in Electrical Engineering from City University of Hong Kong, Hong Kong, China, in 2019. During 2018 - 2019, he was a Visiting Scholar at University of California Davis, CA, USA. From 2019 to 2022, he worked as a Research Fellow in the Department of Electrical and Computer Engineering, National University of Singapore, Singapore. His research interests include AIGC, 3D scene reconstruction, and affective computing. Dr. Liu has been an Associate Editor of the IEEE Systems Journal (2022-), and Digital Signal Processing (2022-). He was also Guest Editor for the IEEE Internet of Things Journal, IET Signal Processing, etc. He was the recipient of the Best Paper Award of IEEE ICSIDP in 2019. 
 
 Journals
 ----------
