@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <br />
-　　Students in our Multimodal Computing and Interaction (MCI) lab major in machine learning, neuromorphic computing, human-computer interaction, affective computing, 3D vision, speech recognition, natural language processing, and so on.
+　　Students in our Multimodal Computing and Affective Interaction group major in AIGC, 3D Scene Reconstruction, Affective Computing, and so on.
 
 Postdocs & RAs
 --------
