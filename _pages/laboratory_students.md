@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <br />
-　　Students in our Multimodal Computing and Affective Interaction group major in AIGC, 3D Scene Reconstruction, Affective Computing, and so on.
+　　Students in our Multimodal Computing and Affective Interaction group major in AIGC, 3D Scene Reconstruction, Affective Computing, etc.
 
 Postdocs & RAs
 --------
