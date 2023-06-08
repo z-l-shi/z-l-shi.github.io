@@ -13,7 +13,7 @@ redirect_from:
 Postdocs & RAs
 --------
 * WANG Yifei 王毅飞: Micro Expression Recognition
-* WEI Zhenao 魏振傲：Recommender Systems and Applications
+* WEI Zhenao 魏振傲：Knowledge Graph Completion
 
 Doctoral Students
 --------
