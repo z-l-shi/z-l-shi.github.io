@@ -17,18 +17,18 @@ Postdocs & RAs
 
 Doctoral Students
 --------
-* WANG Yuxiao 王煜骁 (2022.9-):  Human-Object Interaction Detection
+* WANG Yuxiao 王煜骁 (2022.9-): Human-Object Interaction Detection
 * CHEN Huajun 陈铧浚 (2023.9-): Text-to-Image Generation
 * ZHANG Xiaohan 张笑晗 (2023.9-): 3D Scene Reconstruction
-* DENG Yu 邓宇 (2023.9-):
+* DENG Yu 邓宇 (2023.9-): Video-based Deepfake Detection
 * CHEN Bin 陈彬 (2022.9-):
 
 Graduate Students
 --------
 * LIN Jinhao 林锦濠 (2022.9-): Sentiment Analysis
-* ZHAO Baozhu 赵宝柱 (2023.9-)：Dynamic 3D Human Modeling
-* SU Junyan 苏俊彦 (2023.9-): Multimodal Deepfakes Detection
-* XUE Weiying 薛炜樱 (2023.9-)：Small Target Detection
+* ZHAO Baozhu 赵宝柱 (2023.9-)：3D Scene Reconstruction
+* SU Junyan 苏俊彦 (2023.9-): Video-based Deepfake Detection
+* XUE Weiying 薛炜樱 (2023.9-)：Human-Object Interaction Detection
 * GUO Jingfeng 郭靖丰 (2023.9-): 3D Human Pose Estimation
 * LAN Yilin 蓝屹林 (2022.9-): Voice-driven Digital Human
 * LI Lemin 李乐民 (2022.9-): Digital Human Modeling
