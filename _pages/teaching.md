@@ -5,8 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-* 2023.06.26: I organize a Special Issue on the IEEE Interest of Things Journal (JCR Q1, IF = 10.238)  jointly with Dr. H. Chen from Zhijiang Lab, Prof. Q. Yu (中科院院士、IEEE Fellow) from Pengcheng Lab, Prof. I.F. Akyildiz (IEEE Fellow) from 
-Georgia Institute of Technology, and Prof. S. Vorobyov (IEEE Fellow) from Aalto University. Welcome to submit! Please refer to: https://mc.manuscriptcentral.com/iot. 
+* 2023.06.26: I organize an IEEE Interest of Things Journal (JCR Q1, IF = 10.238) special issue on ``Efficient, Effective, and Explicable AI Inspired IoT over Non-terrestrial Networks", jointly with Dr. H. Chen from Zhijiang Lab, Prof. Q. Yu (中科院院士、IEEE Fellow) from Pengcheng Lab, Prof. I.F. Akyildiz (IEEE Fellow) from Georgia Institute of Technology, and Prof. S. Vorobyov (IEEE Fellow) from Aalto University. Welcome to submit! Please refer to: https://mc.manuscriptcentral.com/iot. 
 * 2023.04.28: I am elevated to the grade of IEEE Senior member.
 * 2023.01.06: Welcome Dr. Wei Zhenao from Ritsumeikan University, Japan! Zhenao joins us as a Postdoc.
 * 2022.09.29: Congratulations! 恭喜我的博士生-王煜骁同学获得校长奖学金.
