@@ -31,6 +31,7 @@ Experiences
 
 Awards and Honors
 ----------
+* 2020 Exemplary Reviewer of the IEEE Communications Letters, 2023
 * IEEE ICSIDP 2019 (Chongqing), Best Paper Award, 2019
 * Institutional Research Tuition Scholarship, CityU, 2018-2019
 * Outstanding Academic Performance Award, CityU, 2018
