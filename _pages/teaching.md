@@ -5,6 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
+* 2023.06.28：I am awarded as 2020 Exemplary Reviewer of the IEEE Communications Letters. https://www.comsoc.org/publications/journals/ieee-comml/reviewer-and-editor-appreciation.
 * 2023.06.26: I organize an IEEE Interest of Things Journal (JCR Q1, IF = 10.238) special issue on "Efficient, Effective, and Explicable AI Inspired IoT over Non-terrestrial Networks", jointly with Dr. H. Chen from Zhijiang Lab, Prof. Q. Yu (中科院院士、IEEE Fellow) from Pengcheng Lab, Prof. I.F. Akyildiz (IEEE Fellow) from Georgia Institute of Technology, and Prof. S. Vorobyov (IEEE Fellow) from Aalto University. Welcome to submit! Please refer to: https://ieee-iotj.org/wp-content/uploads/2023/06/3EAI_Non_Terrestrial.pdf. 
 * 2023.04.28: I am elevated to the grade of IEEE Senior member.
 * 2023.01.06: Welcome Dr. Wei Zhenao from Ritsumeikan University, Japan! Zhenao joins us as a Postdoc.
