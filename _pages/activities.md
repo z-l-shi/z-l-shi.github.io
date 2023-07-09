@@ -52,12 +52,12 @@ Awards and Honors
 
 Academia Services
 ----------
-* Associate Editor:         
- 1) IEEE Systems Journal, 2022- . https://ieeesystemsjournal.org/journal-of-boards/
- 
- 2) Digital Signal Processing, 2022- . https://www.journals.elsevier.com/digital-signal-processing/editorial-board/qi-liu        
-
- 3) Electronics and Signal Processing, 2022- . https://www.elspub.com/journals/electronics-and-signal-processing
+* Associate Editor:
+  1) IEEE Systems Journal, 2022- . https://ieeesystemsjournal.org/journal-of-boards/
+     
+  2) Digital Signal Processing, 2022- . https://www.journals.elsevier.com/digital-signal-processing/editorial-board/qi-liu
+     
+  3) Electronics and Signal Processing, 2022- . https://www.elspub.com/journals/electronics-and-signal-processing
 
 * Guest Editor:  
  1) Hongyang Chen, Qi Liu, Quan Yu, Ian F. Akyildiz, and Sergy Vorobyov, Special Issue on "Efficient, Effective, and Explicable AI Inspired IoT over Non-terrestrial Networks", IEEE Interest of Things Journal, 2023. https://ieee-iotj.org/wp-content/uploads/2023/06/3EAI_Non_Terrestrial.pdf.   
