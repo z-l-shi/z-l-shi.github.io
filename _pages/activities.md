@@ -29,6 +29,14 @@ Experiences
   College of Automation, Harbin Engineering University (HEU), Harbin, China
 
 
+Patents
+----------
+* 刘琦，郭靖丰，林锦濠，一种基于注意力机制的多分支2D人体姿态估计方法，202310668367.X
+* 刘琦，王煜骁，林锦濠，邢晓芬，雷玉，徐向民，一种基于TED-Net的非接触人-物交互检测方法，202310375040.3
+* 陈子轩，韩乐乐，刘琦，PipTile-基于LLM文意理解的一站式信息检索及利用软件[简称：PipTile]V1.0
+
+
+
 Awards and Honors
 ----------
 * 2020 Exemplary Reviewer of the IEEE Communications Letters, 2023
@@ -39,12 +47,6 @@ Awards and Honors
 * Outstanding Academic Performance Award, CityU, 2017
 * PhD Research Scholarship, CityU, 2016-2019
 * National Scholarship, HEU, 2015
-
-
-Patents
-----------
-* 
-
 
 
 
