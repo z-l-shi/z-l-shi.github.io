@@ -60,12 +60,12 @@ Academia Services
   3) Electronics and Signal Processing, 2022- . https://www.elspub.com/journals/electronics-and-signal-processing
 
 * Guest Editor:  
- 1) Hongyang Chen, Qi Liu, Quan Yu, Ian F. Akyildiz, and Sergy Vorobyov, Special Issue on "Efficient, Effective, and Explicable AI Inspired IoT over Non-terrestrial Networks", IEEE Interest of Things Journal, 2023. https://ieee-iotj.org/wp-content/uploads/2023/06/3EAI_Non_Terrestrial.pdf.   
-  
+ 1) Hongyang Chen, Qi Liu, Quan Yu, Ian F. Akyildiz, and Sergy Vorobyov, Special Issue on "Efficient, Effective, and Explicable AI Inspired IoT over Non-terrestrial Networks", IEEE Interest of Things Journal, 2023. https://ieee-iotj.org/wp-content/uploads/2023/06/3EAI_Non_Terrestrial.pdf.
+    
  2) Qi Liu, Junli Liang, Hing Cheung So, and Yimin Daniel Zhang, Special Issue on "Neural Networks and Machine Learning for Multidimensional Signal Processing", IET Signal Processing, 2022. https://digital-library.theiet.org/content/journals/iet-spr
-
+    
  3) Xianpeng Wang, Qi Liu, and Bin Zhang, Special Issue on "Efficient Processing and Learning with DNNs for Multidimensional Signal Processing", International Journal of Antennas and Propagation, 2022. https://www.hindawi.com/journals/ijap/si/837632/
-  
+    
  4) Xianpeng Wang, Qi Liu, Bin Zhang and Wei Liu, Special Issue on "Scalable and Robust Optimization Techniques for Multidimensional Signal Processing", Wireless Communications and Mobile Computing, 2022. https://www.hindawi.com/journals/wcmc/si/395818/
 
 * Conference Chair:  
