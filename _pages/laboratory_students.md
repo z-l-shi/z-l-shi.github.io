@@ -26,10 +26,10 @@ Doctoral Students
 Graduate Students
 --------
 * LIN Jinhao 林锦濠 (2022.9-): Sentiment Analysis
-* ZHAO Baozhu 赵宝柱 (2023.9-)：3D Scene Reconstruction
+* ZHAO Baozhu 赵宝柱 (2023.9-)：Indoor Scene 3D Reconstruction
 * SU Junyan 苏俊彦 (2023.9-): Video-based Deepfake Detection
 * XUE Weiying 薛炜樱 (2023.9-)：Human-Object Interaction Detection
-* GUO Jingfeng 郭靖丰 (2023.9-): 3D Scene Reconstruction
+* GUO Jingfeng 郭靖丰 (2023.9-): Large-scale Outdoor Scene 3D Reconstruction
 * LAN Yilin 蓝屹林 (2022.9-): Voice-driven Digital Human
 * LI Lemin 李乐民 (2022.9-): Digital Human Modeling
 * CHEN Han 陈涵 (2022.9-): Digital Twin Modeling of Human Health
