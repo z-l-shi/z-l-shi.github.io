@@ -12,27 +12,24 @@ redirect_from:
 
 Postdocs & RAs
 --------
-* WANG Yifei 王毅飞: Micro Expression Recognition
+* WANG Yifei 王毅飞: Micro-expression recognition
 * WEI Zhenao 魏振傲：Knowledge Graph Completion
 
 Doctoral Students
 --------
-* WANG Yuxiao 王煜骁 (2022.9-): Human-Object Interaction Detection
-* CHEN Huajun 陈铧浚 (2023.9-): Text-to-Image Generation
-* ZHANG Xiaohan 张笑晗 (2023.9-): 3D Scene Reconstruction
-* DENG Yu 邓宇 (2023.9-): Video-based Deepfake Detection
+* WANG Yuxiao 王煜骁 (2022.9-): Human-object interaction detection
+* CHEN Huajun 陈铧浚 (2023.9-): Text-to-image generation
+* ZHANG Xiaohan 张笑晗 (2023.9-): 3D scene reconstruction
+* DENG Yu 邓宇 (2023.9-): Video-based deepfake detection
 * CHEN Bin 陈彬 (2022.9-):
 
 Graduate Students
 --------
-* LIN Jinhao 林锦濠 (2022.9-): Sentiment Analysis
-* ZHAO Baozhu 赵宝柱 (2023.9-)：Indoor Scene 3D Reconstruction
-* SU Junyan 苏俊彦 (2023.9-): Video-based Deepfake Detection
-* XUE Weiying 薛炜樱 (2023.9-)：Human-Object Interaction Detection
-* GUO Jingfeng 郭靖丰 (2023.9-): Large-scale Outdoor Scene 3D Reconstruction
-* LAN Yilin 蓝屹林 (2022.9-): Voice-driven Digital Human
-* LI Lemin 李乐民 (2022.9-): Digital Human Modeling
-* CHEN Han 陈涵 (2022.9-): Digital Twin Modeling of Human Health
+* LIN Jinhao 林锦濠 (2022.9-): Sentiment recognition
+* ZHAO Baozhu 赵宝柱 (2023.9-): Indoor scene 3D reconstruction
+* SU Junyan 苏俊彦 (2023.9-): Video-based deepfake detection
+* XUE Weiying 薛炜樱 (2023.9-): Human-object interaction detection
+* GUO Jingfeng 郭靖丰 (2023.9-): Large-scale outdoor scene 3D reconstruction
 
 Undergraduate Students
 --------
