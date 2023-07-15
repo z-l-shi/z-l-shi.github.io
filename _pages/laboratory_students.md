@@ -29,7 +29,7 @@ Graduate Students
 * ZHAO Baozhu 赵宝柱 (2023.9-)：3D Scene Reconstruction
 * SU Junyan 苏俊彦 (2023.9-): Video-based Deepfake Detection
 * XUE Weiying 薛炜樱 (2023.9-)：Human-Object Interaction Detection
-* GUO Jingfeng 郭靖丰 (2023.9-): 3D Human Pose Estimation
+* GUO Jingfeng 郭靖丰 (2023.9-): 3D Scene Reconstruction
 * LAN Yilin 蓝屹林 (2022.9-): Voice-driven Digital Human
 * LI Lemin 李乐民 (2022.9-): Digital Human Modeling
 * CHEN Han 陈涵 (2022.9-): Digital Twin Modeling of Human Health
