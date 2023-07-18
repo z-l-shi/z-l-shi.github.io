@@ -12,7 +12,6 @@ redirect_from:
 
 Postdocs & RAs
 --------
-* 
 * WEI Zhenao 魏振傲：Knowledge Graph Completion
 
 Doctoral Students
