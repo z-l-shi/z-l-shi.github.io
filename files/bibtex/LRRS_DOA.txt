@@ -1,0 +1,9 @@
+@ARTICLE{10036000,
+  author={Huang, Huiping and Liu, Qi and So, Hing Cheung and Zoubir, Abdelhak M.},
+  journal={IEEE Transactions on Aerospace and Electronic Systems}, 
+  title={Low-Rank and Row-Sparse Decomposition for Joint DOA Estimation and Distorted Sensor Detection}, 
+  year={2023},
+  volume={59},
+  number={4},
+  pages={4763-4773},
+  doi={10.1109/TAES.2023.3241886}}
