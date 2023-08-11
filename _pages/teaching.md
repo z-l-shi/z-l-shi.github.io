@@ -8,6 +8,7 @@ author_profile: true
 * 2023.06.28：I am awarded as 2020 Exemplary Reviewer of the IEEE Communications Letters. https://www.comsoc.org/publications/journals/ieee-comml/reviewer-and-editor-appreciation.
 * 2023.06.26: I organize an IEEE Interest of Things Journal (JCR Q1, IF = 10.238) special issue on "Efficient, Effective, and Explicable AI Inspired IoT over Non-terrestrial Networks", jointly with Dr. H. Chen from Zhijiang Lab, Prof. Q. Yu (中科院院士、IEEE Fellow) from Pengcheng Lab, Prof. I.F. Akyildiz (IEEE Fellow) from Georgia Institute of Technology, and Prof. S. Vorobyov (IEEE Fellow) from Aalto University. Welcome to submit! Please refer to: https://ieee-iotj.org/wp-content/uploads/2023/06/3EAI_Non_Terrestrial.pdf. 
 * 2023.04.28: I am elevated to the grade of IEEE Senior member.
+* 2023.02.09: 课题组本科生-陈子轩同学和刘彦志同学分别获得2023年学校百步梯攀登计划立项"民之康健吾辈责-基于混合现实的健康app及其配套硬件开发"、"虚拟教练-基于AI姿态分析及混合现实人机交互的智慧健身指导系统".
 * 2023.01.06: Welcome Dr. Wei Zhenao from Ritsumeikan University, Japan! Zhenao joins us as a Postdoc.
 * 2022.09.29: Congratulations! 恭喜我的博士生-王煜骁同学获得校长奖学金.
 * 2022.09.19: Welcome Mr. Wang Yifei from the University of Southern California, USA! Yifei joins us as a Research Assistant.
