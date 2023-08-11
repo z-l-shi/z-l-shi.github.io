@@ -14,7 +14,7 @@ author_profile: true
 * 2022.10.29: 课题组获得北京航空航天大学-中国航天九院鸿鹊创新中心2022年度开放基金"面向电磁信号参数测量的深度神经网络轻量化结构研究".
 * 2022.09.29: Congratulations! 恭喜我的博士生-王煜骁同学获得校长奖学金.
 * 2022.09.19: Welcome Mr. Wang Yifei from the University of Southern California, USA! Yifei joins us as a Research Assistant.
-* 2022.09.07： 课题组获得2023国家自然科学基金青年项目"可扩展的自适应深度矩阵补全：快速算法和理论分析".
+* 2022.09.07：课题组获得2023国家自然科学基金青年项目"可扩展的自适应深度矩阵补全：快速算法和理论分析".
 * 2022.08.21：Congratulations! 恭喜我的博士生-王煜骁同学组队参加2022 CSIG图像图形技术挑战赛，在行为识别大赛中获得"华为优胜奖".
 * 2022.05.31: 课题组获得2022年广州市基础与应用基础研究项目"面向人机交互系统的智能测向技术研究".   
 * 2022.04.27: I serve as the Associate Editor of IEEE Systems Journal.         
