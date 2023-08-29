@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Xiaopeng Li's Homepage"
 title_separator          : "-"
-name                     : &name "Xiaopeng Li"
+name                     : &name "Xiao Peng Li"
 description              : &description "personal description"
 url                      : https://drlixp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "LI Xiao Peng"
   avatar           : "profile.png"
-  bio              : Professor
+  bio              :  "Assistant Professor"
   location         : "Guangzhou, China"
-  employer         : "South China University of Technology"
-  googlescholar    : "https://scholar.google.com/citations?user=ekQx0bIAAAAJ&hl=zh-TW"
-  email            : "drliuqi@scut.edu.cn"
-  researchgate     : #"https://www.researchgate.net/profile/Qi-Liu-24"
+  employer         : "Shenzhen University"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=eFIPjGUAAAAJ"
+  email            : "x.p.li@szu.edu.cn"
+  researchgate     : #"https://www.researchgate.net/profile/Xiaopeng-Li-22"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,13 +95,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "drliuqi"
+  github           : "li-x-p"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : #"https://orcid.org/0000-0002-5448-7219"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
