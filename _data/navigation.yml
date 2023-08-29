@@ -6,18 +6,18 @@ main:
   - title: "Activities"
     url: /activities/
 
-  - title: "Papers"
+  - title: "Publications"
     url: /journals/
     
   # - title: "Talks"
   #   url: /talks/
 
+  - title: "Teaching"
+    url: /teaching/
+    
   - title: "My Students"
     url: /laboratory_students/
     
-  - title: "News"
-    url: /teaching/
-
   - title: "Join us"
     url: /join_us/
 
