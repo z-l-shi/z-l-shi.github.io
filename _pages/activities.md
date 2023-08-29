@@ -53,7 +53,7 @@ Awards and Honors
 
 
 
-Academia Services
+Academic Services
 ----------
 
 1) Invited Talks:
