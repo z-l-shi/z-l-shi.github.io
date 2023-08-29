@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qi Liu's Homepage"
+title                    : "Xiaopeng Li's Homepage"
 title_separator          : "-"
-name                     : &name "Qi Liu"
+name                     : &name "Xiaopeng Li"
 description              : &description "personal description"
 url                      : https://drlixp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qi Liu"
+  name             : "LI Xiao Peng"
   avatar           : "profile.png"
   bio              : Professor
   location         : "Guangzhou, China"
