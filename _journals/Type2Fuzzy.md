@@ -4,12 +4,12 @@ collection: journals
 permalink: /publication/Type2Fuzzy
 date: 2022-1-01
 year: "2022"
-venue: "IEEE Transactions on Fuzzy Systems, 30(1),"
+venue: "IEEE Transactions on Fuzzy Systems, vol. 30, no. 1, pp. 287–292 Jan."
 city: 
 state: ""
 thumbnail: "Type2Fuzzy.png"
 teaser : 
-authors: "Qi Liu, Xiao Peng Li, Jicheng Yang"
+authors: "Q. Liu, X. P. Li*, J. Yang"
 bibtex: Type2Fuzzy.txt
 uri: Type2Fuzzy.pdf
 arxiv: 
