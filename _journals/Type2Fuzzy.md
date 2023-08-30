@@ -1,5 +1,5 @@
 ---
-title: "Optimum Codesign for Image Denoising Between Type-2 Fuzzy Identifier and Matrix Completion Denoiser"
+title: "Optimum codesign for image denoising between type-2 fuzzy identifier and matrix completion denoiser"
 collection: journals
 permalink: /publication/Type2Fuzzy
 date: 2022-1-01
@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Type2Fuzzy.png"
 teaser : 
-authors: "Qi Liu, Xiaopeng Li, Jicheng Yang"
+authors: "Qi Liu, Xiao Peng Li, Jicheng Yang"
 bibtex: Type2Fuzzy.txt
 uri: Type2Fuzzy.pdf
 arxiv: 
