@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-<head>
+ <head>
    <style>
       p {
         text-align: justify;
         hyphens: auto;
+        text-indent: 2em; 
       }
    </style>
- </head>
+</head>
   
 <body>
 <p>
