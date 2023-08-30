@@ -14,7 +14,7 @@ bibtex:
 uri: RMC-TQF.pdf
 arxiv: 
 project: 
-source: 
+source: https://github.com/bestzywang/Robust-Matrix-Completion-based-on-Factorization-and-Truncated-Quadratic-Loss-Function
 poster: 
 data:
 ---
