@@ -2,8 +2,8 @@
 title: "Fast robust matrix completion via entry-wise l0-norm minimization"
 collection: journals
 permalink: /publication/L0-BCD
-date: 2022-12-6
-year: "2022"
+date: 2023-1-6
+year: "2023"
 venue: "IEEE Transactions on Cybernetics,"
 city: 
 state: ""
