@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Type2Fuzzy.png"
 teaser : 
-authors: "Q. Liu, X. P. Li* and J. Yang"
+authors: "Q. Liu, <b> X. P. Li</b>* and J. Yang"
 bibtex: 
 uri: Type2Fuzzy.pdf
 arxiv: 
