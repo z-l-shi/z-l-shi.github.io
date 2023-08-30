@@ -14,7 +14,7 @@ bibtex:
 uri: RPCA-HQ.pdf
 arxiv: 
 project: 
-source: 
+source: https://github.com/bestzywang/Robust-PCA-via-Non-convex-Half-quadratic-Regularizatio
 poster: 
 data:
 ---
