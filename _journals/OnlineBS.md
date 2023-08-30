@@ -4,12 +4,12 @@ collection: journals
 permalink: /publication/OnlineBS
 date: 2022-4-01
 year: "2022"
-venue: "IEEE Transactions on Circuits and Systems for Video Technology, 32(7),"
+venue: "IEEE Transactions on Circuits and Systems for Video Technology, vol. 32, no. 7, pp. 4900--4904, Jul."
 city: 
 state: ""
 thumbnail: "OnlineBS.png"
 teaser : 
-authors: "Qi Liu, Xiao Peng Li"
+authors: "Q. Liu, X. P. Li*"
 bibtex: OnlineBS.txt
 uri: OnlineBS.pdf
 arxiv: 
