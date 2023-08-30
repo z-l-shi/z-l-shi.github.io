@@ -10,7 +10,7 @@ state: ""
 thumbnail: "Massive.png"
 teaser : 
 authors: "Q. Liu, X. P. Li*, and H. Cao"
-bibtex: Massive.txt
+bibtex: 
 uri: Massive.pdf
 arxiv: 
 project: 
