@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "RPCA-HQ.png"
 teaser : 
-authors: " Z.-Y. Wang, X. P. Li and H. C. So"
+authors: " Z.-Y. Wang, <b> X. P. Li</b> and H. C. So"
 bibtex: 
 uri: RPCA-HQ.pdf
 arxiv: 
