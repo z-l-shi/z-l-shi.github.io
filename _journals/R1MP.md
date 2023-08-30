@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/R1MP
 date: 2020-4-20
 year: "2020"
-venue: "IEEE Signal Processing Letters, 27,"
+venue: "IEEE Signal Processing Letters, vol. 27, pp. 680--684, Apr."
 city: 
 state: ""
 thumbnail: "R1MP.png"
