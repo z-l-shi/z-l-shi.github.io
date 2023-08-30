@@ -14,7 +14,7 @@ bibtex:
 uri: RTC-CFN.pdf
 arxiv: 
 project: 
-source: 
+source: https://github.com/Li-X-P/Code-of-Robust-Tensor-Completion
 poster: 
 data:
 ---
