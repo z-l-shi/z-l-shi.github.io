@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "L0-BCD.png"
 teaser : 
-authors: "X. P. Li, Z.-L. Shi, Q. Liu and H. C. So"
+authors: "<b> X. P. Li</b>, Z.-L. Shi, Q. Liu and H. C. So"
 bibtex: 
 uri: L0-BCD.pdf
 arxiv: 
