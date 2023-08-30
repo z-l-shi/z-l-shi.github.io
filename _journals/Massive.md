@@ -4,12 +4,12 @@ collection: journals
 permalink: /publication/Massive
 date: 2021-9-01
 year: "2021"
-venue: "IEEE Systems Journal, 15(3),"
+venue: "IEEE Systems Journal, vol. 15, no. 3, pp. 3628-3631, Sep."
 city: 
 state: ""
 thumbnail: "Massive.png"
 teaser : 
-authors: "Qi Liu, Xiao Peng Li, Hui Cao"
+authors: "Q. Liu, X. P. Li*, H. Cao"
 bibtex: Massive.txt
 uri: Massive.pdf
 arxiv: 
