@@ -10,7 +10,7 @@ state: ""
 thumbnail: "OnlineBS.png"
 teaser : 
 authors: "Q. Liu and X. P. Li*"
-bibtex: OnlineBS.txt
+bibtex: 
 uri: OnlineBS.pdf
 arxiv: 
 project: 
