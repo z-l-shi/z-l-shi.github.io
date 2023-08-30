@@ -4,12 +4,12 @@ collection: journals
 permalink: /publication/LpTTC
 date: 2022-4-01
 year: "2022"
-venue: "IEEE Transactions on Circuits and Systems for Video Technology, 32(6),"
+venue: "IEEE Transactions on Circuits and Systems for Video Technology, vol. 32, no, 6, pp. 3462–3474, Jun."
 city: 
 state: ""
 thumbnail: "LpTTC.png"
 teaser : 
-authors: "Qi Liu, Xiao Peng Li, Hui Cao, Yuntao Wu"
+authors: "Q. Liu, X. P. Li*, H. Cao, Y.  Wu"
 bibtex: LpTTC.txt
 uri: LpTTC.pdf
 arxiv: 
