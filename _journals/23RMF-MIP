@@ -4,12 +4,12 @@ collection: journals
 permalink: /publication/RMF-MIP
 date: 2023-8-6
 year: "2023"
-venue: "IEEE Signal Processing Letters, vol. 30, pp. 1012--1016, Aug."
+venue: "IEEE Signal Processing Letters, vol. 30, pp. 1012-1016, Aug."
 city: 
 state: 
 thumbnail: "RMF-MIP.png"
 teaser : 
-authors: " Z.-L. Shi, X. P. Li, W. Li, T. Yan, J. Wang and Y. Fu"
+authors: " Z.-L. Shi, <b> X. P. Li</b>, W. Li, T. Yan, J. Wang and Y. Fu"
 bibtex: 
 uri: RMF-MIP.pdf
 arxiv: 
