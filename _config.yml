@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiaopeng Li's Homepage"
+title                    : "Dr. Li's Homepage"
 title_separator          : "-"
 name                     : &name "Xiao Peng Li"
 description              : &description "personal description"
