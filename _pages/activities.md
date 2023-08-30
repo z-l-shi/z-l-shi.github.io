@@ -55,7 +55,6 @@ Awards and Honors
 
 Academic Services
 ----------
-
 1) Invited Talks:
 * Invited Speaker: "An Interpretable Bi-Branch Neural Network for Matrix Completion", hosted by Prof. Nikolaos D. Sidiropoulos (IEEE Fellow),  Department of Electrical and Computer Engineering, University of Virginia, Virginia, USA, 11 Feb. 2022.
 
