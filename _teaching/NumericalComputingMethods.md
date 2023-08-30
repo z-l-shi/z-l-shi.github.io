@@ -11,11 +11,9 @@ location: "Shenzhen, China"
 Sem. A 2023/24
 
 
-<a href="https://github.com/Li-X-P/Li-X-P.github.io/blob/master/files/Course/numericalComputationMethod/Intro.pdf" rel="permalink">Introduction</a>
+Introduction <a class="button pdf" href="https://github.com/Li-X-P/Li-X-P.github.io/blob/master/files/Course/numericalComputationMethod/Intro.pdf" rel="permalink">Slide</a>
 
-<a class="button pdf" href="https://github.com/Li-X-P/Li-X-P.github.io/blob/master/files/Course/numericalComputationMethod/Intro.pdf" rel="permalink">Pdf</a>
-
-<a href="https://github.com/Li-X-P/Li-X-P.github.io/blob/master/files/Course/numericalComputationMethod/Chapter_1.pdf" target="_blank">Chapter 1</a>
+Chapter 1 <a class="button pdf" href="https://github.com/Li-X-P/Li-X-P.github.io/blob/master/files/Course/numericalComputationMethod/Chapter_1.pdf" rel="permalink">Slide</a>
 
 Chapter 2
 
