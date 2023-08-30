@@ -10,7 +10,7 @@ state: ""
 thumbnail: "Type2Fuzzy.png"
 teaser : 
 authors: "Q. Liu, X. P. Li*, and J. Yang"
-bibtex: Type2Fuzzy.txt
+bibtex: 
 uri: Type2Fuzzy.pdf
 arxiv: 
 project: 
