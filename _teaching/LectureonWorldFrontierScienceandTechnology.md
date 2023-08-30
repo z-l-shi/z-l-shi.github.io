@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/LectureonWorldFrontierScienceandTechnology
 venue: "Shenzhen University"
-date: 
+date: 2023-09-01
 location: "Shenzhen, China"
 ---
 
