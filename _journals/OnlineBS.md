@@ -1,5 +1,5 @@
 ---
-title: "Efficient Low-Rank Matrix Factorization based on l1,ε-norm for Online Background Subtraction"
+title: "Efficient low-rank matrix factorization based on l1,ε-norm for online background subtraction"
 collection: journals
 permalink: /publication/OnlineBS
 date: 2022-4-01
@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "OnlineBS.png"
 teaser : 
-authors: "Qi Liu, Xiaopeng Li"
+authors: "Qi Liu, Xiao Peng Li"
 bibtex: OnlineBS.txt
 uri: OnlineBS.pdf
 arxiv: 
