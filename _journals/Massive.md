@@ -1,5 +1,5 @@
 ---
-title: "Two-Dimensional Localization: Low-Rank Matrix Completion With Random Sampling in Massive MIMO System"
+title: "Two-dimensional localization: Low-rank matrix completion with random sampling in massive MIMO system"
 collection: journals
 permalink: /publication/Massive
 date: 2021-9-01
@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Massive.png"
 teaser : 
-authors: "Qi Liu, Xiaopeng Li, Hui Cao"
+authors: "Qi Liu, Xiao Peng Li, Hui Cao"
 bibtex: Massive.txt
 uri: Massive.pdf
 arxiv: 
