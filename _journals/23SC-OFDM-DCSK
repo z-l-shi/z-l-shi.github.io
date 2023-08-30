@@ -7,11 +7,11 @@ year: "2023"
 venue: "IEEE Transactions on Communications, vol. 71, no. 8, Aug."
 city: 
 state: ""
-thumbnail: 
+thumbnail: "OFDM-DCSK.png"
 teaser : 
-authors: "Z. Liu, H. C. So, X. P. Li*, L. Zhang and Z. Y. Wang"
+authors: "Z. Liu, H. C. So, <b> X. P. Li</b>*, L. Zhang and Z. Y. Wang"
 bibtex:
-uri: 
+uri: OFDM-DCSK.pdf
 arxiv: 
 project: 
 source: 
