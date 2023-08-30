@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Massive.png"
 teaser : 
-authors: "Q. Liu, X. P. Li*, H. Cao"
+authors: "Q. Liu, X. P. Li*, and H. Cao"
 bibtex: Massive.txt
 uri: Massive.pdf
 arxiv: 
