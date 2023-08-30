@@ -1,5 +1,5 @@
 ---
-title: "From Simulated to Visual Data: A Robust Low-Rank Tensor Completion Approach using lp-Regression for Outlier Resistance"
+title: "From simulated to visual data: A robust low-rank tensor completion approach using lp-regression for outlier resistance"
 collection: journals
 permalink: /publication/LpTTC
 date: 2022-4-01
@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "LpTTC.png"
 teaser : 
-authors: "Qi Liu, Xiaopeng Li, Hui Cao, Yuntao Wu"
+authors: "Qi Liu, Xiao Peng Li, Hui Cao, Yuntao Wu"
 bibtex: LpTTC.txt
 uri: LpTTC.pdf
 arxiv: 
