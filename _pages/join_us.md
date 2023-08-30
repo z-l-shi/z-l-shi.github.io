@@ -29,12 +29,11 @@ Perennial Openings
   
 <body>
 <p class="indent">
-I am looking for master students and visiting students in signal processing, machine learning, and sparsity/low-rank recovery, as well as their applications. If you are interested in these positions, please drop me an email.
+I am looking for master students and visiting students who have strong interests in the area of signal processing, machine learning, and sparsity/low-rank recovery with applications in target estimation, image recovery, video restoration, hyperspectral unmixing, and stock market analysis.
 </p>
 
 <p class="no-indent">
-Potential candidates are welcome to submit their CVs to:  Dr. LI Xiao Peng (x.p.li@szu.edu.cn) <br>
-College of Electronics and Information Engineering, Shenzhen University
+If you are interested, please send me an email with a brief resume.
 </p>
 </body>
 
