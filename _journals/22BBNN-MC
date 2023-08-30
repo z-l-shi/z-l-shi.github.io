@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "BBNN-MC.png"
 teaser : 
-authors: "X. P. Li, M. Wang and H. C. So"
+authors: "<b> X. P. Li</b>, M. Wang and H. C. So"
 bibtex: 
 uri: BBNN-MC.pdf
 arxiv: 
