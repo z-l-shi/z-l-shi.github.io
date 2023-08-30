@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "R1MP.png"
 teaser : 
-authors: "X. P. Li, Q. Liu and H. C. So"
+authors: "<b> X. P. Li</b>, Q. Liu and H. C. So"
 bibtex: 
 uri: R1MP.pdf
 arxiv: 
