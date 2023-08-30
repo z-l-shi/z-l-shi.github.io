@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "L0-BCD.png"
 teaser : 
-authors: "Xiao Peng Li, Zhang-Lei Shi, Qi Liu, Hing Cheung So"
+authors: "X. P. Li, Z.-L. Shi, Q. Liu, H. C. So"
 bibtex: L0-BCD.txt
 uri: L0-BCD.pdf
 arxiv: 
