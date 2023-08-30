@@ -1,5 +1,5 @@
 ---
-title: "Rank-One Matrix Approximation With lp-Norm for Image Inpainting"
+title: "Rank-one matrix approximation with lp-Norm for image inpainting"
 collection: journals
 permalink: /publication/R1MP
 date: 2020-4-20
