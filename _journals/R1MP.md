@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "R1MP.png"
 teaser : 
-authors: "Xiao Peng Li, Qi Liu*, Hing Cheung So"
+authors: "X. P. Li, Q. Liu*, H. C. So"
 bibtex: R1MP.txt
 uri: R1MP.pdf
 arxiv: 
