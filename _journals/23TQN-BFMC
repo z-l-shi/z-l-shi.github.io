@@ -7,11 +7,11 @@ year: "2023"
 venue: "Signal Processing,"
 city: 
 state: 
-thumbnail: 
+thumbnail: "TQN-BFMC.png"
 teaser : 
 authors: "X. Y. Wang, X. P. Li* and H. C. So"
 bibtex: 
-uri: 
+uri: TQN-BFMC.pdf
 arxiv: 
 project: 
 source: 
