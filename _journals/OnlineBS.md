@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "OnlineBS.png"
 teaser : 
-authors: "Q. Liu and X. P. Li*"
+authors: "Q. Liu and <b> X. P. Li</b>*"
 bibtex: 
 uri: OnlineBS.pdf
 arxiv: 
