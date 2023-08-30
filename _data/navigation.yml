@@ -3,25 +3,25 @@ main:
  # - title: "Conferences"
  #   url: /conferences/
 
-  - title: "Activities"
+  - title: "Activity"
     url: /activities/
 
-  - title: "Publications"
+  - title: "Publication"
     url: /journals/
     
   # - title: "Talks"
   #   url: /talks/
 
-  - title: "Teaching"
+  - title: "Course"
     url: /teaching/
     
-  - title: "My Students"
+  - title: "Students"
     url: /laboratory_students/
     
-  - title: "Join us"
+  - title: "Vacancy"
     url: /join_us/
 
-        # - title: "Portfolio"
+ # - title: "Portfolio"
   #   url: /portfolio/
 
   # - title: "Blog Posts"
