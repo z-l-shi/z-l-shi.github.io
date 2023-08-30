@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "RMCMIMO.png"
 teaser : 
-authors: "Z. Liu, X. P. Li, and H. C. So"
+authors: "Z. Liu, X. P. Li* and H. C. So"
 bibtex: 
 uri: RMCMIMO.pdf
 arxiv: 
