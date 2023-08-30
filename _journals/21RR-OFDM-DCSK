@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "RR-OFDM-DCSK.png"
 teaser : 
-authors: "Z. Liu, H. C. So, L. Zhang and X. P. Li"
+authors: "Z. Liu, H. C. So, L. Zhang and <b> X. P. Li</b>"
 bibtex: 
 uri: RR-OFDM-DCSK.pdf
 arxiv: 
