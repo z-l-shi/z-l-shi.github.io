@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "SIT-l0norm.png"
 teaser : 
-authors: "X. P. Li, Z.-L. Shi, C.-S. Leung and H. C. So"
+authors: "<b> X. P. Li</b>, Z.-L. Shi, C.-S. Leung and H. C. So"
 bibtex: 
 uri: SIT-l0norm.pdf
 arxiv: 
