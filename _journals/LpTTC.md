@@ -10,7 +10,7 @@ state: ""
 thumbnail: "LpTTC.png"
 teaser : 
 authors: "Q. Liu, X. P. Li*, H. Cao, and Y.  Wu"
-bibtex: LpTTC.txt
+bibtex: 
 uri: LpTTC.pdf
 arxiv: 
 project: 
