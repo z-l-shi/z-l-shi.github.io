@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/OnlineBS
 date: 2022-4-01
 year: "2022"
-venue: "IEEE Transactions on Circuits and Systems for Video Technology, vol. 32, no. 7, pp. 4900--4904, Jul."
+venue: "IEEE Transactions on Circuits and Systems for Video Technology, vol. 32, no. 7, pp. 4900-4904, Jul."
 city: 
 state: ""
 thumbnail: "OnlineBS.png"
