@@ -1,5 +1,5 @@
 ---
-title: "Fast tobust matrix completion via entry-wise l0-norm minimization"
+title: "Fast robust matrix completion via entry-wise l0-norm minimization"
 collection: journals
 permalink: /publication/L0-BCD
 date: 2022-12-6
