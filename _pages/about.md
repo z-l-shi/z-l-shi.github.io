@@ -35,6 +35,7 @@ His research interests include optimization methods, machine learning, sparse re
 </body>
 
 Experiences
+----------
 * Assistant Professor: May. 2023 - Present  
   College of Electronics and Information Engineering, Shenzhen University, Shenzhen, China 
 * Postdoctoral Fellow: Nov. 2022 - May 2023   
@@ -52,6 +53,16 @@ Experiences
 * B.E degree as an outstanding graduate: Sep. 2011 - Jul. 2015     
   College of Information Engineering, Yanshan University, Qinhuangdao, China  
 
+Awards and Honors
+----------
+* Research Tuition Scholarship, City University of Hong Kong, 2022 - 2023
+* Outstanding Academic Performance Award, City University of Hong Kong, 2021 - 2022
+* Research Tuition Scholarship, City University of Hong Kong, 2021 - 2022
+* Outstanding Academic Performance Award, City University of Hong Kong, 2020 - 2021
+* Research Tuition Scholarship, City University of Hong Kong, 2020 - 2021
+* Ph.D. Research Scholarship, City University of Hong Kong, 2019 - 2023
+* Graduate with Distinction, City University of Hong Kong, 2018
+* Outstanding Undergraduate, Yanshan University, 2015
 
 
 
