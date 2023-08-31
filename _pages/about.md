@@ -32,7 +32,7 @@ X. P. Li received the B.Eng. degree in electronic science and technology from Ya
 <p class="no-indent">
 His research interests include optimization methods, machine learning, sparse recovery, matrix processing, and tensor processing with applications in target estimation, image recovery, video restoration, hyperspectral unmixing, and stock market analysis. 
 </p>
-
+</body>
 
 Experiences
 * Assistant Professor: May. 2023 - Present  
@@ -52,7 +52,7 @@ Experiences
 * B.E degree as an outstanding graduate: Sep. 2011 - Jul. 2015     
   College of Information Engineering, Yanshan University, Qinhuangdao, China  
 
-</body>
+
 
 
 
