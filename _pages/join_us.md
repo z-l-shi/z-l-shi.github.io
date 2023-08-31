@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /join_us
 ---
-
 {% include base_path %}
 
 Perennial Openings
