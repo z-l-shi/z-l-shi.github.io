@@ -3,14 +3,15 @@ main:
  # - title: "Conferences"
  #   url: /conferences/
 
-  - title: "Activity"
-    url: /activities/
 
   - title: "Publication"
     url: /journals/
     
-  # - title: "Talks"
-  #   url: /talks/
+  - title: "Project"
+    url: /project/
+    
+  - title: "Activity"
+    url: /activity/
 
   - title: "Course"
     url: /teaching/
