@@ -13,7 +13,7 @@ redirect_from:
 
 Graduate Students
 --------
-* 段敏 (Sep. 2023 -> ...)
+* DUAN Min (段敏): Sep. 2023 -> ...
 
 
 Undergraduate Students
