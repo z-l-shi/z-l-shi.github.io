@@ -1,10 +1,9 @@
 ---
-# layout: archive
-# title: "join us"
-permalink: /activities/
+
+permalink: /project/
 author_profile: true
 redirect_from:
-  - /activities
+  - /project
 ---
 
 {% include base_path %}
