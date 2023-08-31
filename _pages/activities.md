@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+<!--
 Experiences
 ----------
 * Assistant Professor: May. 2023 - Present   
@@ -27,7 +28,7 @@ Experiences
   Supervisor: Prof. SO, Hing Cheung (IEEE Fellow)
 * B.E degree as an outstanding graduate: Sep. 2011 - Jul. 2015    
   College of Information Engineering, Yanshan University, Qinhuangdao, China
-
+-->
 Projects
 ----------
 
@@ -39,7 +40,7 @@ Patents
 * Z.-Y. Wang, X. P. Li, H. C. So and A. M. Zourbir，Method and electronic device for recovering data using adaptive rank-one matrix completion，US Patent，US 2023/0205644 A1
 
 
-
+<!--
 Awards and Honors
 ----------
 * Research Tuition Scholarship, City University of Hong Kong, 2022 - 2023
@@ -50,7 +51,7 @@ Awards and Honors
 * Ph.D. Research Scholarship, City University of Hong Kong, 2019 - 2023
 * Graduate with Distinction, City University of Hong Kong, 2018
 * Outstanding Undergraduate, Yanshan University, 2015
-
+-->
 
 
 Academic Services
