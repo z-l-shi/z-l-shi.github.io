@@ -34,24 +34,23 @@ His research interests include optimization methods, machine learning, sparse re
 
 
 <p class="no-indent">
-Experiences
-----------
-* Assistant Professor: May. 2023 - Present   
-  College of Electronics and Information Engineering, Shenzhen University, Shenzhen, China
-* Postdoctoral Fellow: Nov. 2022 - May 2023  
-  Department of Electrical Engineering, City University of Hong Kong, Hong Kong, China  
-  Supervisor:  Prof. SO, Hing Cheung (IEEE Fellow)
-* Ph.D degree: Sep. 2019 - Nov. 2022    
-  Department of Electrical Engineering, City University of Hong Kong, Hong Kong, China  
-  Supervisor: Prof. SO, Hing Cheung (IEEE Fellow)
-* Research Assistant: Sep. 2018 -- Aug. 2019  
-  College of Electronics and Information Engineering, Shenzhen University, Shenzhen, China  
-  Supervisor: Prof. HUANG, Lei (IET Fellow, Distinguished Young Scholar)
-* M.S degree with distinction: Sep. 2017 - Oct. 2018   
-  Department of Electrical Engineering, City University of Hong Kong, Hong Kong, China    
-  Supervisor: Prof. SO, Hing Cheung (IEEE Fellow)
-* B.E degree as an outstanding graduate: Sep. 2011 - Jul. 2015    
-  College of Information Engineering, Yanshan University, Qinhuangdao, China
+Experiences<br>
+* Assistant Professor: May. 2023 - Present   <br>
+  College of Electronics and Information Engineering, Shenzhen University, Shenzhen, China<br>
+* Postdoctoral Fellow: Nov. 2022 - May 2023  <br>
+  Department of Electrical Engineering, City University of Hong Kong, Hong Kong, China  <br>
+  Supervisor:  Prof. SO, Hing Cheung (IEEE Fellow) <br>
+* Ph.D degree: Sep. 2019 - Nov. 2022    <br>
+  Department of Electrical Engineering, City University of Hong Kong, Hong Kong, China  <br>
+  Supervisor: Prof. SO, Hing Cheung (IEEE Fellow) <br>
+* Research Assistant: Sep. 2018 -- Aug. 2019  <br>
+  College of Electronics and Information Engineering, Shenzhen University, Shenzhen, China  <br>
+  Supervisor: Prof. HUANG, Lei (IET Fellow, Distinguished Young Scholar) <br>
+* M.S degree with distinction: Sep. 2017 - Oct. 2018   <br>
+  Department of Electrical Engineering, City University of Hong Kong, Hong Kong, China    <br>
+  Supervisor: Prof. SO, Hing Cheung (IEEE Fellow) <br>
+* B.E degree as an outstanding graduate: Sep. 2011 - Jul. 2015    <br>
+  College of Information Engineering, Yanshan University, Qinhuangdao, China <br>
   </p>
 </body>
 
