@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <br />
-　　Students in our group major in Signal Processing, Machine Learning, DOA Estimation, Image/Video Processing, Recommender System, Financial Market Prediction, etc.
+　　Students in our group major in Signal Processing, Machine Learning with applications in DOA Estimation, Image/Video Processing, Recommender System, Financial Market Prediction, etc.
 
 
 Graduate Students
