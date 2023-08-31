@@ -38,12 +38,12 @@ Experiences
 * Assistant Professor: May. 2023 - Present  
   College of Electronics and Information Engineering, Shenzhen University, Shenzhen, China 
 * Postdoctoral Fellow: Nov. 2022 - May 2023   
-  Department of Electrical Engineering, City University of Hong Kong, Hong Kong, China 
+  Department of Electrical Engineering, City University of Hong Kong, Hong Kong, China   
   Supervisor:  Prof. SO, Hing Cheung (IEEE Fellow)  
 * Ph.D degree: Sep. 2019 - Nov. 2022    
-  Department of Electrical Engineering, City University of Hong Kong, Hong Kong, China  
-  Supervisor: Prof. SO, Hing Cheung (IEEE Fellow)  
-* Research Assistant: Sep. 2018 -- Aug. 2019  
+  Department of Electrical Engineering, City University of Hong Kong, Hong Kong, China    
+  Supervisor: Prof. SO, Hing Cheung (IEEE Fellow)    
+* Research Assistant: Sep. 2018 - Aug. 2019  
   College of Electronics and Information Engineering, Shenzhen University, Shenzhen, China   
   Supervisor: Prof. HUANG, Lei (IET Fellow, Distinguished Young Scholar)  
 * M.S degree with distinction: Sep. 2017 - Oct. 2018   
