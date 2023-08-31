@@ -4,7 +4,6 @@ author_profile: true
 redirect_from:
   - /activity
 ---
-
 {% include base_path %}
 
 Invited Talks:
