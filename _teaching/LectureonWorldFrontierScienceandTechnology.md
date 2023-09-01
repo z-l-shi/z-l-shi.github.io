@@ -10,11 +10,8 @@ location: "Shenzhen, China"
 
 Sem. A 2023/24
 
-Heading 1
-======
+Low-Rank Matrix Approximation
 
-Heading 2
-======
+Low-Rank Matrix Recvoery
 
-Heading 3
-======
+Robust Low-Rank Matrix Recvoery
