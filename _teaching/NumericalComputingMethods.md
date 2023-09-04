@@ -12,9 +12,9 @@ Sem. A 2023/24
 
 
 
-<a class="button pdf" href="https://github.com/Li-X-P/li-x-p.github.io/blob/master/files/Course/numericalComputationMethod/Intro.pdf" rel="permalink">Introduction</a>
+<a class="button pdf" href="https://li-x-p.github.io/files/Course/numericalComputationMethod/Intro.pdf" rel="permalink">Introduction</a>
 
-<a class="button pdf" href="https://github.com/Li-X-P/li-x-p.github.io/blob/master/files/Course/numericalComputationMethod/Chapter_1.pdf" rel="permalink">Chapter 1</a>
+<a class="button pdf" href="https://li-x-p.github.io/files/Course/numericalComputationMethod/Chapter_1.pdf" rel="permalink">Chapter 1</a>
 
 Chapter 2
 
