@@ -36,7 +36,7 @@ Projects
 
 Patents
 ----------
-* 李晓鹏，黄磊，基于单比特量化天线阵列的到达角估计方法及相关设备，中国发明专利，2023071000266950
+* 李晓鹏，黄磊，基于单比特量化天线阵列的到达角估计方法及相关设备，中国发明专利，ZL 2023 1 0672449.1
 * X. P. Li, C-S Leung and H. C. So，Method and analysis device for tracking market index and unmixing hyperspectral image using modified iterative hard thresholding for nonnegative sparse recovery under sum-to-one，US Patent，US 2023/0230116 A1
 * Z.-Y. Wang, X. P. Li, H. C. So and A. M. Zourbir，Method and electronic device for recovering data using adaptive rank-one matrix completion，US Patent，US 2023/0205644 A1
 
