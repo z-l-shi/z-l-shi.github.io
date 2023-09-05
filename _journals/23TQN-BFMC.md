@@ -2,9 +2,9 @@
 title: "Truncated quadratic norm minimization for bilinear factorization based matrix completion"
 collection: journals
 permalink: /publication/TQN-BFMC
-date: 2023-8-6
-year: "2023"
-venue: "Signal Processing,"
+date: 2024-1-6
+year: "2024"
+venue: "Signal Processing, vol. 214, pp. 109219, Jan."
 city: 
 state: 
 thumbnail: "TQN-BFMC.png"
