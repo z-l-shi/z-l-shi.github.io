@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/GAM
 date: 2023-8-16
 year: "2023"
-venue: "IEEE Signal Processing Letters,"
+venue: "IEEE Signal Processing Letters, vol. 30, pp. 1322-1326, Sep."
 city: 
 state: 
 thumbnail: "GAM.png"
