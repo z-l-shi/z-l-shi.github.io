@@ -12,6 +12,6 @@ Sem. A 2023/24
 
 Low-Rank Matrix Approximation
 
-Low-Rank Matrix Recvoery
+Low-Rank Matrix Recovery
 
-Robust Low-Rank Matrix Recvoery
+Robust Low-Rank Matrix Recovery
