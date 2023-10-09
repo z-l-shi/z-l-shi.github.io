@@ -30,7 +30,7 @@ X. P. Li received the B.Eng. degree in electronic science and technology from Ya
 </p>
 
 <p class="no-indent">
-His research interests include optimization methods, machine learning, sparse recovery, matrix processing, and tensor processing with applications in target estimation, image recovery, video restoration, hyperspectral unmixing, and stock market analysis. 
+His research interests include optimization methods, machine learning, sparse recovery, and low-rank restoration, with applications in target estimation, image recovery, video restoration, hyperspectral unmixing, and stock market analysis.
 </p>
 </body>
 
