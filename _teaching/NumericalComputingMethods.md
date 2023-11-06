@@ -20,7 +20,7 @@ Sem. A 2023/24
 
 <a class="button pdf" href="https://li-x-p.github.io/files/Course/numericalComputationMethod/Chapter_3.pdf" rel="permalink">Chapter 3</a>
 
-Chapter 4
+<a class="button pdf" href="https://li-x-p.github.io/files/Course/numericalComputationMethod/Chapter_4.pdf" rel="permalink">Chapter 4</a>
 
 Chapter 5
 
