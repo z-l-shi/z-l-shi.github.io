@@ -10,8 +10,12 @@ location: "Shenzhen, China"
 
 Sem. A 2023/24
 
-Low-Rank Matrix Approximation
 
-Low-Rank Matrix Recovery
+<a class="button pdf" href="https://li-x-p.github.io/files/Course/numericalComputationMethod/Intro.pdf" rel="permalink">Low-Rank Matrix Approximation</a>
 
-Robust Low-Rank Matrix Recovery
+<a class="button pdf" href="https://li-x-p.github.io/files/Course/numericalComputationMethod/Intro.pdf" rel="permalink">Low-Rank Matrix Recovery</a>
+
+<a class="button pdf" href="https://li-x-p.github.io/files/Course/numericalComputationMethod/Intro.pdf" rel="permalink">Robust Low-Rank Matrix Recovery</a>
+
+
+
