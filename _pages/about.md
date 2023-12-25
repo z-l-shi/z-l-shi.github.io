@@ -70,7 +70,7 @@ var clustrmapsOptions = {
     height: '300px'
 };
 </script>
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=G-l6dDdxrbBGbBmXMk7yQvaku5-ewZ6XA6M6H25O3LQ"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=G-l6dDdxrbBGbBmXMk7yQvaku5-ewZ6XA6M6H25O3LQ&cl=ffffff&w=a"></script>
 
 
 
