@@ -64,8 +64,11 @@ Awards and Honors
 * Graduate with Distinction, City University of Hong Kong, 2018
 * Outstanding Undergraduate, Yanshan University, 2015
 
-
+<hr align="center" size="2" width="100%">
+<!-- Start of CuterCounter Code -->
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=G-l6dDdxrbBGbBmXMk7yQvaku5-ewZ6XA6M6H25O3LQ&cl=ffffff&w=a"></script>
+<!-- End of CuterCounter Code -->
+
 
 
 
