@@ -1,5 +1,5 @@
 ---
-title: "One-bit DoA estimation for feterministic dignal based on l_{2,1}-norm minimization"
+title: "One-bit DoA estimation for deterministic signal based on l{2,1}-norm minimization"
 collection: journals
 permalink: /publication/1bitDoAL21
 date: 2024-1-3
