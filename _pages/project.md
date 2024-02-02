@@ -32,12 +32,19 @@ Experiences
 
 Projects
 ----------
+* 广东省教育厅青年创新人才项目(自然科学)，5万， 2024.01-2025.12，主持
+* 深圳大学青年教师科研启动项目，20万， 2023.11-2025.10， 主持
+* ZF教育部联合创新创队项目，150万，2023.12-2026.12，主要参与人
 
 
+
+  
 Patents
 ----------
-* 李晓鹏，黄磊，基于单比特量化天线阵列的到达角估计方法及相关设备，中国发明专利，ZL 2023 1 0672449.1
+* 李晓鹏，黄磊，基于单比特量化天线阵列的到达角估计方法及相关设备，中国发明专利，ZL202310672449.1
+* 黄磊， 陈明阳，李强，李晓鹏，冯力方，吴沛文，单比特量化 DoA 估计方法、系统和智能终端, 中国发明专利， ZL202311317494.1
 * X. P. Li, C-S Leung and H. C. So，Method and analysis device for tracking market index and unmixing hyperspectral image using modified iterative hard thresholding for nonnegative sparse recovery under sum-to-one，US Patent，US 2023/0230116 A1
+* X. P. Li, M. Wang and H. C. So, Method and electronic device for recovering data using bi-branch neural network,  US2023/0401431A1.
 * Z.-Y. Wang, X. P. Li, H. C. So and A. M. Zourbir，Method and electronic device for recovering data using adaptive rank-one matrix completion，US Patent，US 2023/0205644 A1
 
 
