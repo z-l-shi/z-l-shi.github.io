@@ -30,7 +30,7 @@ Zhang-Lei Shi received the B.Sc. degree in Information and Computing Science and
 </p>
 
 <p class="no-indent">
-His research interests include optimization methods, machine learning, sparse recovery, and low-rank restoration, with applications in target estimation, image recovery, video restoration, hyperspectral unmixing, and stock market analysis.
+His research interests include sparse optimization, robust signal processing, neural network, deep learning, with applications in neural network pruning/quantization , target localization, image recovery, and stock market analysis.
 </p>
 </body>
 
