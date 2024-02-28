@@ -26,7 +26,7 @@ redirect_from:
   
 <body>
 <p class="indent">
-Zhang-Lei Shi received the B.Sc. degree in Information and Computing Science and the M.Sc. degree in Mathematics from China University of Petroleum (East China), Qingdao, China in 2014 and 2017, respectively, and the Ph.D. degree in electrical engineering from the City University of Hong Kong, Hong Kong, SAR, China, in 2021.  From 2018 to 2019, he was a Research Assistant with the Department of Information Engineering, Shenzhen University, Shenzhen, China, and a Postdoctoral Fellow with the Department of Electrical Engineering, City University of Hong Kong from 2022 to 2023. He is currently an Assistant Professor with the College of Electronics and Information Engineering, Shenzhen University.
+Zhang-Lei Shi received the B.Sc. degree in Information and Computing Science and the M.Sc. degree in Mathematics from China University of Petroleum (East China), Qingdao, China in 2014 and 2017, respectively, and the Ph.D. degree in electrical engineering from the City University of Hong Kong, Hong Kong SAR, China, in 2021.  From 2018 to 2019, he was a Research Assistant with the Department of Information Engineering, Shenzhen University, Shenzhen, China, and a Postdoctoral Fellow with the Department of Electrical Engineering, City University of Hong Kong from 2022 to 2023. He is currently an Assistant Professor with the College of Electronics and Information Engineering, Shenzhen University.
 </p>
 
 <p class="no-indent">
