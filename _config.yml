@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Li's Homepage"
+title                    : "Shi Zhang-Lei's Homepage"
 title_separator          : "-"
-name                     : &name "Xiao Peng Li"
+name                     : &name "Zhang-Lei Shi"
 description              : &description "personal description"
 url                      : https://li-x-p.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
