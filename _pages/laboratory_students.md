@@ -18,7 +18,7 @@ Ph.D. Students
 Master Students
 --------
 * DUAN Min (段敏): Sep. 2023 -> ...
-
+* Chen Xiaolin (陈晓琳) (Co-supervisor): Sep. 2023 -> ...
 
 Undergraduate Students
 --------
