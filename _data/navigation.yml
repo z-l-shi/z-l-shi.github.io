@@ -19,8 +19,8 @@ main:
   - title: "Student"
     url: /laboratory_students/
     
-  - title: "Vacancy"
-    url: /join_us/
+  #- title: "Vacancy"
+  #  url: /join_us/
 
  # - title: "Portfolio"
   #   url: /portfolio/
