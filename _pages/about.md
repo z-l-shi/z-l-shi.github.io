@@ -54,12 +54,12 @@ Awards and Honors
 * National EncouragementScholarship, China University of Petroleum (East China), 2011
 
 
-<script>
-var clustrmapsOptions = {
-    width: '300px',
-    height: '300px'
-};
-</script>
+#<script>
+#var clustrmapsOptions = {
+#    width: '300px',
+#    height: '300px'
+#};
+#</script>
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=G-l6dDdxrbBGbBmXMk7yQvaku5-ewZ6XA6M6H25O3LQ&cl=ffffff&w=a"></script>
 
 
