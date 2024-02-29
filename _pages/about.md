@@ -39,7 +39,7 @@ Experiences
 * Lecturer: Mar. 2022 - Present  
   College of Science, China University of Petroleum (East China), Qingdao, China
 * Ph.D degree: Sep. 2017 - Oct. 2021    
-  Department of Electrical Engineering, City University of Hong Kong, Hong Kong, China    
+  Department of Electrical Engineering, City University of Hong Kong, Hong Kong SAR, China    
   Supervisor: Prof. Leung Chi-Sing  
 * M.Sc. degree: Sep. 2014 - Jul. 2017   
   College of Science, China University of Petroleum (East China), Qingdao, China   
