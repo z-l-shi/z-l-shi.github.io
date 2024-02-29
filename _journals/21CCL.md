@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/21CCL
 date: 2021-8-24
 year: "2021"
-venue: "IEEE Transactions on Neural Networks and Learning Systems, Aug. "
+venue: "IEEE Transactions on Neural Networks and Learning Systems, "
 city: 
 state: ""
 thumbnail: "21CCL.png"
