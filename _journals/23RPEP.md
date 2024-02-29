@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "23RPEP.png"
 teaser : 
-authors: " Keyuan Hu, Wenxin Xiong, Yuwei Wang, <b>Zhang-Lei Shi</b>, Ge Cheng, Hing Cheung So and Zhi Wang"
+authors: " K. Hu, W. Xiong, Y. Wang, <b>Z.-L. Shi</b>, G. Cheng, H. C. So and Z. Wang"
 bibtex: 
 uri: 23RPEP.pdf
 arxiv: 
