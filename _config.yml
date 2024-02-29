@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lei's Homepage"
+title                    : "Leilei's Homepage"
 title_separator          : "-"
 name                     : &name "Zhang-Lei Shi"
 description              : &description "personal description"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Shi Zhang-Lei"
   avatar           : "profile.png"
-  bio              : "Assistant Professor"
-  location         : "Shenzhen, China"
-  employer         : "Shenzhen University"
+  bio              : "Ph.D."
+  location         : "Qingdao, China"
+  employer         : "China University of Petroleum (East China)"
   googlescholar    : "https://scholar.google.com.hk/citations?user=eFIPjGUAAAAJ"
   email            : "x.p.li@szu.edu.cn"
   researchgate     : #"https://www.researchgate.net/profile/Xiaopeng-Li-22"
