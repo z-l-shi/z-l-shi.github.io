@@ -56,8 +56,8 @@ Awards and Honors
 
 <script>
 var clustrmapsOptions = {
-    width: '300px',
-    height: '300px'
+    width: '270px',
+    height: '270px'
 };
 </script>
 <script  type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=G-l6dDdxrbBGbBmXMk7yQvaku5-ewZ6XA6M6H25O3LQ&cl=ffffff&w=a"></script>
