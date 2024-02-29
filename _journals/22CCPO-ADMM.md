@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "CCPO-ADMM.png"
 teaser : 
-authors: "<b>Z.-L. Shi<b>, X. P. Li*, C.-S. Leung and H. C. So"
+authors: "<b> Z.-L. Shi <b>, X. P. Li*, C.-S. Leung and H. C. So"
 bibtex: 
 uri: CCPO-ADMM.pdf
 arxiv: 
