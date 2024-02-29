@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "RLRTC.png"
 teaser : 
-authors: "<b> X. P. Li</b> and H. C. So"
+authors: "<b> X. P. Li<b> and H. C. So"
 bibtex: 
 uri: RLRTC.pdf
 arxiv: 
