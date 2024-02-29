@@ -9,7 +9,7 @@ city:
 state: 
 thumbnail: "RMF-MIP.png"
 teaser : 
-authors: " </b>Z.-L. Shi</b>, X. P. Li, W. Li, T. Yan, J. Wang and Y. Fu"
+authors: " </b> Z.-L. Shi </b>, X. P. Li, W. Li, T. Yan, J. Wang and Y. Fu"
 bibtex: 
 uri: RMF-MIP.pdf
 arxiv: 
