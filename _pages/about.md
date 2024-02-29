@@ -49,15 +49,10 @@ Experiences
 
 Awards and Honors
 ----------
-* 深圳市“鹏城孔雀计划”C类人才, 2023
-* Research Tuition Scholarship, City University of Hong Kong, 2022 - 2023
-* Outstanding Academic Performance Award, City University of Hong Kong, 2021 - 2022
-* Research Tuition Scholarship, City University of Hong Kong, 2021 - 2022
-* Outstanding Academic Performance Award, City University of Hong Kong, 2020 - 2021
-* Research Tuition Scholarship, City University of Hong Kong, 2020 - 2021
-* Ph.D. Research Scholarship, City University of Hong Kong, 2019 - 2023
-* Graduate with Distinction, City University of Hong Kong, 2018
-* Outstanding Undergraduate, Yanshan University, 2015
+* Ph.D. Research Scholarship, City University of Hong Kong, 2017 - 2020
+* Outstanding Undergraduate, China University of Petroleum (East China), 2014
+* National EncouragementScholarship, China University of Petroleum (East China), 2011
+
 
 <script>
 var clustrmapsOptions = {
