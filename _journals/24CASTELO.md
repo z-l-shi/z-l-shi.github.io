@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "24CASTELO.png"
 teaser : 
-authors: " Wenxin Xiong, <b>Zhang-Lei Shi</b>, Hing Cheung So, Junli Liang and Zhi Wang"
+authors: " W. Xiong, <b>Z.-L. Shi</b>, H. C. So, J. Liang and Z. Wang"
 bibtex: 
 uri: 24CASTELO.pdf
 arxiv: 
