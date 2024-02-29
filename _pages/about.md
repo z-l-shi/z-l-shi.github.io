@@ -36,22 +36,16 @@ His research interests include sparse optimization, robust signal processing, ne
 
 Experiences
 ----------
-* Assistant Professor: May. 2023 - Present  
-  College of Electronics and Information Engineering, Shenzhen University, Shenzhen, China 
-* Postdoctoral Fellow: Nov. 2022 - May 2023   
-  Department of Electrical Engineering, City University of Hong Kong, Hong Kong, China   
-  Supervisor:  Prof. SO, Hing Cheung (IEEE Fellow)  
-* Ph.D degree: Sep. 2019 - Nov. 2022    
+* Lecturer: Mar. 2022 - Present  
+  College of Science, China University of Petroleum (East China), Qingdao, China
+* Ph.D degree: Sep. 2017 - Oct. 2021    
   Department of Electrical Engineering, City University of Hong Kong, Hong Kong, China    
-  Supervisor: Prof. SO, Hing Cheung (IEEE Fellow)    
-* Research Assistant: Sep. 2018 - Aug. 2019  
-  College of Electronics and Information Engineering, Shenzhen University, Shenzhen, China   
-  Supervisor: Prof. HUANG, Lei (IET Fellow, Distinguished Young Scholar)  
-* M.S degree with distinction: Sep. 2017 - Oct. 2018   
-  Department of Electrical Engineering, City University of Hong Kong, Hong Kong, China    
-  Supervisor: Prof. SO, Hing Cheung (IEEE Fellow)  
-* B.E degree as an outstanding graduate: Sep. 2011 - Jul. 2015     
-  College of Information Engineering, Yanshan University, Qinhuangdao, China  
+  Supervisor: Prof. Leung Chi-Sing  
+* M.Sc. degree: Sep. 2014 - Jul. 2017   
+  College of Science, China University of Petroleum (East China), Qingdao, China   
+  Supervisor: Prof. Li Weiguo  
+* B.Sc. degree as an outstanding graduate: Sep. 2010 - Jul. 2014     
+  College of Science, China University of Petroleum (East China), Qingdao, China
 
 Awards and Honors
 ----------
