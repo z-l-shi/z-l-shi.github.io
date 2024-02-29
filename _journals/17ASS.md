@@ -7,7 +7,7 @@ year: "2017"
 venue: "山东大学学报(理学版), 52(8): 58-64,"
 city: 
 state: ""
-thumbnail: ""
+thumbnail: "17ASS.png"
 teaser : 
 authors: " <b>施章磊</b>, 李维国"
 bibtex: 
