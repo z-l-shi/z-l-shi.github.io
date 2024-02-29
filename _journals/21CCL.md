@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "21CCL.png"
 teaser : 
-authors: "<b> Z.-L. Shi</b>, Hao Wang, and Chi-Sing Leung"
+authors: "<b> Z.-L. Shi</b>, H. Wang, and C.-S. Leung"
 bibtex: 
 uri: 21CCL.pdf
 arxiv: 
