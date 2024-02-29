@@ -19,7 +19,7 @@ Master Students
 
 Undergraduate Students
 --------
-* Yang Jun-Ru
-* Wang Yi-Fan
-* Li Jiang-Ning
+* Yang Jun-Ru (杨君茹): Sep. 2022 -> …
+* Wang Yi-Fan (王怡帆): Sep. 2022 -> …
+* Li Jiang-Ning (李江宁): Sep. 2022 -> …
 
