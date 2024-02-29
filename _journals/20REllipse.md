@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "20REllipse.png"
 teaser : 
-authors: " <b>Zhanglei Shi</b>, Hao Wang, Chi-Sing   Leung, Hing Cheung So, Junli Liang, Kim-Fung Tsang and Anthony Constantinides"
+authors: " <b>Z.-L. Shi</b>, H. Wang, C.-S. Leung, H. C. So, J. Liang, K.-F. Tsang and A. Constantinides"
 bibtex: 
 uri: 20REllipse.pdf
 arxiv: 
