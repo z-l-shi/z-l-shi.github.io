@@ -4,13 +4,13 @@ main:
  #   url: /conferences/
 
 
-  - title: "Publication"
+  - title: "Publications"
     url: /journals/
     
   - title: "Projects"
     url: /project/
     
-  - title: "Activity"
+  - title: "Activities"
     url: /activity/
 
   #- title: "Course"
