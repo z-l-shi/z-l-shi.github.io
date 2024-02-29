@@ -14,7 +14,7 @@ redirect_from:
   
 Master Students
 --------
-* 
+* Awaiting！
 
 
 Undergraduate Students
