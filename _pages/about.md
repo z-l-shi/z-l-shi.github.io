@@ -26,11 +26,11 @@ redirect_from:
   
 <body>
 <p class="indent">
-Zhang-Lei Shi received the B.Sc. degree in Information and Computing Science and the M.Sc. degree in Mathematics from China University of Petroleum (East China), Qingdao, China in 2014 and 2017, respectively, and the Ph.D. degree in Electrical Engineering from the City University of Hong Kong, Hong Kong SAR, China, in 2021.  He is currently with the College of Science, China University of Petroleum (East China), Qingdao, China.
+Zhang-Lei Shi received the B.Sc. degree in Information and Computing Science and the M.Sc. degree in Mathematics from China University of Petroleum (East China), Qingdao, China in 2014 and 2017, respectively, and the Ph.D. degree in Electrical Engineering from the City University of Hong Kong, Hong Kong SAR, China, in 2021. He is currently with the College of Science, China University of Petroleum (East China), Qingdao, China.
 </p>
 
 <p class="no-indent">
-His research interests include sparse optimization, robust signal processing, neural network, deep learning, and their applications in neural network pruning/quantization , target localization, image recovery, and stock market analysis.
+His research interests include sparse optimization, robust signal processing, neural network, deep learning, and their applications in neural network pruning/quantization, target localization, image recovery, and stock market analysis.
 </p>
 </body>
 
