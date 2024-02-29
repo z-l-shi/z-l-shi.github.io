@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Ph.D."
   location         : "Qingdao, China"
-  employer         : "China University of Petroleum (East China)"
+  employer         : "China University of Petroleum"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F5gL1V5yQX8K0ewbqTBwMRSBTP3qtUMCc6WxWSXRGE0BmUmuLiUfRogFNQWximrkUieLG6Zwld6hFWUCD9UZ9I9nGCGtGvZQiy8A-NjO7ImbpnXiBw&user=ceJIzFEAAAAJ"
   email            : "zlshi@upc.edu.cn"
   researchgate     : #"https://www.researchgate.net/profile/Xiaopeng-Li-22"
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "li-x-p"
+  github           : #"li-x-p"
   google_plus      :
   keybase          :
   instagram        :
