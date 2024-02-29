@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/23RPEP
 date: 2023-11-1
 year: "2023"
-venue: "Journal of the Franklin Institute, 360(11): 12150-12169,"
+venue: "Journal of the Franklin Institute, vol. 360, no. 11, pp. 12150-12169,"
 city: 
 state: ""
 thumbnail: "23RPEP.png"
