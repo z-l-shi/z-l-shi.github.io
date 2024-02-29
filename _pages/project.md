@@ -40,14 +40,8 @@ Projects
 
 
   
-Patents
-----------
-* 李晓鹏, 黄磊, 陈明阳, 李强, “双稀疏优化阵列天线的卫星信号稳健捕获方法及相关设备,” 中国发明专利, ZL202310966127.8.
-* 李晓鹏，黄磊，“基于单比特量化天线阵列的到达角估计方法及相关设备”，中国发明专利, ZL202310672449.1
-* 黄磊， 陈明阳，李强，李晓鹏，冯力方，吴沛文，“单比特量化 DoA 估计方法、系统和智能终端,” 中国发明专利, ZL202311317494.1
-* X. P. Li, C-S Leung and H. C. So，“Method and analysis device for tracking market index and unmixing hyperspectral image using modified iterative hard thresholding for nonnegative sparse recovery under sum-to-one,” US Patent, US 2023/0230116 A1
-* X. P. Li, M. Wang and H. C. So, “Method and electronic device for recovering data using bi-branch neural network,” US Patent, US2023/0401431A1.
-* Z.-Y. Wang, X. P. Li, H. C. So and A. M. Zourbir, “Method and electronic device for recovering data using adaptive rank-one matrix completion,” US Patent，US 2023/0205644 A1
+#Patents
+#----------
 
 
 <!--
