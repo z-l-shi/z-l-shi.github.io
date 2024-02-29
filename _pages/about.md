@@ -51,7 +51,7 @@ Awards and Honors
 ----------
 * Ph.D. Research Scholarship, City University of Hong Kong, 2017 - 2020
 * Outstanding Undergraduate, China University of Petroleum (East China), 2014
-* National EncouragementScholarship, China University of Petroleum (East China), 2011
+* National Encouragement Scholarship, China University of Petroleum (East China), 2011
 
 
 #<script>
