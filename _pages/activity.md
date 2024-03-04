@@ -6,7 +6,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-Professional Service:
+Professional Service
 ---------
 1) Journal/Conference Reviewer:  
 * IEEE Transactions on Neural Networks and Learning Systems
@@ -15,5 +15,6 @@ Professional Service:
 * Neural Processing Letters
 * International Conference on Neural Information Processing
   
-
-
+Connections with other excellent researchers
+---------
+* Dr. Xiao Peng Li, https://scholar.google.com/citations?user=eFIPjGUAAAAJ&hl=zh-CN
