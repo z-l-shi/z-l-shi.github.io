@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <br />
-　　Students in our group major in Signal Processing, Neural Networks, Image Processing, Financial Market Prediction, etc.
+Students in our group major in Signal Processing, Neural Networks, Image Processing, Financial Market Prediction, etc.
 
 
   
