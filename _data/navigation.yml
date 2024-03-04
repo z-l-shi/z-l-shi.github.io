@@ -12,12 +12,14 @@ main:
     
   - title: "Activities"
     url: /activity/
-
-  - title: "Researchi Aim"
-    url: /RA/
     
   - title: "Students"
     url: /laboratory_students/
+    
+  - title: "Researchi Aim"
+    url: /RA/
+    
+
     
   #- title: "Vacancy"
   #  url: /join_us/
