@@ -4,14 +4,14 @@ main:
  #   url: /conferences/
 
 
-  #- title: "Publications"
-    #url: /journals/
+  - title: "Publications"
+    url: /journals/
     
   - title: "Projects"
     url: /project/
     
-  - title: "Activities"
-    url: /activity/
+#  - title: "Activities"
+ #   url: /activity/
 
   -title: "Researchi Aim"
     url: /RA/
