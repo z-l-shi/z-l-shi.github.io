@@ -4,8 +4,8 @@ main:
  #   url: /conferences/
 
 
-  - title: "Publications"
-    url: /journals/
+  #- title: "Publications"
+    #url: /journals/
     
   - title: "Projects"
     url: /project/
