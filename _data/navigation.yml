@@ -14,7 +14,7 @@ main:
     url: /activity/
 
   -title: "Researchi Aim"
-    url: /researchi_aim/
+    url: /RA/
     
   - title: "Students"
     url: /laboratory_students/
