@@ -17,4 +17,6 @@ Professional Service
   
 Connections with other excellent researchers
 ---------
-* Dr. Xiao Peng Li, https://scholar.google.com/citations?user=eFIPjGUAAAAJ&hl=zh-CN
+* Prof. 
+* Dr. Xiao Peng Li (li-x-p.github.io)
+* Mr. Maolin Wang (https://morin.wang/)
