@@ -17,7 +17,7 @@ Professional Service
   
 Connections with other excellent researchers
 ---------
-* Prof. Leung Chi-Sing, City University of Hong Kong, [Homepage](https://scholars.cityu.edu.hk/en/persons/chi-sing-andrew-leung(876bf38a-51d9-435b-9a0d-1029a3651641).html)
-* Prof. So Hing Cheung, City University of Hong Kong, [Homepage](https://scholars.cityu.edu.hk/en/persons/hing-cheung-so(c5a26419-5599-4f02-a416-738916471635).html)
-* Dr. Li Xiao Peng, Shenzhen University, [Homepage](https://li-x-p.github.io)
-* Wang Maolin, City University of Hong Kong, [Homepage](https://morin.wang/)
+* Prof. [Leung Chi-Sing](https://scholars.cityu.edu.hk/en/persons/chi-sing-andrew-leung(876bf38a-51d9-435b-9a0d-1029a3651641).html), City University of Hong Kong
+* Prof. [So Hing Cheung](https://scholars.cityu.edu.hk/en/persons/hing-cheung-so(c5a26419-5599-4f02-a416-738916471635).html), City University of Hong Kong
+* Dr. [Li Xiao Peng](https://li-x-p.github.io), Shenzhen University
+* [Wang Maolin](https://morin.wang/), City University of Hong Kong
