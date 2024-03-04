@@ -10,10 +10,10 @@ main:
   - title: "Projects"
     url: /project/
     
-  #- title: "Activities"
-  #  url: /activity/
+   - title: "Activities"
+    url: /activity/
 
-  -title: "Researchi Aim"
+  - title: "Researchi Aim"
    url: /RA/
     
   - title: "Students"
