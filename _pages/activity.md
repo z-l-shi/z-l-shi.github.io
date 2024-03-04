@@ -21,4 +21,4 @@ Connections with other excellent researchers
 * Prof. Hing Cheung So, City University of Hong Kong [Prof. So](https://scholars.cityu.edu.hk/en/persons/hing-cheung-so(c5a26419-5599-4f02-a416-738916471635).html)
 * Dr. Xiao Peng Li, Shenzhen University [Dr. Li](https://li-x-p.github.io)
 * Maolin Wang, City University of Hong Kong [Wang](https://morin.wang/)
-* Wenxin Xiong, University of Freiburg [Xiong]([https://morin.wang/](https://scholar.google.com/citations?user=EfPmjUsAAAAJ&hl=zh-CN)https://scholar.google.com/citations?user=EfPmjUsAAAAJ&hl=zh-CN)
+* Wenxin Xiong, University of Freiburg [Xiong](https://scholar.google.com/citations?user=EfPmjUsAAAAJ&hl=zh-CN)https://scholar.google.com/citations?user=EfPmjUsAAAAJ&hl=zh-CN)
