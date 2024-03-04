@@ -6,5 +6,5 @@ redirect_from:
 ---
 {% include base_path %}
 
-SEE: Simple yet Effective and Efficient Algorithms in practice.
+SEE: Simple yet Efficient and Effective Algorithms in practice.
 ----------
