@@ -10,11 +10,11 @@ main:
   - title: "Projects"
     url: /project/
     
-   - title: "Activities"
+  - title: "Activities"
     url: /activity/
 
   - title: "Researchi Aim"
-   url: /RA/
+    url: /RA/
     
   - title: "Students"
     url: /laboratory_students/
