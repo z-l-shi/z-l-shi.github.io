@@ -13,8 +13,8 @@ main:
   - title: "Activities"
     url: /activity/
 
-  #- title: "Course"
-  #  url: /teaching/
+  -title: "Researchi Aim"
+    url: /researchi_aim/
     
   - title: "Students"
     url: /laboratory_students/
