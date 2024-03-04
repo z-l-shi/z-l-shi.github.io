@@ -2,7 +2,7 @@
 # layout: archive
 # title: "Researchi Aim"
 permalink: /researchi_aim/
-author_profile: researchi_aim
+author_profile: true
 redirect_from:
   - /researchi_aim
 ---
