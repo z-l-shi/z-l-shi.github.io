@@ -17,6 +17,7 @@ Professional Service
   
 Connections with other excellent researchers
 ---------
-* Prof. 
-* Dr. Xiao Peng Li (https://li-x-p.github.io)
-* Mr. Maolin Wang (https://morin.wang/)
+* Prof. Chi-Sing Leung, City University of Hong Kong
+* Prof. Hing Cheung So, City University of Hong Kong
+* Dr. Xiao Peng Li, Shenzhen University (https://li-x-p.github.io)
+* Mr. Maolin Wang, City University of Hong Kong (https://morin.wang/)
