@@ -26,7 +26,7 @@ redirect_from:
   
 <body>
 <p class="indent">
-Zhang-Lei Shi received the B.Sc. degree in Information and Computing Science and the M.Sc. degree in Mathematics from China University of Petroleum (East China), Qingdao, China in 2014 and 2017, respectively, and the Ph.D. degree in Electrical Engineering from the City University of Hong Kong, Hong Kong SAR, China, in 2021. He is currently with the College of Science, China University of Petroleum (East China), Qingdao, China.
+Shi Zhang-Lei received the B.Sc. degree in Information and Computing Science and the M.Sc. degree in Mathematics from China University of Petroleum (East China), Qingdao, China in 2014 and 2017, respectively, and the Ph.D. degree in Electrical Engineering from the City University of Hong Kong, Hong Kong SAR, China, in 2021. He is currently with the College of Science, China University of Petroleum (East China), Qingdao, China.
 </p>
 
 <p class="no-indent">
