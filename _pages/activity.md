@@ -22,3 +22,4 @@ Connections with other excellent researchers
 * Prof. [So Hing Cheung](https://scholars.cityu.edu.hk/en/persons/hing-cheung-so(c5a26419-5599-4f02-a416-738916471635).html), City University of Hong Kong
 * Dr. [Li Xiao Peng](https://li-x-p.github.io), Shenzhen University
 * [Wang Maolin](https://morin.wang/), City University of Hong Kong
+* [Fu Yaru](www.hkmu.edu.hk/yfu), Hong Kong Metropolitan University
