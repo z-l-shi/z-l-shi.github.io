@@ -21,6 +21,6 @@ Connections with other excellent researchers
 * Prof. [Leung Chi-Sing](https://scholars.cityu.edu.hk/en/persons/chi-sing-andrew-leung(876bf38a-51d9-435b-9a0d-1029a3651641).html), City University of Hong Kong
 * Prof. [So Hing Cheung](https://scholars.cityu.edu.hk/en/persons/hing-cheung-so(c5a26419-5599-4f02-a416-738916471635).html), City University of Hong Kong
 * Dr. [Li Xiao Peng](https://li-x-p.github.io), Shenzhen University
-* Dr. [Fu Yaru](www.hkmu.edu.hk/yfu), Hong Kong Metropolitan University
+* Dr. [Fu Yaru](https://www.hkmu.edu.hk/st/people/key-staff/staff-profile/?email=yfu&unit=S&T&po=N/), Hong Kong Metropolitan University
 * [Wang Maolin](https://morin.wang/), City University of Hong Kong
 
