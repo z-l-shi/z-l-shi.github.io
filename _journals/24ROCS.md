@@ -1,7 +1,7 @@
 ---
-title: "ROCS: Robust One-Bit Compressed Sensing with Application to Direction of Arrival"
+title: "ROCS: Robust one-bit compressed sensing with application to direction of arrival"
 collection: journals
-permalink: /publication/24AROCS
+permalink: /publication/24ROCS
 date: 2024-3-26
 year: "2024"
 venue: "IEEE Transactions on Signal Processing"
