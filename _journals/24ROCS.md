@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: ""
 teaser : 
-authors: " Xiao Peng Li, <b>Zhang-Lei Shi</b>, Lei Huang, Anthony Man-Cho So, Hing Cheung So"
+authors: " Xiao Peng Li, <b>Zhang-Lei Shi</b>, Lei Huang, Anthony Man-Cho So, and Hing Cheung So"
 bibtex: 
 uri: #17AS.pdf
 arxiv: 
