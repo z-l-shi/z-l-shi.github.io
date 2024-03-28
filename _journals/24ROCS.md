@@ -7,7 +7,7 @@ year: "2024"
 venue: "IEEE Transactions on Signal Processing"
 city: 
 state: ""
-thumbnail: ""
+thumbnail: "24ROCS.png"
 teaser : 
 authors: " Xiao Peng Li, <b>Zhang-Lei Shi</b>, Lei Huang, Anthony Man-Cho So, and Hing Cheung So"
 bibtex: 
