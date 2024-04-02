@@ -11,12 +11,6 @@ redirect_from:
 Students in our group major in Signal Processing, Neural Networks, Image Processing, Financial Market Prediction, etc.
 
 
-  
-Master Students
---------
-* Awaiting！
-
-
 Undergraduate Students
 --------
 * Yang Jun-Ru (杨君茹): Dec. 2023 -> …
