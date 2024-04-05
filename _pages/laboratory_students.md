@@ -10,6 +10,10 @@ redirect_from:
 <br />
 Students in our group major in Signal Processing, Neural Networks, Image Processing, Financial Market Prediction, etc.
 
+Master Students
+--------
+* Yu Zhang (张钰): Sep. 2024 -> …
+
 
 Undergraduate Students
 --------
