@@ -12,7 +12,7 @@ Students in our group major in Signal Processing, Neural Networks, Image Process
 
 Master Students
 --------
-* Yu Zhang (张钰): Sep. 2024 -> …
+* Zhang Yu (张钰): Sep. 2024 -> …
 
 
 Undergraduate Students
