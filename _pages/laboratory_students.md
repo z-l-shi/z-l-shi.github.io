@@ -12,7 +12,7 @@ Students in our group major in Signal Processing, Neural Networks, Image Process
 
 News
 --------
-* Welcome Zhang Yu（张钰）to join my group being my first master student in September 2024!
+* Welcome Zhang Yu（张钰）to join my group being my first master student in Sep. 2024!
 
 
 Master Students
