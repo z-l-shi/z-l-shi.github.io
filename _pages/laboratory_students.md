@@ -8,7 +8,7 @@ redirect_from:
 ---
 News
 --------
-* Welcome Zhang Yu（张钰）to join my group being my first master student in Sep. 2024!
+* Welcome Zhang Yu (张钰) to join my group being my first master student in Sep. 2024!
 
 
 Master Students
