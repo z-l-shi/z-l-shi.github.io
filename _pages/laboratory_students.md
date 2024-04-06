@@ -7,6 +7,11 @@ redirect_from:
   - /laboratory_students
 ---
 
+News
+--------
+* Welcome Zhang Yu to join my group!
+
+
 <br />
 Students in our group major in Signal Processing, Neural Networks, Image Processing, Financial Market Prediction, etc.
 
