@@ -7,8 +7,6 @@ redirect_from:
   - /laboratory_students
 ---
 <br />
-Students in our group major in Signal Processing, Neural Networks, Image Processing, Financial Market Prediction, etc.
-
 
 News
 --------
