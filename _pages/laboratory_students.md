@@ -6,8 +6,8 @@ redirect_from:
   - /studentmd/
   - /laboratory_students
 ---
-
 {% include base_path %}
+
 News
 --------
 * Welcome Zhang Yu (张钰) to join my group being my first master student in Sep. 2024!
