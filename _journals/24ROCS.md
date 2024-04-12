@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "24ROCS.png"
 teaser : 
-authors: " Xiao Peng Li, <b>Zhang-Lei Shi</b>, Lei Huang, Anthony Man-Cho So, and Hing Cheung So"
+authors: " X. P. Li, <b>Z.-L. Shi</b>, L. Huang, Anthony M.-C. So, and H. C. So"
 bibtex: 
 uri: #17AS.pdf
 arxiv: 
