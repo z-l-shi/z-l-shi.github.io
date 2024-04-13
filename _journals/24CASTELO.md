@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "24CASTELO.png"
 teaser : 
-authors: " W. Xiong, <b>Z.-L. Shi</b>, H. C. So, J. Liang and Z. Wang"
+authors: " W. Xiong, <b>Z.-L. Shi</b>, H. C. So, J. Liang, and Z. Wang"
 bibtex: 
 uri: 24CASTELO.pdf
 arxiv: 
