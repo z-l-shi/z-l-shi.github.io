@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "23RPEP.png"
 teaser : 
-authors: " K. Hu, W. Xiong, Y. Wang, <b>Z.-L. Shi</b>, G. Cheng, H. C. So and Z. Wang"
+authors: " K. Hu, W. Xiong, Y. Wang, <b>Z.-L. Shi</b>, G. Cheng, H. C. So, and Z. Wang"
 bibtex: 
 uri: 23RPEP.pdf
 arxiv: 
