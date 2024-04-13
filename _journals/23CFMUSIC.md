@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "CFMUSIC.png"
 teaser : 
-authors: "X. P. Li, Z. Liu, <b>Z.-L. Shi</b> and H. C. So"
+authors: "X. P. Li, Z. Liu, <b>Z.-L. Shi</b>, and H. C. So"
 bibtex: 
 uri: CFMUSIC.pdf
 arxiv: 
