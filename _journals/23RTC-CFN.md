@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "RTC-CFN.png"
 teaser : 
-authors: " X. P. Li, Z.-Y. Wang, <b>Z.-L. Shi</b>, H. C. So and N. D. Sidiropoulos"
+authors: " X. P. Li, Z.-Y. Wang, <b>Z.-L. Shi</b>, H. C. So, and N. D. Sidiropoulos"
 bibtex: 
 uri: RTC-CFN.pdf
 arxiv: 
