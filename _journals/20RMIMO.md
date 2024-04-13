@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "20RMIMO.png"
 teaser : 
-authors: " <b>Z.-L. Shi</b>, H. Wang, C.-S. Leung and H. C. So"
+authors: " <b>Z.-L. Shi</b>, H. Wang, C.-S. Leung, and H. C. So"
 bibtex: 
 uri: 20RMIMO.pdf
 arxiv: 
