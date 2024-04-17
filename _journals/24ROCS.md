@@ -11,7 +11,7 @@ thumbnail: "24ROCS.png"
 teaser : 
 authors: " X. P. Li, <b>Z.-L. Shi</b>, L. Huang, Anthony M.-C. So, and H. C. So"
 bibtex: 
-uri: #17AS.pdf
+uri: ROCS2024.pdf
 arxiv: 
 project: 
 source: 
