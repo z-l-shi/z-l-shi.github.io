@@ -10,6 +10,7 @@ redirect_from:
 
 News of My Students
 --------
+* Congrats! We have been designated as Meritorious Winner (one team) and Honorable Mention (three teams) in 2024 Mathematical Contest In Modeling (MCM)!
 * Welcome Zhang Yu (张钰) to join my group being my first master student in Sep. 2024!
 
 
