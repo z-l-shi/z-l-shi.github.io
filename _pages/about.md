@@ -49,7 +49,7 @@ Experiences
 
 Awards and Honors
 ----------
-* Meritorious Winner (one team) and Honorable Mention (three teams), 2024 Mathematical Contest In Modeling, 2024
+* Meritorious Winner (one team) and Honorable Mention (three teams), Mathematical Contest In Modeling, 2024
 * Ph.D. Research Scholarship, City University of Hong Kong, 2017 - 2020
 * Outstanding Undergraduate, China University of Petroleum (East China), 2014
 * National Encouragement Scholarship, China University of Petroleum (East China), 2011
