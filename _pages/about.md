@@ -49,7 +49,7 @@ Experiences
 
 Awards and Honors
 ----------
-* 优秀本科毕业设计指导教师，中国石油大学（华东），2024
+* 优秀本科毕业设计指导教师，中国石油大学(华东)，2024
 * Meritorious Winner and Honorable Mention, Mathematical Contest In Modeling, 2024
 * 2022-2023学年“百优班主任”, 中国石油大学(华东), 2023
 * Ph.D. Research Scholarship, City University of Hong Kong, 2017 - 2020
