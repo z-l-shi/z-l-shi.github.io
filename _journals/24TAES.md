@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "L0OS.png"
 teaser : 
-authors: <b>Z.-L. Shi</b>, W. Xiong, X. P. Li*, W. Li, Y. Fu, and H. C. So
+authors: <b>Z.-L. Shi</b>, W. Xiong, X. P. Li, W. Li, Y. Fu, and H. C. So
 bibtex: 
 uri: L0OS.pdf
 arxiv: 
