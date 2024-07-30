@@ -11,7 +11,7 @@ thumbnail: "L0OS.png"
 teaser : 
 authors: <b>Z.-L. Shi</b>, W. Xiong, X. P. Li, W. Li, Y. Fu, and H. C. So
 bibtex: 
-uri: L0OS.pdf
+uri: 24L0OS.pdf
 arxiv: 
 project: 
 source: 
