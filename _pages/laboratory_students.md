@@ -16,11 +16,13 @@ News of My Students
 
 Master Students
 --------
-* Zhang Yu (张钰): Sep. 2024 -> …
+* Zhang Yu (张钰): Sep. 2024 ->
 
 Undergraduate Students
 --------
-* Yang Jun-Ru (杨君茹): Dec. 2023 -> …
-* Wang Yi-Fan (王怡帆): Dec. 2023 -> …
-* Li Jiang-Ning (李江宁): Dec. 2023 -> …
+* Yang Jun-Ru (杨君茹): Dec. 2023 ->
+* Wang Yi-Fan (王怡帆): Dec. 2023 ->
+* Li Jiang-Ning (李江宁): Dec. 2023 ->
+* Yu Min (于敏): Sep. 2024 ->
+* Wang Menhan (王梦涵): Sep. 2024 ->
 
