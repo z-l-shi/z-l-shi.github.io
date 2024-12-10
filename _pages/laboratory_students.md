@@ -26,4 +26,4 @@ Undergraduate Students
 * Yu Min (于敏): Sep. 2024 ->
 * Wang Meng-Han (王梦涵): Sep. 2024 ->
 * Gao Wen-Wen (高雯雯): Oct. 2024 ->
-* Chen Jun-Ming(陈俊名): Oct. 2024 ->
+* Chen Jun-Ming (陈俊名): Oct. 2024 ->
