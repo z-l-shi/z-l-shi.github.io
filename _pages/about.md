@@ -49,7 +49,8 @@ Experiences
 
 Awards and Honors
 ----------
-* 优秀本科毕业设计指导教师，中国石油大学(华东)，2024
+* 第十五届山东省大学生数学竞赛决赛一等奖, 山东省科协、省教育厅等, 2024
+* 优秀本科毕业设计指导教师, 中国石油大学(华东), 2024
 * Meritorious Winner, Mathematical Contest In Modeling, 2024
 * Honorable Mention, Mathematical Contest In Modeling, 2024
 * 2022-2023学年“百优班主任”, 中国石油大学(华东), 2023
