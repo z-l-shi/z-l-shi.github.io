@@ -55,8 +55,8 @@ Awards and Honors
 * 全国大学生数学建模竞赛山东赛区二等奖，山东省教育厅、中国工业与应用数学学会等, 2024
 * 全国大学生数学建模竞赛山东赛区三等奖，山东省教育厅、中国工业与应用数学学会等, 2024
 * 优秀本科毕业设计指导教师, 中国石油大学(华东), 2024
-* Meritorious Winner in Mathematical Contest In Modeling, Society for Industrial and Applied Mathematics, 2024
-* Honorable Mention in Mathematical Contest In Modeling, Society for Industrial and Applied Mathematics, 2024
+* 美国大学生数学建模竞赛M奖, Society for Industrial and Applied Mathematics, 2024
+* 美国大学生数学建模竞赛H奖, Society for Industrial and Applied Mathematics, 2024
 * 2022-2023学年“百优班主任”, 中国石油大学(华东), 2023
 * Ph.D. Research Scholarship, City University of Hong Kong, 2017 - 2020
 * Outstanding Undergraduate, China University of Petroleum (East China), 2014
