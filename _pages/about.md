@@ -49,8 +49,11 @@ Experiences
 
 Awards and Honors
 ----------
+* 全国大学生数学建模大赛二等奖，中国工业与应用数学学会、全国大学生数学建模竞赛组织委员会, 2024
 * 第十五届山东省大学生数学竞赛决赛一等奖, 山东省科协、省教育厅等, 2024
-* 
+* 全国大学生数学建模大赛山东赛区一等奖，山东省教育厅、中国工业与应用数学学会等, 2024
+* 全国大学生数学建模大赛山东赛区二等奖，山东省教育厅、中国工业与应用数学学会等, 2024
+* 全国大学生数学建模大赛山东赛区三等奖，山东省教育厅、中国工业与应用数学学会等, 2024
 * 优秀本科毕业设计指导教师, 中国石油大学(华东), 2024
 * Meritorious Winner in Mathematical Contest In Modeling, Society for Industrial and Applied Mathematics, 2024
 * Honorable Mention in Mathematical Contest In Modeling, Society for Industrial and Applied Mathematics, 2024
