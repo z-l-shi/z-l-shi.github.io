@@ -10,6 +10,7 @@ redirect_from:
 
 Master Students
 --------
+* Xu Zhen-Yuan (许贞愿): Sep. 2025 ->
 * Zhang Yu (张钰): Sep. 2024 ->
 
 Undergraduate Students
