@@ -7,7 +7,7 @@ year: "2025"
 venue: "Signal Processing"
 city: 
 state: ""
-thumbnail: "2025CFN_MIMO.png"
+thumbnail: "2025CFNMIMO.png"
 teaser : 
 authors: J-R Yang, <b>Z.-L. Shi*</b>, X.-P. Li, W. Xiong, Y. Fu, and X. Liang
 bibtex: 
