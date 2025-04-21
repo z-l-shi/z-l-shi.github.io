@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: 
 teaser : 
-authors: J-R Yang, <b>Z.-L. Shi*</b>, X.-P. Li, W. Xiong, Y. Fu, and X. Liang
+authors: "J-R Yang, <b>Z.-L. Shi*</b>, X.-P. Li, W. Xiong, Y. Fu, and X. Liang"
 bibtex: 
 uri: 
 arxiv: 
