@@ -11,7 +11,7 @@ thumbnail: "2025CFN_MIMO.png"
 teaser : 
 authors: J-R Yang, <b>Z.-L. Shi*</b>, X.-P. Li, W. Xiong, Y. Fu, and X. Liang
 bibtex: 
-uri: 2025CFNMIMO.pdf
+uri: 2025CFN_MIMO.pdf
 arxiv: 
 project: 
 source: 
