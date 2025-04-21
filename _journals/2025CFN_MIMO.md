@@ -1,5 +1,5 @@
 ---
-title: "An l0-norm optimization-based algorithm for robust and efficient MIMO localization"
+title: "Adaptive robust MIMO radar target localization via capped Frobenius norm"
 collection: journals
 permalink: /publication/2025CFN_MIMO
 date: 2025-4-19
