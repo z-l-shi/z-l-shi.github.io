@@ -7,11 +7,11 @@ year: "2025"
 venue: "Signal Processing"
 city: 
 state: ""
-thumbnail: 
+thumbnail: 2025CFNMIMO.png
 teaser : 
 authors: "J-R Yang, <b>Z.-L. Shi*</b>, X.-P. Li, W. Xiong, Y. Fu, and X. Liang"
 bibtex: 
-uri: 
+uri: 2025CFNMIMO.pdf
 arxiv: 
 project: 
 source: 
