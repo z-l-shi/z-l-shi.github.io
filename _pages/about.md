@@ -51,6 +51,8 @@ Experiences
 
 Awards and Honors
 ----------
+* 美国大学生数学建模竞赛M奖, Society for Industrial and Applied Mathematics, 2025
+* 美国大学生数学建模竞赛H奖, Society for Industrial and Applied Mathematics, 2025
 * 全国大学生数学建模竞赛本科组二等奖, 中国工业与应用数学学会、全国大学生数学建模竞赛组织委员会, 2024
 * 第十五届山东省大学生数学竞赛决赛一等奖, 山东省科协、省教育厅等, 2024
 * 全国大学生数学建模竞赛山东赛区一等奖, 山东省教育厅、中国工业与应用数学学会等, 2024
