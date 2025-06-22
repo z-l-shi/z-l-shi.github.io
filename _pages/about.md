@@ -51,6 +51,7 @@ Experiences
 
 Awards and Honors
 ----------
+* 优秀本科毕业设计指导教师, 中国石油大学(华东), 2025
 * 美国大学生数学建模竞赛M奖, Society for Industrial and Applied Mathematics, 2025
 * 美国大学生数学建模竞赛H奖, Society for Industrial and Applied Mathematics, 2025
 * 全国大学生数学建模竞赛本科组二等奖, 中国工业与应用数学学会、全国大学生数学建模竞赛组织委员会, 2024
