@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: 
 teaser : 
-authors: "X.-P. Li, <b>Z.-L. Shi</b>, M. Dai, H. C. SO, I. Frerichs, Z. Zhao, and L. Yang"
+authors: "X.-P. Li, <b>Z.-L. Shi</b>, M. Dai, H. C. So, I. Frerichs, Z. Zhao, and L. Yang"
 bibtex: 
 uri: 
 arxiv: 
