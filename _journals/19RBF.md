@@ -7,7 +7,7 @@ year: "2019"
 venue: "IEEE Transactions on Instrumentation and Measurement,"
 city: 
 state: ""
-thumbnail: 19rbf.png
+thumbnail: "19rbf.png"
 teaser : 
 authors: "X.-P. Li, <b>Z.-L. Shi</b>, M. Dai, H. C. So, G. Xue, Z. Zhao, and L. Yang"
 bibtex: 
