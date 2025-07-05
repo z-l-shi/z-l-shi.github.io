@@ -3,7 +3,7 @@ title: "Robust Electrical Impedance Tomography for Respiratory Monitoring"
 collection: journals
 permalink: 
 date: 2025-6-16
-year: "2025"
+year: "2019"
 venue: "IEEE Transactions on Instrumentation and Measurement,"
 city: 
 state: ""
