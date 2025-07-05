@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/24ROCS
 date: 2024-3-26
 year: "2024"
-venue: "IEEE Transactions on Signal Processing"
+venue: "IEEE Transactions on Signal Processing,"
 city: 
 state: ""
 thumbnail: "24ROCS.png"
