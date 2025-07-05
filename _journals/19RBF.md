@@ -1,15 +1,15 @@
 ---
-title: "An l0-norm-based centers selection for failure tolerant RBF networks"
+title: "Robust Electrical Impedance Tomography for Respiratory Monitoring"
 collection: journals
 permalink: 
-date: 2019-2-1
-year: "2019"
-venue: "IEEE Access, vol. 7, pp. 151902-151914,"
+date: 2025-6-16
+year: "2025"
+venue: "IEEE Transactions on Instrumentation and Measurement,"
 city: 
 state: ""
 thumbnail: 
 teaser : 
-authors: " H. Wang, <b>Z.-L. Shi</b>, H. T. Wong, C. S. Leung, H. C. So, and R. Feng"
+authors: "X.-P. Li, <b>Z.-L. Shi</b>, M. Dai, H. C. So, G. Xue, Z. Zhao, and L. Yang"
 bibtex: 
 uri: 
 arxiv: 
