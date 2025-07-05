@@ -4,7 +4,7 @@ collection: journals
 permalink: 
 date: 2025-6-26
 year: "2025"
-venue: "IEEE Transactions on Computational Imaging"
+venue: "IEEE Transactions on Computational Imaging,"
 city: 
 state: ""
 thumbnail: 
