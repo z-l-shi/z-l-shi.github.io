@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: 
 teaser : 
-authors: "H. Wang, <b>Z.-L. Shi</b>, H. T. Wong, C. S. Leung, H. C. So, and R. Feng"
+authors: " H. Wang, <b>Z.-L. Shi</b>, H. T. Wong, C. S. Leung, H. C. So, and R. Feng"
 bibtex: 
 uri: 
 arxiv: 
