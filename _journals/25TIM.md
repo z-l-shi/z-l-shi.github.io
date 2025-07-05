@@ -4,7 +4,7 @@ collection: journals
 permalink: 
 date: 2025-6-16
 year: "2025"
-venue: "IEEE Transactions on Instrumentation and Measurement"
+venue: "IEEE Transactions on Instrumentation and Measurement,"
 city: 
 state: ""
 thumbnail: 
