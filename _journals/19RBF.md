@@ -1,7 +1,7 @@
 ---
 title: "An l0-Norm-Based Centers Selection for Failure Tolerant RBF Networks"
 collection: journals
-permalink: 
+permalink:  
 date: 2019-1-1
 year: "2019"
 venue: "IEEE Access, vol. 7, pp. 151902-151914,"
