@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/L0OS
 date: 2024-7-29
 year: "2024"
-venue: "IEEE Transactions on Aerospace and Electronic Systems"
+venue: "IEEE Transactions on Aerospace and Electronic Systems,"
 city: 
 state: ""
 thumbnail: "L0OS.png"
