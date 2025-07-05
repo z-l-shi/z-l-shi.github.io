@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: 
 teaser : 
-authors: "C. Wang, H. Guo, X. Yan, <b>Z.-L. Shi*</b>, Y. Yang"
+authors: "C. Wang, H. Guo, X. Yan, <b>Z.-L. Shi</b>, Y. Yang"
 bibtex: 
 uri: 
 arxiv: 
