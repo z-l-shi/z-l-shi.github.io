@@ -17,6 +17,7 @@ Professional Service
 * Signal Processing
 * Neural Processing Letters
 * Digital Signal Processing
+* Signal, Image and Video Processing
 * International Conference on Neural Information Processing
   
 Connections with other excellent researchers
