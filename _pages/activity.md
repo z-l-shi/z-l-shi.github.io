@@ -13,9 +13,9 @@ Professional Service
 * IEEE Transactions on Wireless Communications
 * IEEE Transactions on Geoscience and Remote Sensing
 * IEEE Open Journal of Signal Processing
-* Neural Processing Letters
 * Neurocomputing
 * Signal Processing
+* Neural Processing Letters
 * Digital Signal Processing
 * International Conference on Neural Information Processing
   
