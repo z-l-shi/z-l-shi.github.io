@@ -73,7 +73,7 @@ Awards and Honors
 
 <script>
 var clustrmapsOptions = {
-    width: '200px',
+    width: '240px',
     height: '170px'
 };
 </script>
