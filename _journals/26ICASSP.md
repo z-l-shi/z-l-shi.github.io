@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: 
 teaser : 
-authors: "P.-Z. Zheng, <b>Z.-L. Shi*</b>, and X.-P. Li,"
+authors: "P.-Z. Zheng, <b>Z.-L. Shi*</b>, and X.-P. Li"
 bibtex: 
 uri: 
 arxiv: 
