@@ -4,7 +4,7 @@ collection: journals
 permalink: 
 date: 2026-1-16
 year: "2026"
-venue: "2026 IEEE International Conference on Acoustics, Speech, and Signal Processing,"
+venue: "IEEE International Conference on Acoustics, Speech, and Signal Processing,"
 city: 
 state: ""
 thumbnail: 
