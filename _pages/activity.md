@@ -16,6 +16,7 @@ Professional Service
 * Neurocomputing
 * Signal Processing
 * Neural Processing Letters
+* Journal of Supercomputing
 * Digital Signal Processing
 * Signal, Image, and Video Processing
 * International Conference on Neural Information Processing
