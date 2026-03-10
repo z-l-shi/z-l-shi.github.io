@@ -36,9 +36,9 @@ His research interests include sparse optimization, robust signal processing, ne
 
 Experiences
 ----------
-* Associate Professor: Dec. 2024 - Present      
+* Associate Professor: Jan. 2025 - Present      
   College of Science, China University of Petroleum (East China), Qingdao, China
-* Lecturer: Mar. 2022 - Nov. 2024  
+* Lecturer: Mar. 2022 - Dec. 2024  
   College of Science, China University of Petroleum (East China), Qingdao, China
 * Ph.D degree: Sep. 2017 - Oct. 2021    
   Department of Electrical Engineering, City University of Hong Kong, Hong Kong SAR, China    
