@@ -10,8 +10,8 @@ redirect_from:
 
 Master Students
 --------
-* Fu Chen-Xi (付晨曦):Sep. 2026 ->
-* Dong Xuan (董煊):Sep. 2026 ->
+* Fu Chen-Xi (付晨曦): Sep. 2026 ->
+* Dong Xuan (董煊): Sep. 2026 ->
 * Xu Zhen-Yuan (许贞愿): Sep. 2025 ->
 * Zhang Yu (张钰): Sep. 2024 ->
 
