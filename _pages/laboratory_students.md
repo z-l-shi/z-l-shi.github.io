@@ -18,7 +18,7 @@ Master Students
 
 Undergraduate Students
 --------
-* Yang Jun-Ru (杨君茹): Dec. 2023 ->Jul. 2026 (电子科技大学, 硕士)
+* Yang Jun-Ru (杨君茹): Dec. 2023 ->Jul. 2026 (保研, 电子科技大学, 硕士)
 * Wang Yi-Fan (王怡帆): Dec. 2023 ->
-* Li Jiang-Ning (李江宁): Dec. 2023 ->Jul. 2026 (北京理工大学, 硕士)
-* Chen Jun-Ming (陈俊名): Oct. 2024 -> Jul. 2026 (浙江大学, 直博)
+* Li Jiang-Ning (李江宁): Dec. 2023 ->Jul. 2026 (保研, 北京理工大学, 硕士)
+* Chen Jun-Ming (陈俊名): Oct. 2024 -> Jul. 2026 (保研, 浙江大学, 直博)
